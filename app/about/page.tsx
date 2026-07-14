@@ -74,7 +74,8 @@ export default function AboutPage() {
                     <strong className="text-stone-800"> </strong>{" "}
                     {" "}
                     <code className="bg-white border border-stone-200 px-1 py-0.5 rounded text-[13px] text-amber-700">
-                      https://giapha-chiho-pham-thanh-giang-mw6cj92rt-kanpos.vercel.app/dashboard
+                      Chi họ Phạm Văn - Thôn Đan Giáp - Xã Thanh Giang - Huyện Thanh Miện - Tỉnh Hải Dương.
+                      (Ngày nay thuộc Xã Nam Thanh Miện - TP Hải Phòng)
                     </code>{" "}
 
                   </li>
