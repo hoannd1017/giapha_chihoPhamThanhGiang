@@ -94,10 +94,10 @@ export default function AboutPage() {
               <p className="text-stone-600 leading-relaxed text-[15px] mb-8">
                 {` `}
                 <a
-                  href="mailto:giaphaos@homielab.com"
+                  href="mailto:tvsammedia@gmail.com"
                   className="font-semibold text-amber-700 hover:text-amber-600 transition-colors inline-flex items-center gap-1.5 mt-2"
                 >
-                  https://giapha-chiho-pham-thanh-giang-mw6cj92rt-kanpos.vercel.app/dashboard
+                  https://giapha-chiho-pham-thanh-giang-mw6cj92rt-kanpos.vercel.app
                 </a>
               </p>
             </div>

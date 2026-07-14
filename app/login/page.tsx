@@ -28,8 +28,8 @@ export default function LoginPage() {
       const hostname = window.location.hostname;
       if (hostname === config.demoDomain) {
         setIsDemo(true);
-        setEmail("giaphaos@homielab.com");
-        setPassword("giaphaos");
+        setEmail("tvsammedia@gmail.com");
+        setPassword("12345");
       }
     }
   }, []);
