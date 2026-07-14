@@ -97,7 +97,7 @@ export default function AboutPage() {
                   href="mailto:tvsammedia@gmail.com"
                   className="font-semibold text-amber-700 hover:text-amber-600 transition-colors inline-flex items-center gap-1.5 mt-2"
                 >
-                  https://giapha-chiho-pham-thanh-giang-mw6cj92rt-kanpos.vercel.app
+                  Truy cập trang : https://giapha-chiho-pham-thanh-giang.vercel.app/
                 </a>
               </p>
             </div>
