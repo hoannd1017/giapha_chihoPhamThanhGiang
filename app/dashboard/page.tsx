@@ -110,7 +110,7 @@ export default async function DashboardLaunchpad() {
     },
     {
       title: "Giới thiệu & Liên hệ",
-      description: "Thông tin về ứng dụng và đội ngũ phát triển",
+      description: "Thông tin về địa danh",
       icon: <Info className="size-8 text-stone-600" />,
       href: "/about",
       bgColor: "bg-stone-50",
