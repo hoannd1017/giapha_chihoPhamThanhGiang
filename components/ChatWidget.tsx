@@ -7,11 +7,15 @@ import { useEffect, useRef, useState } from "react";
 
 export default function ChatWidget() {
   const [isOpen, setIsOpen] = useState(false);
+  const [input, setInput] = useState("");
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  const { messages, input, handleInputChange, handleSubmit, isLoading } =
-    useChat({ api: "/api/chat" });
+  const { messages, sendMessage, status } = useChat({
+    api: "/api/chat",
+  });
+
+  const isLoading = status === "streaming" || status === "submitted";
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -22,6 +26,17 @@ export default function ChatWidget() {
       setTimeout(() => inputRef.current?.focus(), 300);
     }
   }, [isOpen]);
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!input.trim() || isLoading) return;
+    sendMessage({ text: input });
+    setInput("");
+  };
+
+  const handleSuggestion = (text: string) => {
+    sendMessage({ text });
+  };
 
   return (
     <>
@@ -34,7 +49,6 @@ export default function ChatWidget() {
             transition={{ duration: 0.2, ease: "easeOut" }}
             className="fixed bottom-24 right-6 z-50 w-[380px] max-w-[calc(100vw-48px)] h-[520px] max-h-[calc(100vh-140px)] bg-white rounded-3xl shadow-soft border border-stone-200 flex flex-col overflow-hidden"
           >
-            {/* Header */}
             <div className="bg-gradient-to-r from-amber-500 to-amber-600 text-white px-5 py-4 flex items-center justify-between shrink-0">
               <div className="flex items-center gap-3">
                 <div className="size-9 bg-white/20 rounded-xl flex items-center justify-center backdrop-blur-sm">
@@ -53,7 +67,6 @@ export default function ChatWidget() {
               </button>
             </div>
 
-            {/* Messages */}
             <div className="flex-1 overflow-y-auto px-5 py-4 space-y-4">
               {messages.length === 0 && (
                 <div className="text-center py-8">
@@ -76,14 +89,7 @@ export default function ChatWidget() {
                     ].map((suggestion) => (
                       <button
                         key={suggestion}
-                        onClick={() => {
-                          handleInputChange({
-                            target: { value: suggestion },
-                          } as React.ChangeEvent<HTMLInputElement>);
-                          setTimeout(() => {
-                            handleSubmit();
-                          }, 0);
-                        }}
+                        onClick={() => handleSuggestion(suggestion)}
                         className="text-xs bg-amber-50 text-amber-700 px-3 py-1.5 rounded-full border border-amber-200/50 hover:bg-amber-100 transition-colors"
                       >
                         {suggestion}
@@ -146,7 +152,6 @@ export default function ChatWidget() {
               <div ref={messagesEndRef} />
             </div>
 
-            {/* Input */}
             <form
               onSubmit={handleSubmit}
               className="border-t border-stone-100 px-4 py-3 flex items-center gap-2 shrink-0"
@@ -154,7 +159,7 @@ export default function ChatWidget() {
               <input
                 ref={inputRef}
                 value={input}
-                onChange={handleInputChange}
+                onChange={(e) => setInput(e.target.value)}
                 placeholder="Nhập tin nhắn..."
                 className="flex-1 bg-stone-50 border border-stone-200 rounded-xl px-4 py-2.5 text-[13.5px] text-stone-700 placeholder:text-stone-400 outline-none focus:ring-2 focus:ring-amber-300 focus:border-transparent transition-all"
                 disabled={isLoading}
@@ -171,7 +176,6 @@ export default function ChatWidget() {
         )}
       </AnimatePresence>
 
-      {/* Floating Button */}
       <motion.button
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
