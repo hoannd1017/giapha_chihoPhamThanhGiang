@@ -154,10 +154,15 @@ const toolsConfig = toolDefinitions.reduce(
     acc[tool.name] = {
       description: tool.description,
       parameters: tool.parameters,
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      execute: async (args: any) => {
+        const result = await executeTool(tool.name, args);
+        return { result };
+      },
     };
     return acc;
   },
-  {} as Record<string, { description: string; parameters: object }>,
+  {} as Record<string, { description: string; parameters: object; execute: any }>,
 );
 
 // ── Route Handler ───────────────────────────────────────────────────────────
