@@ -1,6 +1,7 @@
 "use client";
 
 import { useChat } from "@ai-sdk/react";
+import { DefaultChatTransport } from "ai";
 import { AnimatePresence, motion } from "framer-motion";
 import { Bot, MessageCircle, Send, X } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
@@ -12,7 +13,7 @@ export default function ChatWidget() {
   const inputRef = useRef<HTMLInputElement>(null);
 
   const { messages, sendMessage, status } = useChat({
-    api: "/api/chat",
+    transport: new DefaultChatTransport({ api: "/api/chat" }),
   });
 
   const isLoading = status === "streaming" || status === "submitted";
