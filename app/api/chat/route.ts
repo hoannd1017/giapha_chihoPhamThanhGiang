@@ -33,7 +33,7 @@ function toModelMessages(messages: UIMessage[]) {
     } else if (msg.content) {
       text = msg.content;
     }
-    return { role: msg.role, content: text };
+    return { role: msg.role as "user" | "assistant" | "system", content: text };
   });
 }
 
