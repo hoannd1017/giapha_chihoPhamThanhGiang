@@ -44,34 +44,30 @@ export default function AboutPage() {
 
               <div className="bg-stone-50 border border-stone-200/60 rounded-2xl p-6 text-[14.5px] leading-relaxed">
                 <p className="font-bold text-stone-800 mb-4 bg-white py-2 px-3 rounded-lg border border-stone-200 shadow-sm inline-block">
-
+                  Vị trí địa lý
                 </p>
 
                 <ul className="space-y-4 text-stone-600 list-disc pl-5">
                   <li>
                     <strong className="text-stone-800">
-
+                      Chi họ:
                     </strong>{" "}
-
-                    <strong className="text-stone-800">
-
-                    </strong>
-
+                    Phạm Văn
                   </li>
                   <li>
                     <strong className="text-stone-800">
-
+                      Thôn:
                     </strong>{" "}
-
+                    Đan Giáp
                   </li>
                   <li>
                     <strong className="text-stone-800">
-
+                      Xã:
                     </strong>{" "}
-
+                    Thanh Giang
                   </li>
                   <li>
-                    <strong className="text-stone-800"> </strong>{" "}
+                    <strong className="text-stone-800">Địa chỉ: </strong>{" "}
                     {" "}
                     <code className="bg-white border border-stone-200 px-1 py-0.5 rounded text-[13px] text-amber-700">
                       Chi họ Phạm Văn - Thôn Đan Giáp - Xã Thanh Giang - Huyện Thanh Miện - Tỉnh Hải Dương.
@@ -80,6 +76,19 @@ export default function AboutPage() {
 
                   </li>
                 </ul>
+              </div>
+
+              <div className="mt-6 rounded-2xl overflow-hidden border border-stone-200/60 shadow-sm">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59692.66228254608!2d106.19883731987865!3d20.759247630747847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135956d97c45755%3A0x14f3d40b0af9de98!2zVHLhuqFtIFkgVOG6vyBYw6MgVGhhbmggR2lhbmc!5e0!3m2!1svi!2s!4v1787188875940!5m2!1svi!2s"
+                  width="100%"
+                  height="450"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  className="w-full"
+                />
               </div>
 
               <div className="mt-8 mb-4 border-t border-stone-100 pt-8 flex items-center gap-3">
