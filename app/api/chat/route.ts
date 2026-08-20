@@ -1,5 +1,5 @@
 import { google } from "@ai-sdk/google";
-import { streamText } from "ai";
+import { convertToModelMessages, streamText } from "ai";
 
 const systemPrompt = `Bạn là trợ lý AI của ứng dụng "Gia Phả chi họ Phạm - Thanh Giang", một nền tảng quản lý gia phả dòng họ Phạm tại thôn Đan Giáp, xã Thanh Giang, huyện Thanh Miện, tỉnh Hải Dương (nay thuộc xã Nam Thanh Miện, TP Hải Phòng).
 
@@ -20,9 +20,9 @@ export async function POST(req: Request) {
   const { messages } = await req.json();
 
   const result = streamText({
-    model: google("gemini-2.0-flash"),
+    model: google("gemini-2.5-flash"),
     system: systemPrompt,
-    messages,
+    messages: convertToModelMessages(messages),
   });
 
   return result.toTextStreamResponse();
