@@ -1,4 +1,5 @@
 import config from "@/app/config";
+import ChatWidget from "@/components/ChatWidget";
 import DashboardHeader from "@/components/DashboardHeader";
 import Footer from "@/components/Footer";
 import LogoutButton from "@/components/LogoutButton";
@@ -83,6 +84,7 @@ export default async function DashboardLayout({
           className="mt-auto bg-white border-t border-stone-200"
           showDisclaimer={true}
         />
+        <ChatWidget />
       </div>
     </UserProvider>
   );
