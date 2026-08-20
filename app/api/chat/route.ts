@@ -19,10 +19,12 @@ Phong cách: Ngắn gọn, súc tích, giúp đỡ nhiệt tình.`;
 export async function POST(req: Request) {
   const { messages } = await req.json();
 
+  const modelMessages = await convertToModelMessages(messages);
+
   const result = streamText({
     model: google("gemini-2.5-flash"),
     system: systemPrompt,
-    messages: convertToModelMessages(messages),
+    messages: modelMessages,
   });
 
   return result.toTextStreamResponse();
