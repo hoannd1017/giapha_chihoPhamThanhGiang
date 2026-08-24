@@ -210,6 +210,17 @@ CREATE POLICY "Admins can view private details" ON public.person_details_private
 DROP POLICY IF EXISTS "Admins can manage private details" ON public.person_details_private;
 CREATE POLICY "Admins can manage private details" ON public.person_details_private FOR ALL TO authenticated USING (public.is_admin());
 
+-- PUBLIC RESIDENCES VIEW
+-- View chi chua noi o de moi thanh vien xem thong ke vung sinh song.
+-- phone_number / occupation van giu rieng tu (chi Admin).
+CREATE OR REPLACE VIEW public.person_residences AS
+SELECT person_id, current_residence
+FROM public.person_details_private;
+
+REVOKE ALL ON public.person_residences FROM anon;
+REVOKE ALL ON public.person_residences FROM PUBLIC;
+GRANT SELECT ON public.person_residences TO authenticated;
+
 -- RELATIONSHIPS POLICIES
 DROP POLICY IF EXISTS "Enable read access for authenticated users" ON public.relationships;
 CREATE POLICY "Enable read access for authenticated users" ON public.relationships FOR SELECT TO authenticated USING (true);

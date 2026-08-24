@@ -8,6 +8,7 @@ import {
   Flower2,
   Heart,
   HeartOff,
+  MapPin,
   Mars,
   Moon,
   Skull,
@@ -20,6 +21,7 @@ import { useMemo } from "react";
 interface FamilyStatsProps {
   persons: Person[];
   relationships: Relationship[];
+  residences?: Record<string, string>;
 }
 
 interface StatCardProps {
@@ -114,6 +116,7 @@ function GenerationRow({
 export default function FamilyStats({
   persons,
   relationships,
+  residences,
 }: FamilyStatsProps) {
   const stats = useMemo(() => {
     const total = persons.length;
@@ -187,7 +190,28 @@ export default function FamilyStats({
       .map(([name, count]) => ({ name, count }));
 
     const chineseZodiacBreakdown = Array.from(chineseZodiacMap.entries())
-      .sort((a, b) => b[1] - a[1]) // Sort by count descending
+      .sort((a, b) => b[1] - a[1])
+      .map(([name, count]) => ({ name, count }));
+
+    // Vùng sinh sống: nhóm theo tỉnh/thành phố (phần cuối của địa chỉ)
+    const regionMap = new Map<string, number>();
+    let unknownRegion = 0;
+    persons.forEach((p) => {
+      const raw = residences?.[p.id];
+      if (!raw || !raw.trim()) {
+        unknownRegion += 1;
+        return;
+      }
+      const parts = raw
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      const region = parts.length > 0 ? parts[parts.length - 1] : raw.trim();
+      regionMap.set(region, (regionMap.get(region) ?? 0) + 1);
+    });
+
+    const regionBreakdown = Array.from(regionMap.entries())
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "vi"))
       .map(([name, count]) => ({ name, count }));
 
     return {
@@ -203,8 +227,10 @@ export default function FamilyStats({
       generationBreakdown,
       zodiacBreakdown,
       chineseZodiacBreakdown,
+      regionBreakdown,
+      unknownRegion,
     };
-  }, [persons, relationships]);
+  }, [persons, relationships, residences]);
 
   const cards = [
     {
@@ -450,6 +476,96 @@ export default function FamilyStats({
           </motion.div>
         )}
       </div>
+
+      {/* Region Breakdown */}
+      {residences && (
+        <motion.div
+          initial={{ opacity: 0, y: 16 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, delay: 1.1 }}
+          className="card-feature"
+        >
+          <h2 className="text-base font-bold text-stone-700 mb-5 flex items-center gap-2">
+            <MapPin className="size-4 text-emerald-600" />
+            Phân bố theo vùng sinh sống
+          </h2>
+          <div className="space-y-3">
+            {stats.regionBreakdown.map(({ name, count }, i) => {
+              const pct = stats.total > 0 ? (count / stats.total) * 100 : 0;
+              return (
+                <div key={name} className="flex items-center gap-3">
+                  <span
+                    className="text-sm font-bold text-stone-500 w-28 shrink-0 truncate"
+                    title={name}
+                  >
+                    {name}
+                  </span>
+                  <div className="flex-1 h-2 bg-stone-100 rounded-full overflow-hidden">
+                    <motion.div
+                      initial={{ width: 0 }}
+                      animate={{ width: `${pct}%` }}
+                      transition={{
+                        duration: 0.6,
+                        delay: 1.15 + i * 0.07,
+                        ease: "easeOut",
+                      }}
+                      className="h-full bg-emerald-400 rounded-full"
+                    />
+                  </div>
+                  <span className="text-sm font-bold text-stone-700 w-8 text-right shrink-0">
+                    {count}
+                  </span>
+                </div>
+              );
+            })}
+            {stats.unknownRegion > 0 && (
+              <div className="flex items-center gap-3">
+                <span className="text-sm font-medium text-stone-400 w-28 shrink-0 truncate">
+                  Chưa cập nhật
+                </span>
+                <div className="flex-1 h-2 bg-stone-100 rounded-full overflow-hidden">
+                  <motion.div
+                    initial={{ width: 0 }}
+                    animate={{
+                      width:
+                        stats.total > 0
+                          ? `${(stats.unknownRegion / stats.total) * 100}%`
+                          : "0%",
+                    }}
+                    transition={{
+                      duration: 0.6,
+                      delay: 1.15 + stats.regionBreakdown.length * 0.07,
+                      ease: "easeOut",
+                    }}
+                    className="h-full bg-stone-300 rounded-full"
+                  />
+                </div>
+                <span className="text-sm font-bold text-stone-500 w-8 text-right shrink-0">
+                  {stats.unknownRegion}
+                </span>
+              </div>
+            )}
+          </div>
+          {stats.regionBreakdown.length > 0 && (
+            <div className="mt-4 pt-3 border-t border-stone-100 flex flex-wrap gap-x-5 gap-y-1 text-xs text-stone-500">
+              {stats.regionBreakdown.map(({ name, count }) => (
+                <span key={name}>
+                  {name}:{" "}
+                  <span className="font-semibold text-stone-600">
+                    {stats.total > 0
+                      ? Math.round((count / stats.total) * 100)
+                      : 0}
+                    %
+                  </span>
+                </span>
+              ))}
+            </div>
+          )}
+          <p className="text-xs text-stone-400 mt-4 italic">
+            * Nhóm theo tỉnh/thành phố từ nơi ở hiện tại của từng thành viên
+          </p>
+        </motion.div>
+      )}
     </div>
   );
 }
