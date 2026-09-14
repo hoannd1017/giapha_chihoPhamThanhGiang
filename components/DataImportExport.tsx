@@ -71,7 +71,7 @@ export default function DataImportExport() {
         const url = URL.createObjectURL(zipBlob);
         const a = document.createElement("a");
         a.href = url;
-        a.download = `giapha-export-${new Date().toISOString().split("T")[0]}.zip`;
+        a.download = `chihoPhamThanhGiang-giapha-export-${new Date().toISOString().split("T")[0]}.zip`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
