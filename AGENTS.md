@@ -3,21 +3,20 @@
 ## UI
 For any UI work, follow @DESIGN.md strictly. Don't invent new tokens.
 
+## TRIỂN KHAI LOCAL WEB – giapha_chihoPhamThanhGiang
 
-## TRI?N KHAI LOCAL WEB � giapha_chihoPhamThanhGiang
+Mục tiêu: chạy được web Gia Phả OS (Next.js 16 + TypeScript) local, kết nối Supabase để có đầy đủ chức năng đăng ký/đăng nhập, phân quyền và lưu trữ dữ liệu gia phả.
 
-M?c ti�u: ch?y du?c web Gia Ph? OS (Next.js 16 + TypeScript) local, k?t n?i Supabase d? c� d?y d? ch?c nang dang k�/dang nh?p, ph�n quy?n v� luu tr? d? li?u gia ph?.
-
-### 1) Y�u c?u m�i tru?ng
+### 1) Yêu cầu môi trường
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) >= 18.18 (khuy?n ngh? LTS)
-- [Bun](https://bun.sh/) >= 1.2.x (d�ng theo repo)
-- [Supabase Account](https://supabase.com/) (mi?n ph�) � d�ng cho Database + Auth
-- Tr�nh duy?t Chrome/Edge/Firefox
-> Repo n�y d�ng `bun.lock` n�n uu ti�n `bun` thay v� `npm/yarn/pnpm`.
+- [Node.js](https://nodejs.org/) >= 18.18 (khuyến nghị LTS)
+- [Bun](https://bun.sh/) >= 1.2.x (dùng theo repo)
+- [Supabase Account](https://supabase.com/) (miễn phí) – dùng cho Database + Auth
+- Trình duyệt Chrome/Edge/Firefox
+> Repo này dùng `bun.lock` nên ưu tiên `bun` thay vì `npm/yarn/pnpm`.
 
-### 2) Ch?n thu m?c l�m vi?c
-Kh�ng d?t trong c�ng repo `kanposvn`. T?o thu m?c ri�ng b�n c?nh:
+### 2) Chọn thư mục làm việc
+Không đặt trong cùng repo `kanposvn`. Tạo thư mục riêng bên cạnh:
 
 ```powershell
 cd F:\SHARED_HP_OLD\bag_sony_10\sampledart\demo_code\
@@ -30,108 +29,96 @@ cd giapha-web
 git clone https://github.com/hoannd1017/giapha_chihoPhamThanhGiang.git .
 ```
 
-Ki?m tra nhanh:
+Kiểm tra nhanh:
 ```powershell
 dir
 ```
-C?n th?y: `package.json`, `next.config.ts`, `app/`, `components/`, `.env.example`, `docker-compose.yml`, `Dockerfile`, `README.md`.
+Cần thấy: `package.json`, `next.config.ts`, `app/`, `components/`, `.env.example`, `docker-compose.yml`, `Dockerfile`, `README.md`.
 
-### 4) C�i d?t Database � Supabase
-Project n�y d�ng **Supabase** l�m backend: Auth (email/password), Postgres + RLS.
+### 4) Cài đặt Database – Supabase
+Project này dùng **Supabase** làm backend: Auth (email/password), Postgres + RLS.
 
-#### A) D�ng Supabase Cloud (khuy?n ngh?)
-1. Truy c?p [supabase.com](https://supabase.com) ? dang nh?p/dang k�
-2. `New Project` ? d?t t�n (vd. `giapha-local`)
-3. Ch?n Region g?n nh?t ? t?o project (~1�2 ph�t)
-4. V�o `Project Settings > API`
-   - Luu `Project URL` ? `NEXT_PUBLIC_SUPABASE_URL`
-   - Luu `Project API Keys > anon public` ? `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY`
+#### A) Dùng Supabase Cloud (khuyến nghị)
+1. Truy cập [supabase.com](https://supabase.com) → đăng nhập/đăng ký
+2. `New Project` → đặt tên (vd. `giapha-local`)
+3. Chọn Region gần nhất → tạo project (~1–2 phút)
+4. Vào `Project Settings > API`
+   - Lưu `Project URL` → `NEXT_PUBLIC_SUPABASE_URL`
+   - Lưu `Project API Keys > anon public` → `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY`
 
-#### B) D�ng Supabase Local (Docker) � n�ng cao
-Y�u c?u Docker Desktop dang ch?y.
+#### B) Dùng Supabase Local (Docker) – nâng cao
+Yêu cầu Docker Desktop đang chạy.
 ```powershell
-# C�i Supabase CLI n?u chua c�: bun add -g @supabase/cli
+# Cài Supabase CLI nếu chưa có: bun add -g @supabase/cli
 supabase start
 ```
-S? d?ng ANON_KEY/URL local cho `.env.local`.
+Sử dụng ANON_KEY/URL local cho `.env.local`.
 
-> V?i m?c d�ch ch?y local nhanh, **A) Cloud** l� d?.
+> Với mục đích chạy local nhanh, **A) Cloud** là đủ.
 
-### 5) D?ng Database (Schema)
-Repo hi?n t?i kh�ng c� `prisma/schema.prisma` ho?c `supabase/schema.sql` trong root. Theo `README.md`, t�i kho?n **d?u ti�n** dang k� s? du?c t? g�n quy?n `admin`. C?u tr�c b?ng du?c �p d?ng trong code (`utils/supabase`, `context`, `app/api`, ...).
+### 5) Dựng Database (Schema)
+Repo hiện tại không có `prisma/schema.prisma` hoặc `supabase/schema.sql` trong root. Theo `README.md`, tài khoản **đầu tiên** đăng ký sẽ được tự gán quyền `admin`. Cấu trúc bảng được áp dụng trong code (`utils/supabase`, `context`, `app/api`, ...).
 
-**C�ch don gi?n:**
-1. Ho�n th�nh 4 + 6 + 7 + 8
-2. M? `http://localhost:3000`
-3. �ang k� t�i kho?n **d?u ti�n** ? t? d?ng role `admin`
+**Cách đơn giản:**
+1. Hoàn thành 4 + 6 + 7 + 8
+2. Mở `http://localhost:3000`
+3. Đăng ký tài khoản **đầu tiên** → tự động role `admin`
 
-N?u c� `supabase/migrations/` ho?c `supabase/schema.sql` trong repo, ch?y theo hu?ng d?n tuong ?ng.
+Nếu có `supabase/migrations/` hoặc `supabase/schema.sql` trong repo, chạy theo hướng dẫn tương ứng.
 
-### 6) Copy source & c?u h�nh m�i tru?ng
+### 6) Copy source & cấu hình môi trường
 ```powershell
 copy .env.example .env.local
 ```
-M? `.env.local` v� di?n:
+Mở `.env.local` và điền:
 ```env
-SITE_NAME="Gia Ph? OS"
+SITE_NAME="Gia Phả OS"
 NEXT_PUBLIC_SUPABASE_URL="https://your-project.supabase.co"
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY="your-anon-or-public-key"
 GOOGLE_GENERATIVE_AI_API_KEY="your-google-gemini-api-key"
 ```
-> C� th? d? tr?ng `GOOGLE_GENERATIVE_AI_API_KEY` n?u kh�ng d�ng AI.
+> Có thể để trống `GOOGLE_GENERATIVE_AI_API_KEY` nếu không dùng AI.
 
-### 7) C�i d?t dependencies
+### 7) Cài đặt dependencies
 ```powershell
 bun install
 ```
-N?u l?i m?ng: `bun pm cache rm; bun install`
+Nếu lỗi mạng: `bun pm cache rm; bun install`
 
-### 8) Ch?y web tr�n local
+### 8) Chạy web trên local
 ```powershell
 bun run dev
 ```
-Truy c?p [http://localhost:3000](http://localhost:3000)
+Truy cập [http://localhost:3000](http://localhost:3000)
 
-### 9) C?u h�nh Supabase Auth cho localhost
-1. V�o [Supabase Dashboard > Authentication > URL Configuration](https://supabase.com/dashboard/project/_/auth/url-configuration)
+### 9) Cấu hình Supabase Auth cho localhost
+1. Vào [Supabase Dashboard > Authentication > URL Configuration](https://supabase.com/dashboard/project/_/auth/url-configuration)
 2. `Site URL`: `http://localhost:3000`
-3. `Redirect URLs` ? Add URL: `http://localhost:3000/**` ? Save
+3. `Redirect URLs` → Add URL: `http://localhost:3000/**` → Save
 
-### 10) Ki?m tra nhanh
+### 10) Kiểm tra nhanh
 - [ ] `http://localhost:3000` load OK
-- [ ] �ang k� t�i kho?n m?i th�nh c�ng
-- [ ] T�i kho?n d?u ti�n c� quy?n `Admin`
-- [ ] Trang qu?n l�/c�y gia ph? hi?n th? b�nh thu?ng
+- [ ] Đăng ký tài khoản mới thành công
+- [ ] Tài khoản đầu tiên có quyền `Admin`
+- [ ] Trang quản lý/cây gia phả hiển thị bình thường
 
-### 11) Ch?y qua Docker (t�y ch?n)
-C� s?n `Dockerfile` + `docker-compose.yml`. T?o `.env.local` d?y d? tru?c:
+### 11) Chạy qua Docker (tùy chọn)
+Có sẵn `Dockerfile` + `docker-compose.yml`. Tạo `.env.local` đầy đủ trước:
 ```powershell
 docker compose up --build
 ```
-Truy c?p `http://localhost:3000`
+Truy cập `http://localhost:3000`
 
 ### 12) Troubleshooting nhanh
-| L?i | Nguy�n nh�n | C�ch fix |
+| Lỗi | Nguyên nhân | Cách fix |
 |---|---|---|
-| `Failed to fetch` khi auth | Chua th�m `localhost:3000` v�o Auth URL | Bu?c 9 |
-| Blank page / 500 | Sai URL/key trong `.env.local` | Ki?m tra l?i |
-| `Module not found` | Chua `bun install` | Ch?y l?i `bun install` |
-| Port 3000 b?n | Process kh�c dang d�ng | `bun run dev --port 3001` |
+| `Failed to fetch` khi auth | Chưa thêm `localhost:3000` vào Auth URL | Bước 9 |
+| Blank page / 500 | Sai URL/key trong `.env.local` | Kiểm tra lại |
+| `Module not found` | Chưa `bun install` | Chạy lại `bun install` |
+| Port 3000 bận | Process khác đang dùng | `bun run dev --port 3001` |
 
-### 13) Ghi ch� quan tr?ng
-- **KH�NG** commit `.env.local` (d� c� `.gitignore`).
-- **KH�NG** d?t source n�y b�n trong `kanposvn/` (tr�nh nh?m l?n khi backup/commit).
-- Ch? c?n: t?o Supabase project + di?n env + `bun install` + `bun run dev`.
-- Tham kh?o th�m: `DESIGN.md` (UI/UX), `README.md` (deploy).
-
-
-## ONE-CLICK START LOCAL WEB
-
-### Windows (PowerShell/CMD)
-- K�ch d�p `start-local.cmd` (ho?c ch?y `.\start-local.ps1` trong PowerShell)
-- Script s? t? d?ng: ki?m tra Node.js, t?o `.env.local` n?u chua c�, c�i d?t dependencies (`npm ci`/`npm i`), m? tr�nh duy?t `http://localhost:3000`, ch?y `npx next dev --port 3000`
-
-### Linux/macOS
-- Ch?y: `chmod +x start-local.sh && ./start-local.sh`
-
-**Luu �:** N?u m?i t?o `.env.local`, c?n c?p nh?t `NEXT_PUBLIC_SUPABASE_URL` v� `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY` t? Supabase tru?c khi d�ng.
+### 13) Ghi chú quan trọng
+- **KHÔNG** commit `.env.local` (đã có `.gitignore`).
+- **KHÔNG** đặt source này bên trong `kanposvn/` (tránh nhầm lẫn khi backup/commit).
+- Chỉ cần: tạo Supabase project + điền env + `bun install` + `bun run dev`.
+- Tham khảo thêm: `DESIGN.md` (UI/UX), `README.md` (deploy).
