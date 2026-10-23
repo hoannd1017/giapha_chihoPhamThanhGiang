@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Tử Vi</title>
+  <link rel="stylesheet" href="jsdos/js-dos.css">
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+    html, body { width:100%; height:100%; overflow:hidden; background:#000; position:fixed; }
+    #dos { width:100%; height:100%; }
+    #status { position:absolute; top:0; left:0; right:0; bottom:0; display:flex; align-items:center;
+      justify-content:center; color:#fff; font-family:system-ui,sans-serif; font-size:16px; text-align:center;
+      padding:24px; pointer-events:none; }
+    #vk { position:absolute; left:0; right:0; bottom:0; display:none; justify-content:center; align-items:center;
+      gap:6px; padding:6px 8px; padding-bottom:calc(6px + env(safe-area-inset-bottom));
+      background:rgba(0,0,0,0.55);
+      z-index:9998; user-select:none; -webkit-user-select:none; -webkit-touch-callout:none; touch-action:manipulation; }
+    #vk button { flex:1 1 0; min-width:0; max-width:64px; height:46px; padding:0; font-size:20px; line-height:1;
+      color:#fff; background:rgba(255,255,255,0.16); border:1px solid rgba(255,255,255,0.35);
+      border-radius:8px; touch-action:manipulation; }
+    #vk button.wide { max-width:88px; font-size:14px; font-weight:600; }
+    #vk button:active { background:rgba(255,255,255,0.42); }
+    #dbg { position:absolute; top:0; right:0; max-width:46%; max-height:40%; overflow:hidden;
+      background:rgba(0,0,0,0.75); color:#0f0; font-family:Consolas,monospace; font-size:11px;
+      line-height:1.25; white-space:pre-wrap; padding:4px 6px; pointer-events:none; z-index:9999; }
+  </style>
+  <script src="jsdos/js-dos.js"></script>
+</head>
+<body>
+  <div id="dos"></div>
+  
+  <div id="dbg" style="display:none"></div>
+  <div id="vk" style="display:none">
+    <button type="button" aria-label="Trái" onpointerdown="vkPress(event,263)">&larr;</button>
+    <button type="button" aria-label="Phải" onpointerdown="vkPress(event,262)">&rarr;</button>
+    <button type="button" aria-label="Lên" onpointerdown="vkPress(event,265)">&uarr;</button>
+    <button type="button" aria-label="Xuống" onpointerdown="vkPress(event,264)">&darr;</button>
+    <button type="button" class="wide" onpointerdown="vkPress(event,256)">Esc</button>
+    <button type="button" class="wide" onpointerdown="vkPress(event,257)">Enter</button>
+  </div>
+  <script>
+    var dbgEl = document.getElementById("dbg");
+    function dbg(msg) {
+      console.log(msg);
+      dbgEl.textContent = String(msg).slice(-2000);
+    }
+    function showError(msg) {
+      console.error(msg);
+      var s = document.getElementById("status");
+      if (!s) { return; }
+      s.style.display = "flex";
+      s.innerHTML = msg;
+    }
+    function focusCanvas() {
+      var c = document.querySelector("#dos canvas");
+      if (c) {
+        if (!c.hasAttribute("tabindex")) { c.setAttribute("tabindex", "0"); }
+        try { c.focus(); } catch (e) {}
+      }
+    }
+    function vkPress(e, code) {
+      if (e) { e.preventDefault(); e.stopPropagation(); }
+      try { if (window.tuviCi) { window.tuviCi.simulateKeyPress(code); } } catch (err) {}
+      focusCanvas();
+      return false;
+    }
+    var isAndroid = /Android/i.test(navigator.userAgent);
+    if (isAndroid) {
+      document.getElementById("vk").style.display = "flex";
+    }
+    window.addEventListener("load", function () {
+      try {
+        if (typeof Dos !== "function") {
+          showError("Không tải được js-dos runtime.");
+          return;
+        }
+        var base = new URL(".", window.location.href).href;
+        var status = document.getElementById("status");
+        var props = Dos(document.getElementById("dos"), {
+          url: base + "jsdos/tuvi.jsdos",
+          pathPrefix: base + "jsdos/emulators/",
+          autoStart: true,
+          countDownStart: -1,
+          backend: "dosboxX",
+          backendLocked: true,
+          theme: "dark",
+          imageRendering: "pixelated",
+          renderBackend: "canvas",
+          volume: 1.0,
+          onEvent: function (event, ci) {
+            dbg("event: " + event);
+            var realCi = (ci && ci[0]) ? ci[0] : ci;
+            if (event === "ci-ready") {
+              if (status) { status.style.display = "none"; }
+              window.tuviCi = realCi;
+              setTimeout(focusCanvas, 0);
+              setTimeout(focusCanvas, 500);
+              try {
+                realCi.events().onStdout(function (m) {
+                  dbg("[stdout] " + m);
+                });
+              } catch (e) {
+                dbg("stdout hook err: " + e);
+              }
+              var tick = 0;
+              setInterval(function () {
+                tick++;
+                try {
+                  realCi.getRunningProgram().then(function (p) {
+                    dbg("t=" + tick + "s running=" + p + "\n" + dbgEl.textContent.slice(-600));
+                  });
+                } catch (e) {
+                  dbg("run err: " + e);
+                }
+              }, 3000);
+            }
+          }
+        });
+        window.tuviProps = props;
+        document.addEventListener("mousedown", function (e) {
+          if (e.target && e.target.closest && e.target.closest("#vk")) { return; }
+          setTimeout(focusCanvas, 0);
+        });
+        document.addEventListener("keydown", function (e) {
+          var target = e.target;
+          if (target && target.closest && target.closest("#vk")) { return; }
+          // js-dos maps keyCode 46 (".") to internal code 261; forward it manually
+          if (e.keyCode === 46 && window.tuviCi) {
+            e.preventDefault();
+            e.stopPropagation();
+            try { window.tuviCi.simulateKeyPress(261); } catch (err) {}
+            return;
+          }
+          var t = document.activeElement;
+          if (t && t.tagName === "CANVAS") { return; }
+          focusCanvas();
+        });
+      } catch (e) {
+        console.error("js-dos init error: " + e);
+        showError("Lỗi khởi động: " + (e && e.message ? e.message : e));
+      }
+    });
+  </script>
+</body>
+</html>
