@@ -148,7 +148,6 @@ export default async function DashboardLaunchpad() {
       hoverColor: "hover:border-teal-400 hover:shadow-teal-100",
     },
     {
-    {
       title: "Tu Vi DOS",
       description: "Tu Vi DOS (admin only)",
       icon: <Star className="size-8 text-indigo-600" />,
@@ -157,6 +156,7 @@ export default async function DashboardLaunchpad() {
       borderColor: "border-indigo-200/60",
       hoverColor: "hover:border-indigo-400 hover:shadow-indigo-100",
     },
+    {
       title: "Tu Vi Native",
       description: "Tu Vi native (admin only)",
       icon: <Star className="size-8 text-rose-600" />,
