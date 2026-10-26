@@ -5,7 +5,7 @@ import Link from "next/link";
 export default async function TuViPage() {
   const profile = await getProfile();
   const role = profile?.role;
-  const allowed = role === "admin" || role === "editor" || role === "member";
+  const allowed = role === "admin";
 
   if (!allowed) {
     redirect("/dashboard");

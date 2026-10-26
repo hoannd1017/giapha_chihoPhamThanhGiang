@@ -1,11 +1,13 @@
 ﻿import { redirect } from "next/navigation";
-import { getIsAdmin } from "@/utils/supabase/queries";
+import { getProfile } from "@/utils/supabase/queries";
 import Link from "next/link";
 
 export default async function TuViNativePage() {
-  const isAdmin = await getIsAdmin();
+  const profile = await getProfile();
+  const role = profile?.role;
+  const allowed = role === "admin" || role === "editor" || role === "member";
 
-  if (!isAdmin) {
+  if (!allowed) {
     redirect("/dashboard");
   }
 
