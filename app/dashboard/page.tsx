@@ -118,8 +118,8 @@ export default async function DashboardLaunchpad() {
       hoverColor: "hover:border-rose-400 hover:shadow-rose-100",
     },
     {
-      title: "Giá»›i thiá»‡u & LiÃªn há»‡",
-      description: "ThÃ´ng tin vá» Ä‘á»‹a danh",
+      title: "Giới thiệu & Liên hệ",
+      description: "Thông tin về địa danh",
       icon: <Info className="size-8 text-stone-600" />,
       href: "/about",
       bgColor: "bg-stone-50",
@@ -157,8 +157,8 @@ export default async function DashboardLaunchpad() {
       hoverColor: "hover:border-teal-400 hover:shadow-teal-100",
     },
     {
-      title: "Tá»­ Vi Dos",
-      description: "Tá»­ Vi Dos",
+      title: "Tử Vi Dos",
+      description: "Tử Vi Dos",
       icon: <Star className="size-8 text-indigo-600" />,
       href: "/tuvi",
       bgColor: "bg-indigo-50",
