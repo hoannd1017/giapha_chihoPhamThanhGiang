@@ -1,0 +1,10151 @@
+[
+ {
+  "character": "小",
+  "hanViet": "TIỂU",
+  "meaning": "nhỏ",
+  "readings": [
+   "shou",
+   "ko",
+   "chiisai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "二",
+  "hanViet": "NHỊ",
+  "meaning": "hai 2",
+  "readings": [
+   "ni",
+   "futatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "中",
+  "hanViet": "TRUNG",
+  "meaning": "ở giữa, bên trong",
+  "readings": [
+   "chuu",
+   "naka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "三",
+  "hanViet": "TAM",
+  "meaning": "ba - 3",
+  "readings": [
+   "san",
+   "mi",
+   "mitsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "大",
+  "hanViet": "ĐẠI",
+  "meaning": "to, lớn",
+  "readings": [
+   "dai",
+   "tai",
+   "ooki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "四",
+  "hanViet": "TỨ",
+  "meaning": "bốn - 4",
+  "readings": [
+   "yon",
+   "shi",
+   "yotsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "長",
+  "hanViet": "TRƯỜNG",
+  "meaning": "dài, dẫn đầu",
+  "readings": [
+   "chou",
+   "nagai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "五",
+  "hanViet": "NGŨ",
+  "meaning": "năm - 5",
+  "readings": [
+   "go",
+   "itsutsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "半",
+  "hanViet": "BÁN",
+  "meaning": "phân nữa",
+  "readings": [
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "六",
+  "hanViet": "LỤC",
+  "meaning": "sáu- 6",
+  "readings": [
+   "roku",
+   "mutsu",
+   "mui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "分",
+  "hanViet": "PHÂN/ PHẦN",
+  "meaning": "hiểu, phân chia",
+  "readings": [
+   "fun",
+   "bun",
+   "wakaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "七",
+  "hanViet": "THẤT",
+  "meaning": "bảy - 7",
+  "readings": [
+   "shichi",
+   "nanatsu",
+   "nano"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "学",
+  "hanViet": "HỌC",
+  "meaning": "học tập",
+  "readings": [
+   "gaku",
+   "manabu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "八",
+  "hanViet": "BÁT",
+  "meaning": "tám - 8",
+  "readings": [
+   "hachi",
+   "yatsu",
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "校",
+  "hanViet": "HIỆU",
+  "meaning": "trường",
+  "readings": [
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "九",
+  "hanViet": "CỬU",
+  "meaning": "chín- 9",
+  "readings": [
+   "kyuu",
+   "ku",
+   "kokonotsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "生",
+  "hanViet": "SINH",
+  "meaning": "cuộc sống, sống",
+  "readings": [
+   "sei",
+   "ikiru",
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "十",
+  "hanViet": "THẬP",
+  "meaning": "mười - 10",
+  "readings": [
+   "juu",
+   "tou",
+   "ju"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "山",
+  "hanViet": "SƠN",
+  "meaning": "núi",
+  "readings": [
+   "san",
+   "yama"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "百",
+  "hanViet": "BÁCH",
+  "meaning": "một trăm - 100",
+  "readings": [
+   "hyaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "川",
+  "hanViet": "XUYÊN",
+  "meaning": "sông",
+  "readings": [
+   "sen",
+   "kawa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "千",
+  "hanViet": "THIÊN",
+  "meaning": "một ngàn - 1000",
+  "readings": [
+   "sen",
+   "chi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "白",
+  "hanViet": "BẠCH",
+  "meaning": "trắng",
+  "readings": [
+   "haku",
+   "byaku",
+   "shiroi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "万",
+  "hanViet": "VẠN",
+  "meaning": "mười ngàn - 10,000",
+  "readings": [
+   "ban",
+   "man"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "天",
+  "hanViet": "THIÊN",
+  "meaning": "trời, bầu trời",
+  "readings": [
+   "ten",
+   "ama",
+   "ame"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "父",
+  "hanViet": "PHỤ",
+  "meaning": "cha",
+  "readings": [
+   "fu",
+   "chichi",
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "雨",
+  "hanViet": "VŨ",
+  "meaning": "mưa",
+  "readings": [
+   "u",
+   "ama",
+   "ame"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "母",
+  "hanViet": "MẪU",
+  "meaning": "mẹ",
+  "readings": [
+   "bo",
+   "haha",
+   "kaa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "電",
+  "hanViet": "ĐIỆN",
+  "meaning": "điện",
+  "readings": [
+   "den"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "友",
+  "hanViet": "HỮU",
+  "meaning": "bạn",
+  "readings": [
+   "yuu",
+   "tomo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "気",
+  "hanViet": "KHÍ",
+  "meaning": "tinh thần, năng lượng",
+  "readings": [
+   "ki",
+   "ke",
+   "iki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "女",
+  "hanViet": "NỮ",
+  "meaning": "phụ nữ, giới nữ",
+  "readings": [
+   "jo",
+   "onna"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "車",
+  "hanViet": "XA",
+  "meaning": "xe cộ",
+  "readings": [
+   "sha",
+   "kuruma"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "男",
+  "hanViet": "NAM",
+  "meaning": "đàn ông, nam giới",
+  "readings": [
+   "dan",
+   "otoko"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "国",
+  "hanViet": "QUỐC",
+  "meaning": "đất nước, quốc gia",
+  "readings": [
+   "koku",
+   "kuni"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "人",
+  "hanViet": "NHÂN",
+  "meaning": "người",
+  "readings": [
+   "jin",
+   "nin",
+   "hito"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "円",
+  "hanViet": "VIÊN",
+  "meaning": "vòng tròn, đơn vị tiền YEN",
+  "readings": [
+   "en",
+   "marui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "子",
+  "hanViet": "TỬ",
+  "meaning": "con",
+  "readings": [
+   "shi",
+   "ko"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "話",
+  "hanViet": "THOẠI",
+  "meaning": "nói chuyện, câu chuyện",
+  "readings": [
+   "wa",
+   "hanashi",
+   "hanasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "日",
+  "hanViet": "NHẬT",
+  "meaning": "ngày",
+  "readings": [
+   "jitsu",
+   "nichi",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "聞",
+  "hanViet": "VĂN",
+  "meaning": "hỏi, nghe, báo chí",
+  "readings": [
+   "bun",
+   "kiku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "月",
+  "hanViet": "NGUYỆT",
+  "meaning": "mặt trăng",
+  "readings": [
+   "gatsu",
+   "getsu",
+   "tsuki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "食",
+  "hanViet": "THỰC",
+  "meaning": "ăn, bữa ăn",
+  "readings": [
+   "kuu",
+   "shoku",
+   "taberu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "火",
+  "hanViet": "HỎA",
+  "meaning": "lửa",
+  "readings": [
+   "ka",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "読",
+  "hanViet": "ĐỌC",
+  "meaning": "đọc",
+  "readings": [
+   "doku",
+   "yomu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "水",
+  "hanViet": "THỦY",
+  "meaning": "nước",
+  "readings": [
+   "sui",
+   "mizu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "来",
+  "hanViet": "LAI",
+  "meaning": "đến",
+  "readings": [
+   "rai",
+   "kuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "木",
+  "hanViet": "MỘC",
+  "meaning": "cây",
+  "readings": [
+   "moku",
+   "boku",
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "書",
+  "hanViet": "THƯ",
+  "meaning": "sách",
+  "readings": [
+   "sho",
+   "kaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "金",
+  "hanViet": "KIM",
+  "meaning": "vàng",
+  "readings": [
+   "kin",
+   "kon",
+   "kane"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "見",
+  "hanViet": "KIẾN",
+  "meaning": "nhìn, xem",
+  "readings": [
+   "ken",
+   "miru",
+   "mi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "土",
+  "hanViet": "THỔ",
+  "meaning": "đất",
+  "readings": [
+   "do",
+   "to",
+   "tsuchi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "行",
+  "hanViet": "HÀNH/HÀNG",
+  "meaning": "đi đến",
+  "readings": [
+   "gyou",
+   "kou",
+   "iku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "本",
+  "hanViet": "BẢN/ BỔN",
+  "meaning": "sách, đơn vị đếm vật tròn dài",
+  "readings": [
+   "hon"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "出",
+  "hanViet": "XUẤT",
+  "meaning": "rời khỏi, lấy",
+  "readings": [
+   "shutsu",
+   "dasu",
+   "deru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "休",
+  "hanViet": "HƯU",
+  "meaning": "nghỉ ngơi, kỳ nghỉ",
+  "readings": [
+   "kyuu",
+   "yasumi",
+   "yasumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "入",
+  "hanViet": "NHẬP",
+  "meaning": "vào, tham gia",
+  "readings": [
+   "nyuu",
+   "iru",
+   "hairu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "語",
+  "hanViet": "NGỮ",
+  "meaning": "từ ngữ, ngôn ngữ",
+  "readings": [
+   "go",
+   "kataru",
+   "katari"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "会",
+  "hanViet": "HỘI",
+  "meaning": "gặp, hội họp",
+  "readings": [
+   "kai",
+   "e",
+   "au"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "年",
+  "hanViet": "NIÊN",
+  "meaning": "năm",
+  "readings": [
+   "nen",
+   "toshi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "青",
+  "hanViet": "THANH",
+  "meaning": "màu xanh da trời",
+  "readings": [
+   "sei",
+   "shou",
+   "aoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "午",
+  "hanViet": "NGỌ",
+  "meaning": "giữa trưa",
+  "readings": [
+   "go"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "赤",
+  "hanViet": "XÍCH",
+  "meaning": "màu đỏ",
+  "readings": [
+   "seki",
+   "shaku",
+   "akai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "前",
+  "hanViet": "TIỀN",
+  "meaning": "phía trước, trước",
+  "readings": [
+   "zen",
+   "mae"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "明",
+  "hanViet": "MINH",
+  "meaning": "ánh sáng",
+  "readings": [
+   "mei",
+   "myou",
+   "akarui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "後",
+  "hanViet": "HẬU",
+  "meaning": "phía sau, sau",
+  "readings": [
+   "go",
+   "kou",
+   "ushiro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "秋",
+  "hanViet": "THU",
+  "meaning": "mùa Thu",
+  "readings": [
+   "shuu",
+   "aki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "時",
+  "hanViet": "THỜI",
+  "meaning": "thời gian",
+  "readings": [
+   "ji",
+   "toki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "空",
+  "hanViet": "KHÔNG",
+  "meaning": "không khí, trống rỗng",
+  "readings": [
+   "kuu",
+   "kara",
+   "sora"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "間",
+  "hanViet": "GIAN",
+  "meaning": "ở giữa, thời gian, căn phòng",
+  "readings": [
+   "kan",
+   "aida",
+   "ma"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "開",
+  "hanViet": "KHAI",
+  "meaning": "mở",
+  "readings": [
+   "kai",
+   "hiraku",
+   "akeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "毎",
+  "hanViet": "MAI",
+  "meaning": "mỗi",
+  "readings": [
+   "mai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "悪",
+  "hanViet": "ÁC",
+  "meaning": "xấu, ác",
+  "readings": [
+   "aku",
+   "warui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "先",
+  "hanViet": "TIÊN",
+  "meaning": "trước tiên, đầu tiên",
+  "readings": [
+   "sen",
+   "saki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "朝",
+  "hanViet": "TRIỀU",
+  "meaning": "buổi sáng",
+  "readings": [
+   "chou",
+   "asa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "今",
+  "hanViet": "KIM",
+  "meaning": "bây giờ, hiện tại",
+  "readings": [
+   "kon",
+   "kin",
+   "ima"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "字",
+  "hanViet": "TỰ",
+  "meaning": "chữ viết, ký tự",
+  "readings": [
+   "ji",
+   "aza"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "何",
+  "hanViet": "HÀ",
+  "meaning": "cái gì, mấy cái",
+  "readings": [
+   "ka",
+   "nan",
+   "nani"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "足",
+  "hanViet": "TÚC",
+  "meaning": "bàn chân, đầy đủ",
+  "readings": [
+   "ashi",
+   "soku",
+   "tariru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "上",
+  "hanViet": "THƯỢNG",
+  "meaning": "phía trên, ở trên",
+  "readings": [
+   "jou",
+   "ue"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "味",
+  "hanViet": "VỊ",
+  "meaning": "mùi vị",
+  "readings": [
+   "mi",
+   "aji"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "下",
+  "hanViet": "HẠ",
+  "meaning": "phía dưới, ở dưới",
+  "readings": [
+   "ka",
+   "ge",
+   "shita"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "新",
+  "hanViet": "TÂN",
+  "meaning": "mới",
+  "readings": [
+   "shin",
+   "atarashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "左",
+  "hanViet": "TẢ",
+  "meaning": "bên trái",
+  "readings": [
+   "sa",
+   "hidari"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "集",
+  "hanViet": "TẬP",
+  "meaning": "sưu tập, thu gom",
+  "readings": [
+   "shuu",
+   "atsumeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "右",
+  "hanViet": "HỮU",
+  "meaning": "bên phải",
+  "readings": [
+   "yuu",
+   "migi",
+   "u"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "兄",
+  "hanViet": "HUYNH",
+  "meaning": "anh trai",
+  "readings": [
+   "kei",
+   "kyou",
+   "ani"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "東",
+  "hanViet": "ĐÔNG",
+  "meaning": "phía Đông",
+  "readings": [
+   "tou",
+   "higashi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "姉",
+  "hanViet": "TỶ",
+  "meaning": "chị gái",
+  "readings": [
+   "shi",
+   "ane"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "西",
+  "hanViet": "TÂY",
+  "meaning": "phía Tây",
+  "readings": [
+   "sei",
+   "sai",
+   "nishi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "歩",
+  "hanViet": "BỘ",
+  "meaning": "đi bộ, bước chân",
+  "readings": [
+   "ho",
+   "bu",
+   "aruku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "南",
+  "hanViet": "NAM",
+  "meaning": "phía Nam",
+  "readings": [
+   "nan",
+   "minami"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "有",
+  "hanViet": "HỮU",
+  "meaning": "có",
+  "readings": [
+   "yuu",
+   "u",
+   "aru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "北",
+  "hanViet": "BẮC",
+  "meaning": "phía Bắc",
+  "readings": [
+   "hoku",
+   "kita"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "安",
+  "hanViet": "AN",
+  "meaning": "rẻ, an toàn",
+  "readings": [
+   "an",
+   "yasui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "外",
+  "hanViet": "NGOẠI",
+  "meaning": "bên ngoài",
+  "readings": [
+   "gai",
+   "hoka",
+   "soto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "医",
+  "hanViet": "Y",
+  "meaning": "bác sĩ, y học",
+  "readings": [
+   "i"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "名",
+  "hanViet": "DANH",
+  "meaning": "tên, nổi tiếng",
+  "readings": [
+   "mei",
+   "myou",
+   "na"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "意",
+  "hanViet": "Ý",
+  "meaning": "chú ý, ý nghĩa",
+  "readings": [
+   "i"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "高",
+  "hanViet": "CAO",
+  "meaning": "cao, đắt tiền",
+  "readings": [
+   "kou",
+   "takai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "以",
+  "hanViet": "DĨ",
+  "meaning": "từ, bởi vì",
+  "readings": [
+   "i"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "言",
+  "hanViet": "NGÔN",
+  "meaning": "nói, ngôn từ",
+  "readings": [
+   "gen",
+   "koto",
+   "iu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "着",
+  "hanViet": "CHƯỚC",
+  "meaning": "mặc(áo), đến nơi",
+  "readings": [
+   "chaku",
+   "jyaku",
+   "kiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "家",
+  "hanViet": "GIA",
+  "meaning": "nhà",
+  "readings": [
+   "ka",
+   "ya",
+   "ie"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "究",
+  "hanViet": "CỨU",
+  "meaning": "nghiên cứu",
+  "readings": [
+   "kyuu",
+   "ku",
+   "kiwameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "急",
+  "hanViet": "CẤP",
+  "meaning": "vội vàng",
+  "readings": [
+   "kyuu",
+   "isogu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "去",
+  "hanViet": "KHỨ",
+  "meaning": "quá khứ, trãi qua",
+  "readings": [
+   "kyo",
+   "ko",
+   "saru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "犬",
+  "hanViet": "KHUYỂN",
+  "meaning": "con chó",
+  "readings": [
+   "ken",
+   "inu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "京",
+  "hanViet": "KINH",
+  "meaning": "thành phố, kinh đô",
+  "readings": [
+   "kyou",
+   "miyako",
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "妹",
+  "hanViet": "MUỘI",
+  "meaning": "em gái",
+  "readings": [
+   "mai",
+   "imouto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "強",
+  "hanViet": "CƯỜNG",
+  "meaning": "mạnh, lực lượng",
+  "readings": [
+   "kyou",
+   "gou",
+   "tsuyoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "色",
+  "hanViet": "SẮC",
+  "meaning": "màu sắc",
+  "readings": [
+   "iro",
+   "shoku",
+   "shiki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "業",
+  "hanViet": "NGHIỆP",
+  "meaning": "nghề nghiệp",
+  "readings": [
+   "gyou",
+   "gou",
+   "waza"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "音",
+  "hanViet": "THANH",
+  "meaning": "âm thanh",
+  "readings": [
+   "oto",
+   "on",
+   "ne"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "切",
+  "hanViet": "THIẾT",
+  "meaning": "cắt, quan trọng",
+  "readings": [
+   "setsu",
+   "sai",
+   "kiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "員",
+  "hanViet": "VIÊN",
+  "meaning": "nhân viên",
+  "readings": [
+   "in"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "近",
+  "hanViet": "CẬN",
+  "meaning": "gần, sớm",
+  "readings": [
+   "kin",
+   "kon",
+   "chikai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "院",
+  "hanViet": "VIỆN",
+  "meaning": "viện, tòa nhà",
+  "readings": [
+   "in"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "銀",
+  "hanViet": "NGÂN",
+  "meaning": "bạc",
+  "readings": [
+   "gin",
+   "shirogane"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "飲",
+  "hanViet": "ẨM",
+  "meaning": "uống",
+  "readings": [
+   "in",
+   "nomu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "口",
+  "hanViet": "KHẨU",
+  "meaning": "miệng",
+  "readings": [
+   "kou",
+   "ku",
+   "kuchi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "魚",
+  "hanViet": "NGƯ",
+  "meaning": "cá",
+  "readings": [
+   "sakana",
+   "gyo",
+   "uo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "工",
+  "hanViet": "CÔNG",
+  "meaning": "xây dựng, nhà máy",
+  "readings": [
+   "kou",
+   "ku",
+   "gu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "動",
+  "hanViet": "ĐỘNG",
+  "meaning": "di chuyển",
+  "readings": [
+   "ugoku",
+   "dou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "黒",
+  "hanViet": "HẮC",
+  "meaning": "màu đen",
+  "readings": [
+   "koku",
+   "kuro",
+   "kuroi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "牛",
+  "hanViet": "NGƯU",
+  "meaning": "con bò",
+  "readings": [
+   "gyuu",
+   "ushi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "計",
+  "hanViet": "KẾ",
+  "meaning": "kế hoạch, đo lường",
+  "readings": [
+   "kei",
+   "hakaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "歌",
+  "hanViet": "CA",
+  "meaning": "ca hát, bài hát",
+  "readings": [
+   "ka",
+   "uta",
+   "utau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "研",
+  "hanViet": "NGHIÊN",
+  "meaning": "học tập, nghiên cứu",
+  "readings": [
+   "ken",
+   "togu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "写",
+  "hanViet": "TẢ",
+  "meaning": "sao chép, chụp",
+  "readings": [
+   "sha",
+   "utsusu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "建",
+  "hanViet": "KIẾN",
+  "meaning": "xây dựng",
+  "readings": [
+   "ken",
+   "kon",
+   "tateru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "映",
+  "hanViet": "ẢNH",
+  "meaning": "phim ảnh, sao chụp",
+  "readings": [
+   "ei",
+   "utsuru",
+   "utsusu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "験",
+  "hanViet": "NGHIỆM",
+  "meaning": "kỳ thi, thử thách",
+  "readings": [
+   "ken",
+   "tamesu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "海",
+  "hanViet": "HẢI",
+  "meaning": "biển, đại dương",
+  "readings": [
+   "kai",
+   "umi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "古",
+  "hanViet": "CỔ",
+  "meaning": "cũ, cổ",
+  "readings": [
+   "ko",
+   "furui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "売",
+  "hanViet": "MÃI",
+  "meaning": "bán",
+  "readings": [
+   "bai",
+   "uri",
+   "uru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "広",
+  "hanViet": "QUẢNG",
+  "meaning": "rộng, quảng bá",
+  "readings": [
+   "kou",
+   "hiroi",
+   "hiromeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "運",
+  "hanViet": "VẬN",
+  "meaning": "vận chuyển, may mắn",
+  "readings": [
+   "un",
+   "hakobu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "心",
+  "hanViet": "TÂM",
+  "meaning": "tim, tấm lòng",
+  "readings": [
+   "shin",
+   "kokoro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "重",
+  "hanViet": "TRỌNG/ TRÙNG",
+  "meaning": "nặng, quan trọng",
+  "readings": [
+   "juu",
+   "chou",
+   "omoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "試",
+  "hanViet": "THÍ",
+  "meaning": "thử thách, thi cử",
+  "readings": [
+   "shi",
+   "kokoromiru",
+   "tamesu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "英",
+  "hanViet": "ANH",
+  "meaning": "sáng, tài năng, nước Anh",
+  "readings": [
+   "ei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "答",
+  "hanViet": "ĐÁP",
+  "meaning": "giải đáp, đáp ứng",
+  "readings": [
+   "tou",
+   "kotaeru",
+   "kotae"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "駅",
+  "hanViet": "DỊCH",
+  "meaning": "nhà ga",
+  "readings": [
+   "eki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "事",
+  "hanViet": "SỰ",
+  "meaning": "sự việc",
+  "readings": [
+   "ji",
+   "zu",
+   "koto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "終",
+  "hanViet": "CHUNG",
+  "meaning": "kết thúc, cuối cùng",
+  "readings": [
+   "shuu",
+   "owari",
+   "tsui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "転",
+  "hanViet": "CHUYỂN",
+  "meaning": "di chuyển, quay lại",
+  "readings": [
+   "ten"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "多",
+  "hanViet": "ĐA",
+  "meaning": "nhiều, đông",
+  "readings": [
+   "ta",
+   "ooi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "作",
+  "hanViet": "TÁC",
+  "meaning": "chế tạo, sáng tác",
+  "readings": [
+   "saku",
+   "sa",
+   "tsukuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "起",
+  "hanViet": "KHỞI",
+  "meaning": "thức dậy, khởi sự",
+  "readings": [
+   "ki",
+   "okiru",
+   "okosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "茶",
+  "hanViet": "TRÀ",
+  "meaning": "trà",
+  "readings": [
+   "cha",
+   "sa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "屋",
+  "hanViet": "ỐC",
+  "meaning": "căn phòng, tiệm",
+  "readings": [
+   "oku",
+   "ya"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "早",
+  "hanViet": "TẢO",
+  "meaning": "sớm",
+  "readings": [
+   "sou",
+   "hayai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "送",
+  "hanViet": "TỐNG",
+  "meaning": "gửi",
+  "readings": [
+   "sou",
+   "okuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "止",
+  "hanViet": "CHỈ",
+  "meaning": "ngừng lại, dừng lại",
+  "readings": [
+   "shi",
+   "tomaru",
+   "tomeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "教",
+  "hanViet": "GIÁO",
+  "meaning": "dạy, tôn giáo",
+  "readings": [
+   "kyou",
+   "oshieru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "自",
+  "hanViet": "TỰ",
+  "meaning": "tự mình, bản thân",
+  "readings": [
+   "ji",
+   "shi",
+   "mizukara"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "弟",
+  "hanViet": "ĐỆ",
+  "meaning": "em trai",
+  "readings": [
+   "dai",
+   "tei",
+   "otouto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "仕",
+  "hanViet": "SĨ",
+  "meaning": "phục vụ",
+  "readings": [
+   "shi",
+   "ji",
+   "tsukaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "同",
+  "hanViet": "ĐỒNG",
+  "meaning": "giống nhau",
+  "readings": [
+   "dou",
+   "onaji"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "死",
+  "hanViet": "TỬ",
+  "meaning": "chết, cái chết",
+  "readings": [
+   "shi",
+   "shinu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "主",
+  "hanViet": "CHỦ",
+  "meaning": "chủ nhân",
+  "readings": [
+   "shu",
+   "su",
+   "nushi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "始",
+  "hanViet": "THỦY",
+  "meaning": "khởi đầu, bắt đầu",
+  "readings": [
+   "shi",
+   "hajimeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "思",
+  "hanViet": "TƯ",
+  "meaning": "suy nghĩ",
+  "readings": [
+   "shi",
+   "omou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "使",
+  "hanViet": "SỬ/ SỨ",
+  "meaning": "sử dụng",
+  "readings": [
+   "shi",
+   "tsukau",
+   "tsukai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "親",
+  "hanViet": "THÂN",
+  "meaning": "cha mẹ, thân thích",
+  "readings": [
+   "shin",
+   "oya",
+   "shitashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "私",
+  "hanViet": "TƯ",
+  "meaning": "tôi, riêng tư",
+  "readings": [
+   "shi",
+   "watashi",
+   "watakushi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "花",
+  "hanViet": "HOA",
+  "meaning": "hoa",
+  "readings": [
+   "ka",
+   "ke",
+   "hana"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "地",
+  "hanViet": "ĐỊA",
+  "meaning": "đất",
+  "readings": [
+   "chi",
+   "ji"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "夏",
+  "hanViet": "HẠ",
+  "meaning": "mùa Hè",
+  "readings": [
+   "ka",
+   "natsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "持",
+  "hanViet": "TRÌ",
+  "meaning": "có, cầm",
+  "readings": [
+   "ji",
+   "motsu",
+   "moteru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "画",
+  "hanViet": "HỌA",
+  "meaning": "bức tranh, nét vẽ",
+  "readings": [
+   "ga",
+   "kaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "質",
+  "hanViet": "CHẤT",
+  "meaning": "chất lượng, tính chất",
+  "readings": [
+   "shitsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "界",
+  "hanViet": "GIỚI",
+  "meaning": "thế giới, giới thiệu",
+  "readings": [
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "室",
+  "hanViet": "THẤT",
+  "meaning": "căn phòng",
+  "readings": [
+   "shitsu",
+   "muro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "買",
+  "hanViet": "MÃI",
+  "meaning": "mua",
+  "readings": [
+   "bai",
+   "kau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "品",
+  "hanViet": "PHẨM",
+  "meaning": "sản phẩm, phẩm chất",
+  "readings": [
+   "hin",
+   "shina"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "帰",
+  "hanViet": "QUY",
+  "meaning": "quay về, trở về",
+  "readings": [
+   "ki",
+   "kaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "社",
+  "hanViet": "XÃ",
+  "meaning": "xã hội, công ty",
+  "readings": [
+   "sha",
+   "yashiro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "代",
+  "hanViet": "ĐẠI",
+  "meaning": "thế hệ, thời đại",
+  "readings": [
+   "dai",
+   "yo",
+   "kawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "者",
+  "hanViet": "GIẢ",
+  "meaning": "người",
+  "readings": [
+   "sha",
+   "mono"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "楽",
+  "hanViet": "NHẠC",
+  "meaning": "âm nhạc, nhẹ nhàng, vui",
+  "readings": [
+   "gaku",
+   "raku",
+   "tanoshii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "手",
+  "hanViet": "THỦ",
+  "meaning": "bàn tay",
+  "readings": [
+   "shu",
+   "zu",
+   "te"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "風",
+  "hanViet": "PHONG",
+  "meaning": "gió, phong cách",
+  "readings": [
+   "fuu",
+   "fu",
+   "kaze"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "週",
+  "hanViet": "CHU",
+  "meaning": "tuần",
+  "readings": [
+   "shuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "貸",
+  "hanViet": "THẢI",
+  "meaning": "cho mượn",
+  "readings": [
+   "tai",
+   "kasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "習",
+  "hanViet": "TẬP",
+  "meaning": "học tập",
+  "readings": [
+   "shuu",
+   "ju",
+   "narau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "方",
+  "hanViet": "PHƯƠNG",
+  "meaning": "phương hướng, người, vị",
+  "readings": [
+   "hou",
+   "kata"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "住",
+  "hanViet": "TRÚ",
+  "meaning": "sinh sống, cư trú",
+  "readings": [
+   "juu",
+   "chuu",
+   "sumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "紙",
+  "hanViet": "CHỈ",
+  "meaning": "giấy",
+  "readings": [
+   "shi",
+   "kami"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "春",
+  "hanViet": "XUÂN",
+  "meaning": "mùa Xuân",
+  "readings": [
+   "shun",
+   "haru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "通",
+  "hanViet": "THÔNG",
+  "meaning": "giao thông, thông qua, lui tới",
+  "readings": [
+   "tsuu",
+   "tooru",
+   "toori"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "正",
+  "hanViet": "CHÍNH",
+  "meaning": "đúng",
+  "readings": [
+   "sei",
+   "shou",
+   "tadashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "体",
+  "hanViet": "THỂ",
+  "meaning": "cơ thể, hình thức",
+  "readings": [
+   "tai",
+   "karada",
+   "katachi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "少",
+  "hanViet": "THIỂU",
+  "meaning": "ít, số ít",
+  "readings": [
+   "shou",
+   "sukunai",
+   "sukoshi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "借",
+  "hanViet": "TÁ",
+  "meaning": "mượn",
+  "readings": [
+   "shaku",
+   "kariru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "場",
+  "hanViet": "TRƯỜNG",
+  "meaning": "vùng, nơi chốn",
+  "readings": [
+   "jou",
+   "chou",
+   "ba"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "漢",
+  "hanViet": "HÁN T",
+  "meaning": "rung quốc, chữ Hán",
+  "readings": [
+   "kan",
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "知",
+  "hanViet": "TRI",
+  "meaning": "biết, tri thức",
+  "readings": [
+   "chi",
+   "shiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "館",
+  "hanViet": "QUÁN",
+  "meaning": "tòa nhà, nơi chốn",
+  "readings": [
+   "kan",
+   "yakata"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "真",
+  "hanViet": "CHÂN",
+  "meaning": "sự thật, chân thật",
+  "readings": [
+   "shin",
+   "ma",
+   "makoto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "元",
+  "hanViet": "NGUYÊN",
+  "meaning": "bắt đầu, nguồn gốc",
+  "readings": [
+   "gen",
+   "gan",
+   "moto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "図",
+  "hanViet": "ĐỒ",
+  "meaning": "bản đồ",
+  "readings": [
+   "zu",
+   "to",
+   "hakaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "考",
+  "hanViet": "KHẢO",
+  "meaning": "suy nghĩ, xem xét",
+  "readings": [
+   "kou",
+   "kangaeru",
+   "kangae"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "世",
+  "hanViet": "THẾ",
+  "meaning": "thế giới, đời, thời đại",
+  "readings": [
+   "sei",
+   "se",
+   "yo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "夕",
+  "hanViet": "TỊCH",
+  "meaning": "buổi chiều, hoàng hôn",
+  "readings": [
+   "seki",
+   "yuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "頭",
+  "hanViet": "ĐẦU",
+  "meaning": "thủ lĩnh, cái đầu",
+  "readings": [
+   "atama",
+   "tou",
+   "zu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "走",
+  "hanViet": "TẨU",
+  "meaning": "chạy",
+  "readings": [
+   "sou",
+   "hashiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "辺",
+  "hanViet": "BIÊN",
+  "meaning": "khu vực, hàng xóm, lân cận",
+  "readings": [
+   "atari",
+   "hen",
+   "be"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "族",
+  "hanViet": "TỘC",
+  "meaning": "gia đình, gia tộc",
+  "readings": [
+   "zoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "当",
+  "hanViet": "ĐƯƠNG",
+  "meaning": "trúng, nhân dịp",
+  "readings": [
+   "ataru",
+   "tou",
+   "ateru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "注",
+  "hanViet": "CHÚ",
+  "meaning": "rót vào, chú ý",
+  "readings": [
+   "chuu",
+   "sosogu",
+   "sasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "圧",
+  "hanViet": "ÁP",
+  "meaning": "áp lực, điện áp",
+  "readings": [
+   "atsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "田",
+  "hanViet": "ĐIỀN",
+  "meaning": "ruộng lúa",
+  "readings": [
+   "den",
+   "ta"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "暑",
+  "hanViet": "THỬ",
+  "meaning": "sức nóng, nóng",
+  "readings": [
+   "atsui",
+   "sho"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "台",
+  "hanViet": "ĐÀI",
+  "meaning": "sân khấu",
+  "readings": [
+   "dai",
+   "tai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "熱",
+  "hanViet": "NHIỆT",
+  "meaning": "sức nóng",
+  "readings": [
+   "atsui",
+   "netsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "待",
+  "hanViet": "ĐÃI",
+  "meaning": "đợi",
+  "readings": [
+   "tai",
+   "matsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "厚",
+  "hanViet": "HẬU",
+  "meaning": "dày",
+  "readings": [
+   "atsui",
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "題",
+  "hanViet": "ĐỀ",
+  "meaning": "chủ đề",
+  "readings": [
+   "dai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "跡",
+  "hanViet": "TÍCH",
+  "meaning": "dấu tích, vết tích",
+  "readings": [
+   "ato",
+   "seki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "度",
+  "hanViet": "ĐỘ",
+  "meaning": "mức độ, lần",
+  "readings": [
+   "do",
+   "taku",
+   "tabi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "暴",
+  "hanViet": "BẠO",
+  "meaning": "bạo lực",
+  "readings": [
+   "abaku",
+   "bou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "立",
+  "hanViet": "LẬP",
+  "meaning": "đứng lên, dựng nên",
+  "readings": [
+   "ritsu",
+   "ryuu",
+   "tatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "浴",
+  "hanViet": "DỤC",
+  "meaning": "tắm",
+  "readings": [
+   "abiru",
+   "yoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "旅",
+  "hanViet": "LỮ",
+  "meaning": "du lịch",
+  "readings": [
+   "ryo",
+   "tabi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "危",
+  "hanViet": "NGUY",
+  "meaning": "nguy hiểm",
+  "readings": [
+   "abunai",
+   "ki",
+   "ayaui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "力",
+  "hanViet": "LỰC",
+  "meaning": "năng lượng, sức mạnh",
+  "readings": [
+   "ryoku",
+   "riki",
+   "chikara"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "油",
+  "hanViet": "DU",
+  "meaning": "dầu",
+  "readings": [
+   "abura",
+   "yu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "昼",
+  "hanViet": "TRÚ",
+  "meaning": "buổi trưa",
+  "readings": [
+   "chuu",
+   "hiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "脂",
+  "hanViet": "PHÌ",
+  "meaning": "mập, mỡ",
+  "readings": [
+   "abura",
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "町",
+  "hanViet": "ĐINH",
+  "meaning": "thị trấn",
+  "readings": [
+   "chou",
+   "machi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "甘",
+  "hanViet": "CAM",
+  "meaning": "ngọt",
+  "readings": [
+   "amai",
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鳥",
+  "hanViet": "ĐIỂU",
+  "meaning": "chim",
+  "readings": [
+   "chou",
+   "tori"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "余",
+  "hanViet": "DƯ",
+  "meaning": "còn lại, dư",
+  "readings": [
+   "amasu",
+   "yo",
+   "amaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "店",
+  "hanViet": "ĐIẾM",
+  "meaning": "cửa hiệu, tiệm",
+  "readings": [
+   "ten",
+   "mise"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "編",
+  "hanViet": "BIÊN",
+  "meaning": "biên tập, khâu vá, may",
+  "readings": [
+   "amu",
+   "hen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "問",
+  "hanViet": "MÔN",
+  "meaning": "câu hỏi",
+  "readings": [
+   "mon",
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "過",
+  "hanViet": "QUÁ",
+  "meaning": "vượt quá, trãi qua",
+  "readings": [
+   "ayamachi",
+   "ka",
+   "sugiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "冬",
+  "hanViet": "ĐÔNG",
+  "meaning": "mùa Đông",
+  "readings": [
+   "tou",
+   "fuyu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "誤",
+  "hanViet": "NGỘ",
+  "meaning": "ngộ nhận, sai lầm",
+  "readings": [
+   "ayamaru",
+   "go"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "道",
+  "hanViet": "ĐẠO",
+  "meaning": "con đường",
+  "readings": [
+   "dou",
+   "tou",
+   "michi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "荒",
+  "hanViet": "HOẢNG",
+  "meaning": "hoảng sợ",
+  "readings": [
+   "arai",
+   "kou",
+   "areru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "堂",
+  "hanViet": "ĐƯỜNG",
+  "meaning": "tòa nhà",
+  "readings": [
+   "dou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "洗",
+  "hanViet": "TẨY",
+  "meaning": "giặt tẩy",
+  "readings": [
+   "arau",
+   "sen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "特",
+  "hanViet": "ĐẶC",
+  "meaning": "đặc biệt",
+  "readings": [
+   "toku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "争",
+  "hanViet": "TRANH",
+  "meaning": "tranh giành, chiến tranh",
+  "readings": [
+   "arasou",
+   "sou",
+   "arasoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "肉",
+  "hanViet": "NHỤC",
+  "meaning": "thịt",
+  "readings": [
+   "niku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "改",
+  "hanViet": "CẢI",
+  "meaning": "thay đổi, làm mới",
+  "readings": [
+   "aratameru",
+   "aratamaru",
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "野",
+  "hanViet": "DÃ",
+  "meaning": "hoang dã, cánh đồng",
+  "readings": [
+   "ya",
+   "sho",
+   "no"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "表",
+  "hanViet": "BIỂU",
+  "meaning": "biểu hiện, bề mặt",
+  "readings": [
+   "arawasu",
+   "hyou",
+   "omote"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "発",
+  "hanViet": "PHÁT",
+  "meaning": "xuất phát, bắt đầu",
+  "readings": [
+   "hatsu",
+   "abaku",
+   "tatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "現",
+  "hanViet": "HIỆN",
+  "meaning": "xuất hiện",
+  "readings": [
+   "arawasu",
+   "gen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "飯",
+  "hanViet": "PHẠN",
+  "meaning": "bữa ăn, cơm",
+  "readings": [
+   "han",
+   "meshi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "著",
+  "hanViet": "TRỨ",
+  "meaning": "tác giả",
+  "readings": [
+   "arawasu",
+   "cho",
+   "ichijirushii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "病",
+  "hanViet": "BỆNH",
+  "meaning": "bệnh tật",
+  "readings": [
+   "byou",
+   "yamai",
+   "yamu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "在",
+  "hanViet": "TẠI",
+  "meaning": "có, ở, tồn tại",
+  "readings": [
+   "aru",
+   "zai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "不",
+  "hanViet": "BẤT",
+  "meaning": "không",
+  "readings": [
+   "fu",
+   "bu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "暗",
+  "hanViet": "ÁM",
+  "meaning": "tối",
+  "readings": [
+   "an",
+   "kurai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "服",
+  "hanViet": "PHỤC",
+  "meaning": "quần áo, tuân lệnh",
+  "readings": [
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "委",
+  "hanViet": "ỦY",
+  "meaning": "ủy nhiệm, ủy thác",
+  "readings": [
+   "i"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "物",
+  "hanViet": "VẬT",
+  "meaning": "đồ vật",
+  "readings": [
+   "butsu",
+   "motsu",
+   "mono"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "衣",
+  "hanViet": "Y",
+  "meaning": "y phục, may mặc",
+  "readings": [
+   "i",
+   "koromo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "文",
+  "hanViet": "VĂN",
+  "meaning": "câu văn, văn hóa",
+  "readings": [
+   "bun",
+   "mon",
+   "fumi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "囲",
+  "hanViet": "VI",
+  "meaning": "chu vi, phạm vi",
+  "readings": [
+   "i",
+   "kakomu",
+   "kakou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "別",
+  "hanViet": "BIỆT",
+  "meaning": "khác biệt, chia xa",
+  "readings": [
+   "betsu",
+   "wakareru",
+   "wakeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "位",
+  "hanViet": "VỊ",
+  "meaning": "vị trí, khoảng",
+  "readings": [
+   "i",
+   "kurai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "勉",
+  "hanViet": "MIỄN",
+  "meaning": "làm việc",
+  "readings": [
+   "ben",
+   "tsutomeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "胃",
+  "hanViet": "VỊ",
+  "meaning": "bao tử",
+  "readings": [
+   "i"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "目",
+  "hanViet": "MỤC",
+  "meaning": "mắt",
+  "readings": [
+   "moku",
+   "boku",
+   "me"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "易",
+  "hanViet": "DỊ/ DỊCH",
+  "meaning": "dễ dàng",
+  "readings": [
+   "i",
+   "eki",
+   "yasui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "用",
+  "hanViet": "DỤNG",
+  "meaning": "sử dụng",
+  "readings": [
+   "you",
+   "mochiiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "移",
+  "hanViet": "DI",
+  "meaning": "di chuyển",
+  "readings": [
+   "i",
+   "utsuru",
+   "utsusu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "夜",
+  "hanViet": "DẠ",
+  "meaning": "ban đêm",
+  "readings": [
+   "ya",
+   "yo",
+   "yoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "依",
+  "hanViet": "Ỷ/Y",
+  "meaning": "dựa vào",
+  "readings": [
+   "i",
+   "e"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "曜",
+  "hanViet": "DIỆU",
+  "meaning": "ngày",
+  "readings": [
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "偉",
+  "hanViet": "VĨ",
+  "meaning": "giỏi, vĩ đại",
+  "readings": [
+   "i",
+   "erai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "洋",
+  "hanViet": "DƯƠNG C",
+  "meaning": "hâu Âu",
+  "readings": [
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "違",
+  "hanViet": "VI",
+  "meaning": "khác nhau",
+  "readings": [
+   "i",
+   "chigau",
+   "chigaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "理",
+  "hanViet": "LÝ",
+  "meaning": "lý do, sự thật",
+  "readings": [
+   "ri"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "怒",
+  "hanViet": "NỘ",
+  "meaning": "giận dữ",
+  "readings": [
+   "ikaru",
+   "do",
+   "okoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "料",
+  "hanViet": "LIỆU",
+  "meaning": "chi phí, nguyên liệu",
+  "readings": [
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "息",
+  "hanViet": "TỨC",
+  "meaning": "hơi thở",
+  "readings": [
+   "iki",
+   "soku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "相",
+  "hanViet": "TƯƠNG",
+  "meaning": "tương tác, hỗ trợ",
+  "readings": [
+   "ai",
+   "sou",
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "域",
+  "hanViet": "VỰC",
+  "meaning": "khu vực",
+  "readings": [
+   "iki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "愛",
+  "hanViet": "ÁI",
+  "meaning": "yêu thương",
+  "readings": [
+   "ai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "勢",
+  "hanViet": "THẾ",
+  "meaning": "uy thế",
+  "readings": [
+   "ikioi",
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "合",
+  "hanViet": "HỢP",
+  "meaning": "thích hợp, cùng nhau",
+  "readings": [
+   "au",
+   "gou",
+   "ka (tsu)"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "幾",
+  "hanViet": "KỶ/ KY",
+  "meaning": "bao nhiêu, mấy cái",
+  "readings": [
+   "iku",
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "商",
+  "hanViet": "THƯƠNG",
+  "meaning": "buôn bán",
+  "readings": [
+   "akinau",
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "育",
+  "hanViet": "DỤC",
+  "meaning": "nuôi dưỡng",
+  "readings": [
+   "iku",
+   "sodatsu",
+   "sodateru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "浅",
+  "hanViet": "THIỂN",
+  "meaning": "nông cạn, cạn",
+  "readings": [
+   "asai",
+   "sen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "戦",
+  "hanViet": "CHIẾN",
+  "meaning": "chiến tranh",
+  "readings": [
+   "ikusa",
+   "sen",
+   "tatakau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "預",
+  "hanViet": "DỰ",
+  "meaning": "gửi, giữ",
+  "readings": [
+   "azukaru",
+   "yo",
+   "azukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "池",
+  "hanViet": "TRÌ",
+  "meaning": "cái hồ, ao",
+  "readings": [
+   "ike",
+   "chi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "汗",
+  "hanViet": "HÃN",
+  "meaning": "mồ hôi",
+  "readings": [
+   "ase",
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "勇",
+  "hanViet": "DŨNG",
+  "meaning": "can đảm",
+  "readings": [
+   "isamu",
+   "yuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "遊",
+  "hanViet": "DU",
+  "meaning": "vui chơi",
+  "readings": [
+   "asobu",
+   "yuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "石",
+  "hanViet": "THẠCH",
+  "meaning": "hòn đá",
+  "readings": [
+   "ishi",
+   "seki",
+   "shaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "値",
+  "hanViet": "TRỊ",
+  "meaning": "giá trị",
+  "readings": [
+   "atai",
+   "chi",
+   "ne"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "泉",
+  "hanViet": "TUYỀN",
+  "meaning": "dòng suối",
+  "readings": [
+   "izumi",
+   "sen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "与",
+  "hanViet": "DỰ",
+  "meaning": "cung cấp, thưởng",
+  "readings": [
+   "ataeru",
+   "yo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "忙",
+  "hanViet": "MANG",
+  "meaning": "bận rộn",
+  "readings": [
+   "isogashii",
+   "bou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "温",
+  "hanViet": "ÔN",
+  "meaning": "ấm",
+  "readings": [
+   "atatakai",
+   "on"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "板",
+  "hanViet": "BẢN/ BẢNG",
+  "meaning": "tấm ván",
+  "readings": [
+   "ita",
+   "han",
+   "ban"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "暖",
+  "hanViet": "NOÃN",
+  "meaning": "ấm, làm cho ấm",
+  "readings": [
+   "atatakai",
+   "dan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "痛",
+  "hanViet": "THỐNG",
+  "meaning": "đau, nỗi đau",
+  "readings": [
+   "itai",
+   "tsuu",
+   "itamu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "抱",
+  "hanViet": "BÃO",
+  "meaning": "bế, ôm ấp",
+  "readings": [
+   "idaku",
+   "hou",
+   "daku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "園",
+  "hanViet": "VIÊN",
+  "meaning": "công viên",
+  "readings": [
+   "en",
+   "sono"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "頂",
+  "hanViet": "ĐỈNH",
+  "meaning": "nhận, đỉnh cao",
+  "readings": [
+   "itadaki",
+   "chou",
+   "itadaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "遠",
+  "hanViet": "VIỄN",
+  "meaning": "xa",
+  "readings": [
+   "en",
+   "on",
+   "tooi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "市",
+  "hanViet": "THỊ",
+  "meaning": "thành phố, chợ",
+  "readings": [
+   "ichi",
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "塩",
+  "hanViet": "DIÊM",
+  "meaning": "muối",
+  "readings": [
+   "en",
+   "shio"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "糸",
+  "hanViet": "MỊCH",
+  "meaning": "sợ chỉ",
+  "readings": [
+   "ito",
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "演",
+  "hanViet": "DIỄN",
+  "meaning": "diễn kịch",
+  "readings": [
+   "en"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "営",
+  "hanViet": "DOANH",
+  "meaning": "kinh doanh, quản lý",
+  "readings": [
+   "itonamu",
+   "ei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "延",
+  "hanViet": "DIÊN",
+  "meaning": "kéo dài, trì hoãn",
+  "readings": [
+   "en",
+   "nobiru",
+   "nobasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "否",
+  "hanViet": "PHỦ",
+  "meaning": "phủ nhận, không",
+  "readings": [
+   "ina",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "煙",
+  "hanViet": "YÊN",
+  "meaning": "khói, người hút thuốc",
+  "readings": [
+   "en",
+   "kemuri",
+   "kemuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "命",
+  "hanViet": "MỆNH",
+  "meaning": "sinh mạng, cuộc sống",
+  "readings": [
+   "inochi",
+   "mei",
+   "myou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "緒",
+  "hanViet": "TỰ",
+  "meaning": "bắt đầu, sợi dây nhỏ",
+  "readings": [
+   "sho",
+   "cho",
+   "o"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "祈",
+  "hanViet": "CHÚC",
+  "meaning": "cầu chúc",
+  "readings": [
+   "inoru",
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "汚",
+  "hanViet": "Ô",
+  "meaning": "vết dơ, bẩn",
+  "readings": [
+   "o",
+   "kegasu",
+   "kitanai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "要",
+  "hanViet": "YẾU",
+  "meaning": "yêu cầu, thiết yếu",
+  "readings": [
+   "iru",
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "和",
+  "hanViet": "HÒA",
+  "meaning": "hòa bình, Nhật bản",
+  "readings": [
+   "wa",
+   "yawaraku",
+   "nagomu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "居",
+  "hanViet": "CƯ",
+  "meaning": "cư trú, ở",
+  "readings": [
+   "iru",
+   "kyo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "老",
+  "hanViet": "LÃO",
+  "meaning": "già",
+  "readings": [
+   "oiru",
+   "rou",
+   "fukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "岩",
+  "hanViet": "NHAM",
+  "meaning": "đất đá",
+  "readings": [
+   "iwa",
+   "gan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "負",
+  "hanViet": "PHỤ",
+  "meaning": "mất, thua cuộc",
+  "readings": [
+   "ou",
+   "fu",
+   "makeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "祝",
+  "hanViet": "CHÚC",
+  "meaning": "chào mừng, lời mừng",
+  "readings": [
+   "iwau",
+   "shuku",
+   "shuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "追",
+  "hanViet": "TRUY",
+  "meaning": "đuổi theo, truy tìm",
+  "readings": [
+   "ou",
+   "tsui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "引",
+  "hanViet": "DẪN",
+  "meaning": "kéo",
+  "readings": [
+   "in",
+   "hiku",
+   "hikeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "王",
+  "hanViet": "VƯƠNG",
+  "meaning": "vua",
+  "readings": [
+   "ou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "印",
+  "hanViet": "ẤN",
+  "meaning": "ký hiệu, dấu ấn",
+  "readings": [
+   "in",
+   "shirushi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "黄",
+  "hanViet": "HOÀNG",
+  "meaning": "màu vàng",
+  "readings": [
+   "ou",
+   "kou",
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "因",
+  "hanViet": "NHÂN",
+  "meaning": "nguyên nhân",
+  "readings": [
+   "in",
+   "yoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "央",
+  "hanViet": "ƯƠNG",
+  "meaning": "ở giữa",
+  "readings": [
+   "ou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "羽",
+  "hanViet": "VŨ",
+  "meaning": "đôi cánh",
+  "readings": [
+   "u",
+   "ha",
+   "hane"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "横",
+  "hanViet": "HOÀNH",
+  "meaning": "bên cạnh",
+  "readings": [
+   "ou",
+   "yoko"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "宇",
+  "hanViet": "TRỤ",
+  "meaning": "vũ trụ",
+  "readings": [
+   "u"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "欧",
+  "hanViet": "ÂU C",
+  "meaning": "hâu Âu",
+  "readings": [
+   "ou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "初",
+  "hanViet": "SƠ",
+  "meaning": "bắt đầu, lần đầu",
+  "readings": [
+   "hatsu",
+   "sho",
+   "hajime"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "押",
+  "hanViet": "ÁP",
+  "meaning": "đẩy",
+  "readings": [
+   "ou",
+   "osu",
+   "osaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "植",
+  "hanViet": "THỰC",
+  "meaning": "nuôi trồng",
+  "readings": [
+   "ueru",
+   "uwaru",
+   "shoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "奥",
+  "hanViet": "ÁO",
+  "meaning": "bên trong, vợ",
+  "readings": [
+   "ou",
+   "oku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "伺",
+  "hanViet": "TƯ",
+  "meaning": "thăm hỏi, dò xét",
+  "readings": [
+   "ukagau",
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "犯",
+  "hanViet": "PHẠM",
+  "meaning": "vi phạm, phạm tội",
+  "readings": [
+   "okasu",
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "浮",
+  "hanViet": "PHÙ",
+  "meaning": "nổi lên, nghĩ đến",
+  "readings": [
+   "ukabu",
+   "fu",
+   "uku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "拝",
+  "hanViet": "BÁI",
+  "meaning": "viếng, lạy chào",
+  "readings": [
+   "ogamu",
+   "hai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "受",
+  "hanViet": "THỤ",
+  "meaning": "nhận",
+  "readings": [
+   "ukaru",
+   "ju",
+   "ukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "補",
+  "hanViet": "HỖ",
+  "meaning": "cung cấp, hỗ trợ",
+  "readings": [
+   "oginau",
+   "ho"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "承",
+  "hanViet": "THỪA",
+  "meaning": "hiểu, nghe",
+  "readings": [
+   "uketamawaru",
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "置",
+  "hanViet": "TRÍ",
+  "meaning": "đặt, để",
+  "readings": [
+   "oku",
+   "chi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "失",
+  "hanViet": "THẤT",
+  "meaning": "đánh mất",
+  "readings": [
+   "ushinau",
+   "shitsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "億",
+  "hanViet": "ỨC",
+  "meaning": "một trăm triệu - 100,000,000",
+  "readings": [
+   "oku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "薄",
+  "hanViet": "BẠC",
+  "meaning": "mỏng",
+  "readings": [
+   "usui",
+   "haku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "遅",
+  "hanViet": "TRÌ",
+  "meaning": "chậm, muộn",
+  "readings": [
+   "okureru",
+   "chi",
+   "osoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "疑",
+  "hanViet": "NGHI",
+  "meaning": "nghi ngờ",
+  "readings": [
+   "utagau",
+   "gi",
+   "utagai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "贈",
+  "hanViet": "TẶNG",
+  "meaning": "quà tặng, tặng",
+  "readings": [
+   "okuru",
+   "zou",
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "内",
+  "hanViet": "NỘI",
+  "meaning": "bên trong",
+  "readings": [
+   "uchi",
+   "nai",
+   "dai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "幼",
+  "hanViet": "ẤU",
+  "meaning": "trẻ nhỏ, thơ ấu",
+  "readings": [
+   "osanai",
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "打",
+  "hanViet": "ĐẢ",
+  "meaning": "đánh, gõ",
+  "readings": [
+   "utsu",
+   "da"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "治",
+  "hanViet": "TRỊ",
+  "meaning": "chữa bệnh",
+  "readings": [
+   "ji",
+   "chi",
+   "naosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "美",
+  "hanViet": "MỸ",
+  "meaning": "đẹp",
+  "readings": [
+   "utsukushii",
+   "bi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "収",
+  "hanViet": "THU",
+  "meaning": "thu thuế, thu nhập",
+  "readings": [
+   "shuu",
+   "osamaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "器",
+  "hanViet": "KHÍ",
+  "meaning": "dụng cụ",
+  "readings": [
+   "utsuwa",
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "恐",
+  "hanViet": "KHỦNG",
+  "meaning": "sợ hãi",
+  "readings": [
+   "osoreru",
+   "kyou",
+   "osoroshii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "腕",
+  "hanViet": "OẢN",
+  "meaning": "cổ tay",
+  "readings": [
+   "ude",
+   "wan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "落",
+  "hanViet": "LẠC",
+  "meaning": "rơi, đánh rơi",
+  "readings": [
+   "ochiru",
+   "raku",
+   "otosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "産",
+  "hanViet": "SẢN",
+  "meaning": "sinh sản, sản xuất",
+  "readings": [
+   "ubu",
+   "san",
+   "umu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "夫",
+  "hanViet": "PHU",
+  "meaning": "chồng, người đàn ông",
+  "readings": [
+   "otto",
+   "fu",
+   "fuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "馬",
+  "hanViet": "MÃ",
+  "meaning": "ngựa",
+  "readings": [
+   "uma",
+   "ba",
+   "ma"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "訪",
+  "hanViet": "PHƯƠNG",
+  "meaning": "viếng thăm",
+  "readings": [
+   "otozureru",
+   "hou",
+   "tazuneru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "埋",
+  "hanViet": "MAI",
+  "meaning": "chôn, lấp",
+  "readings": [
+   "umaru",
+   "mai",
+   "umeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "踊",
+  "hanViet": "DŨNG",
+  "meaning": "khiêu vũ, nhảy múa",
+  "readings": [
+   "odori",
+   "you",
+   "odoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "敬",
+  "hanViet": "KÍNH",
+  "meaning": "tôn kính, kính trọng",
+  "readings": [
+   "uyamau",
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "各",
+  "hanViet": "CÁC",
+  "meaning": "mỗi",
+  "readings": [
+   "onoono",
+   "kaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "裏",
+  "hanViet": "LÝ",
+  "meaning": "mặt trong",
+  "readings": [
+   "ura",
+   "ri"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "帯",
+  "hanViet": "ĐỚI/ ĐAI",
+  "meaning": "đeo, thắt lưng",
+  "readings": [
+   "obi",
+   "tai",
+   "obiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "占",
+  "hanViet": "CHIÊM",
+  "meaning": "tiên đoán, bói toán",
+  "readings": [
+   "uranau",
+   "sen",
+   "shimeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "覚",
+  "hanViet": "GIÁC",
+  "meaning": "nhớ, cảm giác",
+  "readings": [
+   "oboeru",
+   "kaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "得",
+  "hanViet": "ĐẮC",
+  "meaning": "nhận được, thu được",
+  "readings": [
+   "uru",
+   "toku",
+   "eru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "面",
+  "hanViet": "DIỆN",
+  "meaning": "bề mặt",
+  "readings": [
+   "omo",
+   "men",
+   "omote"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "絵",
+  "hanViet": "HỘI",
+  "meaning": "bức tranh",
+  "readings": [
+   "e",
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "折",
+  "hanViet": "TRIẾT",
+  "meaning": "bẻ gãy",
+  "readings": [
+   "ori",
+   "setsu",
+   "oru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "回",
+  "hanViet": "HỒI",
+  "meaning": "lần, xoay",
+  "readings": [
+   "e",
+   "kai",
+   "mawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "降",
+  "hanViet": "GIÁNG",
+  "meaning": "rơi xuống",
+  "readings": [
+   "kou",
+   "furu",
+   "oriru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "泳",
+  "hanViet": "VỊNH",
+  "meaning": "bơi lội",
+  "readings": [
+   "ei",
+   "oyogu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "御",
+  "hanViet": "NGỰ",
+  "meaning": "tôn kính, thống trị",
+  "readings": [
+   "on",
+   "gyo",
+   "go"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "栄",
+  "hanViet": "VINH",
+  "meaning": "vẻ vang, rực rỡ",
+  "readings": [
+   "ei",
+   "sakaeru",
+   "hae"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "香",
+  "hanViet": "HƯƠNG",
+  "meaning": "mùi hương",
+  "readings": [
+   "ka",
+   "kou",
+   "kaori"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "永",
+  "hanViet": "VĨNH",
+  "meaning": "mãi mãi, vĩnh cửu",
+  "readings": [
+   "ei",
+   "nagai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "科",
+  "hanViet": "KHOA",
+  "meaning": "môn học",
+  "readings": [
+   "ka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鋭",
+  "hanViet": "NHUỆ/DUỆ",
+  "meaning": "bén nhọn, nhạy bén",
+  "readings": [
+   "ei",
+   "surudoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "化",
+  "hanViet": "HÓA",
+  "meaning": "chuyển đổi, thay đổi",
+  "readings": [
+   "ka",
+   "ke",
+   "bakeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "役",
+  "hanViet": "DỊCH",
+  "meaning": "bổn phận, phục vụ, có ích",
+  "readings": [
+   "eki",
+   "yaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "荷",
+  "hanViet": "HÀ",
+  "meaning": "chất vác, hành lý",
+  "readings": [
+   "ka",
+   "ni"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "液",
+  "hanViet": "DỊCH",
+  "meaning": "dung dịch",
+  "readings": [
+   "eki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "加",
+  "hanViet": "GIA",
+  "meaning": "thêm vào, tham gia",
+  "readings": [
+   "ka",
+   "kuwaeru",
+   "kuwawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "枝",
+  "hanViet": "CHI",
+  "meaning": "nhánh cây, chi nhánh",
+  "readings": [
+   "eda",
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "果",
+  "hanViet": "QUẢ",
+  "meaning": "trái cây, kết quả",
+  "readings": [
+   "ka",
+   "hatasu",
+   "hateru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "越",
+  "hanViet": "VIỆT",
+  "meaning": "siêu việt, vượt qua",
+  "readings": [
+   "etsu",
+   "koeru",
+   "kosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "貨",
+  "hanViet": "HÓA",
+  "meaning": "hàng hóa, tiền",
+  "readings": [
+   "ka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "笑",
+  "hanViet": "TIẾU",
+  "meaning": "cười, nụ cười",
+  "readings": [
+   "emu",
+   "warau",
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "課",
+  "hanViet": "KHÓA",
+  "meaning": "khoa, bài học",
+  "readings": [
+   "ka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "選",
+  "hanViet": "TUYỂN",
+  "meaning": "chọn lựa",
+  "readings": [
+   "erabu",
+   "sen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "可",
+  "hanViet": "KHẢ",
+  "meaning": "có thể",
+  "readings": [
+   "ka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "河",
+  "hanViet": "HÀ",
+  "meaning": "con sông",
+  "readings": [
+   "ka",
+   "kawa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "絡",
+  "hanViet": "LẠC",
+  "meaning": "liên lạc",
+  "readings": [
+   "karamaru",
+   "raku",
+   "karamu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "菓",
+  "hanViet": "QUẢ",
+  "meaning": "bánh, trái cây",
+  "readings": [
+   "ka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "軽",
+  "hanViet": "KHINH",
+  "meaning": "nhẹ",
+  "readings": [
+   "karui",
+   "kei",
+   "karoyaka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "靴",
+  "hanViet": "NGOA",
+  "meaning": "giầy dép",
+  "readings": [
+   "ka",
+   "kutsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "皮",
+  "hanViet": "BÌ",
+  "meaning": "da",
+  "readings": [
+   "kawa",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "貝",
+  "hanViet": "BỐI",
+  "meaning": "con sò",
+  "readings": [
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "側",
+  "hanViet": "TRẮC",
+  "meaning": "phía",
+  "readings": [
+   "kawa",
+   "soku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "階",
+  "hanViet": "GIAI",
+  "meaning": "tầng (nhà),giai đoạn, giai cấp",
+  "readings": [
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "乾",
+  "hanViet": "KHAN",
+  "meaning": "khô",
+  "readings": [
+   "kawakasu",
+   "kan",
+   "kawaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "械",
+  "hanViet": "GIỚI",
+  "meaning": "máy móc",
+  "readings": [
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "寒",
+  "hanViet": "HÀN",
+  "meaning": "lạnh",
+  "readings": [
+   "kan",
+   "samui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "快",
+  "hanViet": "KHOÁI",
+  "meaning": "hài lòng, vui thích, sắc sảo",
+  "readings": [
+   "kai",
+   "kokoroyoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "感",
+  "hanViet": "CẢM",
+  "meaning": "cảm giác",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "解",
+  "hanViet": "GIẢI",
+  "meaning": "giải đáp, hiểu",
+  "readings": [
+   "kai",
+   "tokeru",
+   "toku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "完",
+  "hanViet": "HOÀN",
+  "meaning": "hoàn thành",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "灰",
+  "hanViet": "HÔI",
+  "meaning": "tro",
+  "readings": [
+   "kai",
+   "hai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "官",
+  "hanViet": "QUAN",
+  "meaning": "quan chức",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "介",
+  "hanViet": "GIỚI",
+  "meaning": "giới thiệu, trung gian",
+  "readings": [
+   "kai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "管",
+  "hanViet": "QUẢN",
+  "meaning": "cái ống",
+  "readings": [
+   "kan",
+   "kuda"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "皆",
+  "hanViet": "GIAI",
+  "meaning": "mọi người, tất cả",
+  "readings": [
+   "kai",
+   "mina"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "関",
+  "hanViet": "QUAN",
+  "meaning": "thuế quan, quan hệ",
+  "readings": [
+   "kan",
+   "seki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "害",
+  "hanViet": "HẠI",
+  "meaning": "có hại",
+  "readings": [
+   "gai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "観",
+  "hanViet": "QUAN",
+  "meaning": "quan điểm, xem xét",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "交",
+  "hanViet": "GIAO",
+  "meaning": "trộn, giao lưu",
+  "readings": [
+   "kau",
+   "kou",
+   "majiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "刊",
+  "hanViet": "SAN",
+  "meaning": "xuất bản",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "返",
+  "hanViet": "PHẢN",
+  "meaning": "trả lại",
+  "readings": [
+   "kaesu",
+   "hen",
+   "kaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "慣",
+  "hanViet": "QUÁN",
+  "meaning": "thói quen, tập quán",
+  "readings": [
+   "kan",
+   "nareru",
+   "narasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "省",
+  "hanViet": "TỈNH",
+  "meaning": "chính phủ, xem xét, bỏ sót",
+  "readings": [
+   "kaerimiru",
+   "sei",
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "干",
+  "hanViet": "CAN",
+  "meaning": "khô, phơi khô",
+  "readings": [
+   "kan",
+   "hosu",
+   "hiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "変",
+  "hanViet": "BIẾN",
+  "meaning": "thay đổi",
+  "readings": [
+   "kaeru",
+   "hen",
+   "kawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "巻",
+  "hanViet": "QUYỂN",
+  "meaning": "quyển, cuốn, quấn",
+  "readings": [
+   "kan",
+   "maku",
+   "maki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "替",
+  "hanViet": "THẾ",
+  "meaning": "được thay, thay thế",
+  "readings": [
+   "kaeru",
+   "tai",
+   "kawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "簡",
+  "hanViet": "GIẢN",
+  "meaning": "đơn giản",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "換",
+  "hanViet": "HOÁN",
+  "meaning": "trao đổi, chuyển đổi",
+  "readings": [
+   "kaeru",
+   "kan",
+   "kawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "缶",
+  "hanViet": "HẪU/ PHỮU",
+  "meaning": "lon, chai lọ ( thức ăn, uống)",
+  "readings": [
+   "kan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "係",
+  "hanViet": "HỆ",
+  "meaning": "quan hệ, liên quan",
+  "readings": [
+   "kakari",
+   "kei",
+   "kakaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "患",
+  "hanViet": "HOẠN",
+  "meaning": "người bệnh, bệnh",
+  "readings": [
+   "kan",
+   "wazurau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "掛",
+  "hanViet": "QUẢI",
+  "meaning": "treo lên, tiêu tốn",
+  "readings": [
+   "kakari",
+   "kakeru",
+   "kakaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "丸",
+  "hanViet": "HOÀN",
+  "meaning": "tròn",
+  "readings": [
+   "gan",
+   "maru",
+   "marui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "限",
+  "hanViet": "HẠN",
+  "meaning": "giới hạn",
+  "readings": [
+   "kagiru",
+   "gen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "岸",
+  "hanViet": "NGẠN",
+  "meaning": "bờ, chỗ dôi ra (biển)",
+  "readings": [
+   "gan",
+   "kishi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "欠",
+  "hanViet": "KHUYẾT",
+  "meaning": "thiếu",
+  "readings": [
+   "kaku",
+   "ketsu",
+   "kakeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "願",
+  "hanViet": "NGUYỆN",
+  "meaning": "cầu xin, mong chờ",
+  "readings": [
+   "gan",
+   "negau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "角",
+  "hanViet": "GIÁC",
+  "meaning": "góc, sừng",
+  "readings": [
+   "kaku",
+   "kado",
+   "tsuno"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "含",
+  "hanViet": "HÀM",
+  "meaning": "bao gồm",
+  "readings": [
+   "gan",
+   "fukumu",
+   "fukumeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "客",
+  "hanViet": "KHÁCH",
+  "meaning": "khách, khách hàng",
+  "readings": [
+   "kaku",
+   "kyaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "記",
+  "hanViet": "KÝ",
+  "meaning": "nhật ký, kỷ lục",
+  "readings": [
+   "ki",
+   "shirushu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "格",
+  "hanViet": "CÁCH",
+  "meaning": "quy cách, địa vị",
+  "readings": [
+   "kaku",
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "期",
+  "hanViet": "KỲ",
+  "meaning": "thời kỳ, kỳ hạn",
+  "readings": [
+   "ki",
+   "go"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "確",
+  "hanViet": "XÁC",
+  "meaning": "chắc chắn, xác nhận",
+  "readings": [
+   "kaku",
+   "tashika",
+   "tashikameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "希",
+  "hanViet": "HY",
+  "meaning": "hy vọng",
+  "readings": [
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "革",
+  "hanViet": "CÁCH",
+  "meaning": "đổi mới, da",
+  "readings": [
+   "kaku",
+   "kawa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "季",
+  "hanViet": "KỲ",
+  "meaning": "mùa",
+  "readings": [
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "額",
+  "hanViet": "NGẠCH",
+  "meaning": "cái trán, số tiền",
+  "readings": [
+   "gaku",
+   "hitai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "喜",
+  "hanViet": "HỈ",
+  "meaning": "vui, hạnh phúc",
+  "readings": [
+   "ki",
+   "yorokobu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "賢",
+  "hanViet": "HIỀN",
+  "meaning": "thông minh",
+  "readings": [
+   "kashikoi",
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "機",
+  "hanViet": "CƠ",
+  "meaning": "cơ hội, máy móc",
+  "readings": [
+   "ki",
+   "hata"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "数",
+  "hanViet": "SỐ",
+  "meaning": "con số",
+  "readings": [
+   "kazu",
+   "suu",
+   "kazoeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "規",
+  "hanViet": "QUY",
+  "meaning": "quy luật, quy chuẩn",
+  "readings": [
+   "ki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "形",
+  "hanViet": "HÌNH",
+  "meaning": "hình dạng",
+  "readings": [
+   "kata",
+   "kei",
+   "katachi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "寄",
+  "hanViet": "KỲ",
+  "meaning": "dựa vào, ghé vào",
+  "readings": [
+   "ki",
+   "yoru",
+   "yoseru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "型",
+  "hanViet": "HÌNH",
+  "meaning": "chủng loại, mô hình",
+  "readings": [
+   "kata",
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "机",
+  "hanViet": "KỶ",
+  "meaning": "cái bàn",
+  "readings": [
+   "ki",
+   "tsukue"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "片",
+  "hanViet": "PHIẾN",
+  "meaning": "một mảnh, một chiều",
+  "readings": [
+   "kata",
+   "hen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "議",
+  "hanViet": "NGHỊ",
+  "meaning": "thảo luận, hội nghị",
+  "readings": [
+   "gi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "肩",
+  "hanViet": "KIÊN",
+  "meaning": "vai",
+  "readings": [
+   "kata",
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "技",
+  "hanViet": "KỸ",
+  "meaning": "kỹ năng, tài nghệ",
+  "readings": [
+   "gi",
+   "waza"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "固",
+  "hanViet": "CỐ",
+  "meaning": "cứng, làm cho cứng",
+  "readings": [
+   "katai",
+   "ko",
+   "katameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "消",
+  "hanViet": "TIÊU",
+  "meaning": "tiêu phí, tắt, biến mất",
+  "readings": [
+   "kieru",
+   "shou",
+   "kesu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "難",
+  "hanViet": "NAN",
+  "meaning": "khó khăn",
+  "readings": [
+   "katai",
+   "nan",
+   "muzukashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "利",
+  "hanViet": "LỢI",
+  "meaning": "lợi nhuận, có hiệu quả",
+  "readings": [
+   "kiku",
+   "ri"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "硬",
+  "hanViet": "NGANG",
+  "meaning": "cứng, ương ngạnh",
+  "readings": [
+   "katai",
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "効",
+  "hanViet": "HIỆU",
+  "meaning": "hiệu quả",
+  "readings": [
+   "kiku",
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "堅",
+  "hanViet": "KIÊN",
+  "meaning": "cứng rắn, bền chặt",
+  "readings": [
+   "katai",
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "兆",
+  "hanViet": "TRIỆU",
+  "meaning": "một ngàn tỉ, dấu hiệu, ra dấu",
+  "readings": [
+   "kizashi",
+   "chou",
+   "kizasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "傾",
+  "hanViet": "KHUYNH",
+  "meaning": "khuynh hướng, nghiêng",
+  "readings": [
+   "katamuku",
+   "kei",
+   "katamukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "刻",
+  "hanViet": "KHẮC",
+  "meaning": "chạm khắc",
+  "readings": [
+   "kizamu",
+   "koku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "勝",
+  "hanViet": "THẮNG",
+  "meaning": "chiến thắng, thắng cuộc",
+  "readings": [
+   "katsu",
+   "shou",
+   "masaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "築",
+  "hanViet": "TRÚC",
+  "meaning": "xây dựng, xây cất",
+  "readings": [
+   "kizuku",
+   "chiku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "活",
+  "hanViet": "HOẠT",
+  "meaning": "chủ động, linh hoạt, sôi động",
+  "readings": [
+   "katsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "競",
+  "hanViet": "CẠNH",
+  "meaning": "cạnh tranh, thi đấu",
+  "readings": [
+   "kisou",
+   "kyou",
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "割",
+  "hanViet": "CÁT",
+  "meaning": "chia cắt",
+  "readings": [
+   "katsu",
+   "waru",
+   "saku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "喫",
+  "hanViet": "KHIẾT",
+  "meaning": "uống",
+  "readings": [
+   "kitsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "担",
+  "hanViet": "ĐẢM",
+  "meaning": "đảm nhận, phụ trách",
+  "readings": [
+   "katsugu",
+   "tan",
+   "ninau"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "詰",
+  "hanViet": "CẬT",
+  "meaning": "ép, nhồi, thu ngắn",
+  "readings": [
+   "kitsu",
+   "tsumaru",
+   "tsumeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "門",
+  "hanViet": "MÔN",
+  "meaning": "cổng",
+  "readings": [
+   "mon",
+   "kado"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "決",
+  "hanViet": "QUYẾT",
+  "meaning": "quyết định",
+  "readings": [
+   "kimeru",
+   "ketsu",
+   "kimaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "悲",
+  "hanViet": "BI",
+  "meaning": "buồn",
+  "readings": [
+   "kanashii",
+   "hi",
+   "kanashimu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "君",
+  "hanViet": "QUÂN",
+  "meaning": "anh, chị, nhà cầm quyền",
+  "readings": [
+   "kimi",
+   "kun"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "必",
+  "hanViet": "TẤT",
+  "meaning": "tất nhiên",
+  "readings": [
+   "kanarazu",
+   "hitsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "逆",
+  "hanViet": "NGHỊCH",
+  "meaning": "ngược lại, phản lại, làm ngược lại",
+  "readings": [
+   "gyaku",
+   "sakarau",
+   "saka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "彼",
+  "hanViet": "BỈ",
+  "meaning": "anh ấy",
+  "readings": [
+   "kano",
+   "hi",
+   "kare"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "級",
+  "hanViet": "CẤP",
+  "meaning": "mức độ, đẳng cấp",
+  "readings": [
+   "kyuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "構",
+  "hanViet": "CẤU",
+  "meaning": "cấu trúc, cấu tạo",
+  "readings": [
+   "kamau",
+   "kou",
+   "kamaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "球",
+  "hanViet": "CẦU",
+  "meaning": "trái banh, quả cầu, tròn",
+  "readings": [
+   "kyuu",
+   "tama"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "神",
+  "hanViet": "THẦN",
+  "meaning": "thánh thần, thần linh",
+  "readings": [
+   "kami",
+   "shin",
+   "jin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "求",
+  "hanViet": "CẦU",
+  "meaning": "tìm kiếm, theo đuổi",
+  "readings": [
+   "kyuu",
+   "motomeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "髪",
+  "hanViet": "PHÁT",
+  "meaning": "tóc",
+  "readings": [
+   "kami",
+   "hatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "泣",
+  "hanViet": "KHẤP",
+  "meaning": "khóc",
+  "readings": [
+   "kyuu",
+   "naku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "辛",
+  "hanViet": "TÂN",
+  "meaning": "cay, khổ cực",
+  "readings": [
+   "karai",
+   "shin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "救",
+  "hanViet": "CỨU",
+  "meaning": "cứu thoát",
+  "readings": [
+   "kyuu",
+   "sukuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "枯",
+  "hanViet": "KHÔ",
+  "meaning": "héo, cạn",
+  "readings": [
+   "karasu",
+   "ko",
+   "kareru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "給",
+  "hanViet": "CUNG",
+  "meaning": "cung cấp",
+  "readings": [
+   "kyuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "久",
+  "hanViet": "CỬU",
+  "meaning": "lâu dài",
+  "readings": [
+   "kyuu",
+   "ku",
+   "hisashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "結",
+  "hanViet": "KẾT",
+  "meaning": "buộc, kết nối",
+  "readings": [
+   "ketsu",
+   "musubu",
+   "yuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "旧",
+  "hanViet": "CỰU",
+  "meaning": "cũ, trước kia",
+  "readings": [
+   "kyuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "険",
+  "hanViet": "HIỂM",
+  "meaning": "nguy hiểm",
+  "readings": [
+   "kewashii",
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "吸",
+  "hanViet": "HẤP",
+  "meaning": "hô hấp, thở",
+  "readings": [
+   "kyuu",
+   "suu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "県",
+  "hanViet": "HUYỆN",
+  "meaning": "huyện",
+  "readings": [
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "許",
+  "hanViet": "HỨA",
+  "meaning": "cho phép, tha lỗi",
+  "readings": [
+   "kyo",
+   "yurusu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "件",
+  "hanViet": "KIỆN",
+  "meaning": "sự kiện, vấn đề",
+  "readings": [
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "漁",
+  "hanViet": "NGƯ",
+  "meaning": "đánh cá",
+  "readings": [
+   "gyo",
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "券",
+  "hanViet": "KHOÁN",
+  "meaning": "vé, khế ước",
+  "readings": [
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "清",
+  "hanViet": "THANH",
+  "meaning": "sạch, tinh khiết, lọc sạch",
+  "readings": [
+   "kiyoi",
+   "sei",
+   "kyomeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "検",
+  "hanViet": "KIỂM",
+  "meaning": "kiểm tra",
+  "readings": [
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "橋",
+  "hanViet": "KIỀU",
+  "meaning": "cây cầu",
+  "readings": [
+   "kyou",
+   "hashi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "権",
+  "hanViet": "QUYỀN",
+  "meaning": "quyền lực, quyền hạn",
+  "readings": [
+   "ken"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "共",
+  "hanViet": "CUNG",
+  "meaning": "cùng nhau",
+  "readings": [
+   "kyou",
+   "tomo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "軒",
+  "hanViet": "HIÊN",
+  "meaning": "đơn vị đếm nhà, mái nhà",
+  "readings": [
+   "ken",
+   "noki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "協",
+  "hanViet": "HIỆP",
+  "meaning": "hợp tác",
+  "readings": [
+   "kyou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "原",
+  "hanViet": "NGUYÊN",
+  "meaning": "gốc, vốn, cánh đồng",
+  "readings": [
+   "gen",
+   "hara"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "経",
+  "hanViet": "KINH",
+  "meaning": "kinh doanh, quản lý, bán kính",
+  "readings": [
+   "kyou",
+   "heru",
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "減",
+  "hanViet": "GIẢM",
+  "meaning": "giảm xuống, bớt lại",
+  "readings": [
+   "gen",
+   "heru",
+   "herasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "境",
+  "hanViet": "CẢNH",
+  "meaning": "biên giới",
+  "readings": [
+   "kyou",
+   "kei",
+   "sakai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "粉",
+  "hanViet": "PHẤN",
+  "meaning": "phấn, bột",
+  "readings": [
+   "ko",
+   "fun",
+   "kona"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "供",
+  "hanViet": "CUNG",
+  "meaning": "cung cấp, bổ sung",
+  "readings": [
+   "kyou",
+   "tomo",
+   "sonaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "戸",
+  "hanViet": "HỘ",
+  "meaning": "nhà cửa",
+  "readings": [
+   "ko",
+   "to"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "胸",
+  "hanViet": "HUNG",
+  "meaning": "ngực",
+  "readings": [
+   "kyou",
+   "mune",
+   "muna"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "湖",
+  "hanViet": "HỒ",
+  "meaning": "hồ nước, ao lớn",
+  "readings": [
+   "ko",
+   "mizuumi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "叫",
+  "hanViet": "KHIẾU",
+  "meaning": "kêu lên",
+  "readings": [
+   "kyou",
+   "sakebu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "個",
+  "hanViet": "CÁ",
+  "meaning": "cá nhân, cái",
+  "readings": [
+   "ko"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "況",
+  "hanViet": "HUỐNG",
+  "meaning": "điều kiện, tình trạng",
+  "readings": [
+   "kyou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "呼",
+  "hanViet": "HÔ",
+  "meaning": "gọi",
+  "readings": [
+   "ko",
+   "yobu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "狭",
+  "hanViet": "HIỆP",
+  "meaning": "hẹp, thâu lại",
+  "readings": [
+   "kyou",
+   "semai",
+   "sebameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "雇",
+  "hanViet": "CỐ",
+  "meaning": "thuê mướn",
+  "readings": [
+   "ko",
+   "yatou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "挟",
+  "hanViet": "HIỆP/ TIỆP",
+  "meaning": "kẹp vào giữa",
+  "readings": [
+   "kyou",
+   "hasamu",
+   "hasamaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "互",
+  "hanViet": "HỖ",
+  "meaning": "tương tác, hỗ trợ",
+  "readings": [
+   "go",
+   "tagai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "曲",
+  "hanViet": "KHÚC",
+  "meaning": "ca khúc, bẻ cong",
+  "readings": [
+   "kyoku",
+   "magaru",
+   "mageru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "恋",
+  "hanViet": "LUYẾN",
+  "meaning": "yêu",
+  "readings": [
+   "koi",
+   "ren",
+   "koishii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "局",
+  "hanViet": "CỤC",
+  "meaning": "văn phòng, bộ phận",
+  "readings": [
+   "kyoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "濃",
+  "hanViet": "NỒNG",
+  "meaning": "đậm",
+  "readings": [
+   "koi",
+   "nou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "極",
+  "hanViet": "CỰC",
+  "meaning": "cực kỳ, cực độ, vùng cực ( Nam, Bắc)",
+  "readings": [
+   "kyoku",
+   "goku",
+   "kiwameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "光",
+  "hanViet": "QUANG",
+  "meaning": "ánh sáng",
+  "readings": [
+   "kou",
+   "hikaru",
+   "hikari"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "玉",
+  "hanViet": "NGỌC",
+  "meaning": "đá quý, hình tròn",
+  "readings": [
+   "gyoku",
+   "tama"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "向",
+  "hanViet": "HƯỚNG",
+  "meaning": "hướng về, đối diện",
+  "readings": [
+   "kou",
+   "muku",
+   "mukou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "際",
+  "hanViet": "TẾ",
+  "meaning": "lúc, dịp, giao tế, phía, mép",
+  "readings": [
+   "kiwa",
+   "sai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "幸",
+  "hanViet": "HẠNH",
+  "meaning": "hạnh phúc",
+  "readings": [
+   "kou",
+   "saiwai",
+   "shiawase"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "均",
+  "hanViet": "QUÂN",
+  "meaning": "bằng, đều",
+  "readings": [
+   "kin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "港",
+  "hanViet": "CẢNG",
+  "meaning": "cảng, hải cảng",
+  "readings": [
+   "kou",
+   "minato"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "禁",
+  "hanViet": "CẤM",
+  "meaning": "cấm, không cho phép",
+  "readings": [
+   "kin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "好",
+  "hanViet": "HẢO",
+  "meaning": "thích",
+  "readings": [
+   "kou",
+   "konomu",
+   "suku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "勤",
+  "hanViet": "CẦN",
+  "meaning": "phục vụ, làm việc",
+  "readings": [
+   "kin",
+   "gon",
+   "tsutomeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "航",
+  "hanViet": "HÀNG",
+  "meaning": "đi tàu, máy bay",
+  "readings": [
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "区",
+  "hanViet": "KHU",
+  "meaning": "quận, khu",
+  "readings": [
+   "ku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "候",
+  "hanViet": "HẬU",
+  "meaning": "khí hậu",
+  "readings": [
+   "kou",
+   "sourou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "苦",
+  "hanViet": "KHỔ",
+  "meaning": "đau khổ, cay đắng",
+  "readings": [
+   "ku",
+   "kurushii",
+   "nigai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "耕",
+  "hanViet": "CANH",
+  "meaning": "canh tác, trồng cấy",
+  "readings": [
+   "kou",
+   "tagayasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "庫",
+  "hanViet": "KHỐ",
+  "meaning": "nhà kho",
+  "readings": [
+   "ku",
+   "ko"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鉱",
+  "hanViet": "KHOÁNG",
+  "meaning": "khoáng sản",
+  "readings": [
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "紅",
+  "hanViet": "HỒNG",
+  "meaning": "đỏ đậm, son đỏ",
+  "readings": [
+   "ku",
+   "kou",
+   "beni"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "講",
+  "hanViet": "GIẢNG",
+  "meaning": "bài giảng",
+  "readings": [
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "具",
+  "hanViet": "CỤ",
+  "meaning": "dụng cụ, cụ thể",
+  "readings": [
+   "gu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "更",
+  "hanViet": "CÁNH",
+  "meaning": "cơ hội, thay đổi",
+  "readings": [
+   "kou",
+   "sara",
+   "fukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "偶",
+  "hanViet": "NGẪU",
+  "meaning": "cơ hội, ngẫu nhiên",
+  "readings": [
+   "guu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "肯",
+  "hanViet": "KHẲNG",
+  "meaning": "đồng ý, ưng thuận",
+  "readings": [
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "隅",
+  "hanViet": "ÔI",
+  "meaning": "góc",
+  "readings": [
+   "guu",
+   "sumi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "郊",
+  "hanViet": "GIAO",
+  "meaning": "ngoại ô",
+  "readings": [
+   "kou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "草",
+  "hanViet": "THẢO",
+  "meaning": "cỏ",
+  "readings": [
+   "kusa",
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "号",
+  "hanViet": "HIỆU",
+  "meaning": "số, ký hiệu, tín hiệu",
+  "readings": [
+   "gou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "薬",
+  "hanViet": "DƯỢC",
+  "meaning": "thuốc",
+  "readings": [
+   "kusuri",
+   "yaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "被",
+  "hanViet": "BỊ",
+  "meaning": "đội nón, chịu, bị",
+  "readings": [
+   "koumuru",
+   "hi",
+   "kaburu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "掘",
+  "hanViet": "QUẬT",
+  "meaning": "đào",
+  "readings": [
+   "kutsu",
+   "horu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "声",
+  "hanViet": "THANH",
+  "meaning": "giọng, tiếng",
+  "readings": [
+   "koe",
+   "sei",
+   "kowa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "配",
+  "hanViet": "PHỐI",
+  "meaning": "phân phối",
+  "readings": [
+   "kubaru",
+   "hai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "超",
+  "hanViet": "SIÊU",
+  "meaning": "rất, cực độ, vượt lên",
+  "readings": [
+   "koeru",
+   "chou",
+   "kosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "首",
+  "hanViet": "THỦ",
+  "meaning": "cái cổ, cái đầu",
+  "readings": [
+   "kubi",
+   "shu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "氷",
+  "hanViet": "BĂNG",
+  "meaning": "nước đá, băng",
+  "readings": [
+   "koori",
+   "hyou",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "組",
+  "hanViet": "TỔ",
+  "meaning": "tổ chức, kết hợp",
+  "readings": [
+   "kumi",
+   "so",
+   "kumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "凍",
+  "hanViet": "ĐÔNG",
+  "meaning": "đông lạnh",
+  "readings": [
+   "kooru",
+   "tou",
+   "kogoeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "曇",
+  "hanViet": "ĐÀM",
+  "meaning": "phủ mây",
+  "readings": [
+   "kumoru",
+   "don"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "谷",
+  "hanViet": "CỐC",
+  "meaning": "thung lũng, khe núi",
+  "readings": [
+   "koku",
+   "tani"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "蔵",
+  "hanViet": "TÀNG",
+  "meaning": "nhà kho",
+  "readings": [
+   "kura",
+   "zou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "告",
+  "hanViet": "CÁO",
+  "meaning": "khuyến cáo",
+  "readings": [
+   "koku",
+   "tsugeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "暮",
+  "hanViet": "MỘ",
+  "meaning": "trở nên tối, sinh sống",
+  "readings": [
+   "kurasu",
+   "bo",
+   "kureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "腰",
+  "hanViet": "YÊU",
+  "meaning": "eo, hông",
+  "readings": [
+   "koshi",
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "比",
+  "hanViet": "TỈ",
+  "meaning": "so sánh",
+  "readings": [
+   "kuraberu",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "骨",
+  "hanViet": "CỐT",
+  "meaning": "xương",
+  "readings": [
+   "kotsu",
+   "hone"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "訓",
+  "hanViet": "HUẤN",
+  "meaning": "âm Nhật, lời chỉ dạy, huấn luyện",
+  "readings": [
+   "kun"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "断",
+  "hanViet": "ĐOẠN",
+  "meaning": "từ chối, đoạn tuyệt",
+  "readings": [
+   "kotowaru",
+   "dan",
+   "tatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "軍",
+  "hanViet": "QUÂN",
+  "meaning": "quân đội",
+  "readings": [
+   "gun"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "細",
+  "hanViet": "TẾ",
+  "meaning": "mỏng, nhỏ, chi tiết",
+  "readings": [
+   "komakai",
+   "sai",
+   "hosoi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "群",
+  "hanViet": "QUẦN",
+  "meaning": "nhóm, bầy đàn",
+  "readings": [
+   "gun",
+   "mureru",
+   "mure"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "困",
+  "hanViet": "KHỐN",
+  "meaning": "khó khăn, gặp vấn đề",
+  "readings": [
+   "komaru",
+   "kon"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "毛",
+  "hanViet": "MAO",
+  "meaning": "tóc",
+  "readings": [
+   "ke",
+   "mou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "込",
+  "hanViet": "",
+  "meaning": "(vào) chen chúc, vào",
+  "readings": [
+   "komu",
+   "komeru"
+  ],
+  "needsReview": true
+ },
+ {
+  "character": "景",
+  "hanViet": "CẢNH",
+  "meaning": "phong cảnh",
+  "readings": [
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "米",
+  "hanViet": "MỄ",
+  "meaning": "gạo",
+  "readings": [
+   "kome",
+   "bei",
+   "mai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "警",
+  "hanViet": "CẢNH",
+  "meaning": "khuyến cáo",
+  "readings": [
+   "kei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "殺",
+  "hanViet": "SÁT",
+  "meaning": "giết",
+  "readings": [
+   "korosu",
+   "satsu",
+   "sai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "芸",
+  "hanViet": "NGHỆ",
+  "meaning": "nghệ thuật",
+  "readings": [
+   "gei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "怖",
+  "hanViet": "BỐ",
+  "meaning": "sợ hãi",
+  "readings": [
+   "kowai",
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "迎",
+  "hanViet": "NGHINH",
+  "meaning": "chào đón",
+  "readings": [
+   "gei",
+   "mukaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "根",
+  "hanViet": "CĂN",
+  "meaning": "rễ",
+  "readings": [
+   "kon",
+   "ne"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "劇",
+  "hanViet": "KỊCH",
+  "meaning": "kịch, phim",
+  "readings": [
+   "geki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "混",
+  "hanViet": "HỖN",
+  "meaning": "pha trộn",
+  "readings": [
+   "kon",
+   "majiru",
+   "mazaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "血",
+  "hanViet": "HUYẾT",
+  "meaning": "máu",
+  "readings": [
+   "ketsu",
+   "chi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "婚",
+  "hanViet": "HÔN",
+  "meaning": "kết hôn",
+  "readings": [
+   "kon"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "差",
+  "hanViet": "SAI",
+  "meaning": "khác biệt",
+  "readings": [
+   "sa",
+   "sasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "児",
+  "hanViet": "NHI",
+  "meaning": "trẻ nhỏ",
+  "readings": [
+   "ji",
+   "ni"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "査",
+  "hanViet": "TRA",
+  "meaning": "tìm kiếm, điều tra",
+  "readings": [
+   "sa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "辞",
+  "hanViet": "TỪ",
+  "meaning": "từ điển, từ chức",
+  "readings": [
+   "ji",
+   "yameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "砂",
+  "hanViet": "SA",
+  "meaning": "cát",
+  "readings": [
+   "sa",
+   "sha",
+   "suna"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "似",
+  "hanViet": "TỰ",
+  "meaning": "giống như",
+  "readings": [
+   "ji",
+   "niru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "再",
+  "hanViet": "TÁI",
+  "meaning": "lặp lại, lần nữa",
+  "readings": [
+   "sa",
+   "sai",
+   "futatabi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "除",
+  "hanViet": "TRỪ",
+  "meaning": "loại trừ",
+  "readings": [
+   "ji",
+   "jo",
+   "nozoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "座",
+  "hanViet": "TỌA",
+  "meaning": "ngồi",
+  "readings": [
+   "za",
+   "suwaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "式",
+  "hanViet": "THỨC",
+  "meaning": "lễ, hình thức",
+  "readings": [
+   "shiki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "才",
+  "hanViet": "TÀI",
+  "meaning": "tài năng, tuổi",
+  "readings": [
+   "sai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "識",
+  "hanViet": "THỨC",
+  "meaning": "biết, kiến thức",
+  "readings": [
+   "shiki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "祭",
+  "hanViet": "TẾ",
+  "meaning": "tôn sùng, buổi lễ",
+  "readings": [
+   "sai",
+   "matsuri",
+   "matsuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "直",
+  "hanViet": "TRỰC",
+  "meaning": "trực tiếp, sửa chữa",
+  "readings": [
+   "jiki",
+   "choku",
+   "naosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "菜",
+  "hanViet": "THÁI",
+  "meaning": "rau",
+  "readings": [
+   "sai",
+   "na"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "静",
+  "hanViet": "TĨNH",
+  "meaning": "yên tĩnh",
+  "readings": [
+   "shizuka",
+   "sei",
+   "jou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "最",
+  "hanViet": "TỐI",
+  "meaning": "nhất, tối cao",
+  "readings": [
+   "sai",
+   "mottomo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "滴",
+  "hanViet": "TRÍCH/ ĐÍCH",
+  "meaning": "giọt (dung dịch)",
+  "readings": [
+   "shizuku",
+   "teki",
+   "shitataru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "妻",
+  "hanViet": "PHU",
+  "meaning": "vợ",
+  "readings": [
+   "sai",
+   "tsuma"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "沈",
+  "hanViet": "TRẦM",
+  "meaning": "chìm",
+  "readings": [
+   "shizumu",
+   "chin",
+   "shizumeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "採",
+  "hanViet": "THÁI/ THẢI",
+  "meaning": "hái, thuê, nhận",
+  "readings": [
+   "sai",
+   "toru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "湿",
+  "hanViet": "THẤP",
+  "meaning": "ẩm ướt, làm ướt",
+  "readings": [
+   "shimeru",
+   "shimesu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "済",
+  "hanViet": "TẾ",
+  "meaning": "làm xong, trả, quản lý",
+  "readings": [
+   "sai",
+   "sumu",
+   "sumasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "実",
+  "hanViet": "THỰC",
+  "meaning": "sự thực, kết trái, trái cây, nhân",
+  "readings": [
+   "jitsu",
+   "mi",
+   "minoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "歳",
+  "hanViet": "TUẾ",
+  "meaning": "năm, tuổi",
+  "readings": [
+   "sai",
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "島",
+  "hanViet": "ĐẢO",
+  "meaning": "hòn đảo",
+  "readings": [
+   "shima",
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "財",
+  "hanViet": "TÀI",
+  "meaning": "tiền của, giàu có",
+  "readings": [
+   "sai",
+   "zai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "閉",
+  "hanViet": "BẾ",
+  "meaning": "đóng, phong tỏa",
+  "readings": [
+   "shimeru",
+   "tojiru",
+   "hei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "材",
+  "hanViet": "TÀI",
+  "meaning": "nguyên liệu",
+  "readings": [
+   "zai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "捨",
+  "hanViet": "SẢ",
+  "meaning": "vứt bỏ",
+  "readings": [
+   "sha",
+   "suteru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "罪",
+  "hanViet": "TỘI",
+  "meaning": "tội lỗi",
+  "readings": [
+   "zai",
+   "tsumi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "昔",
+  "hanViet": "TÍCH",
+  "meaning": "cũ, ngày xưa",
+  "readings": [
+   "shaku",
+   "seki",
+   "mukashi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "坂",
+  "hanViet": "PHẢN",
+  "meaning": "đường dốc, đồi",
+  "readings": [
+   "saka",
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "弱",
+  "hanViet": "NHƯỢC",
+  "meaning": "yếu, bệnh",
+  "readings": [
+   "jaku",
+   "yowai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "酒",
+  "hanViet": "TỬU",
+  "meaning": "rượu",
+  "readings": [
+   "sake",
+   "shu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "若",
+  "hanViet": "NHƯỢC",
+  "meaning": "trẻ, tuổi trẻ",
+  "readings": [
+   "jaku",
+   "wakai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "探",
+  "hanViet": "THÁM",
+  "meaning": "tìm kiếm",
+  "readings": [
+   "sagasu",
+   "tan",
+   "saguru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "守",
+  "hanViet": "THỦ",
+  "meaning": "bảo vệ, giữ gìn",
+  "readings": [
+   "shu",
+   "mamoru",
+   "mori"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "捜",
+  "hanViet": "SƯU",
+  "meaning": "tìm kiếm, điều tra",
+  "readings": [
+   "sagasu",
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "取",
+  "hanViet": "THỦ",
+  "meaning": "lấy",
+  "readings": [
+   "shu",
+   "toru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "杯",
+  "hanViet": "BÔI",
+  "meaning": "cốc, chén rượu, đơn vị đếm",
+  "readings": [
+   "sakazuki",
+   "hai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "種",
+  "hanViet": "CHỦNG",
+  "meaning": "hạt giống, chủng loại",
+  "readings": [
+   "shu",
+   "tane"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "咲",
+  "hanViet": "TIẾU",
+  "meaning": "nở hoa",
+  "readings": [
+   "saku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "州",
+  "hanViet": "CHÂU",
+  "meaning": "đại lục, tiểu bang, cồn đất",
+  "readings": [
+   "shuu",
+   "su"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "昨",
+  "hanViet": "TÁC",
+  "meaning": "hôm qua",
+  "readings": [
+   "saku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "拾",
+  "hanViet": "THẬP",
+  "meaning": "thu thập, tìm, nhặt",
+  "readings": [
+   "shuu",
+   "juu",
+   "hirou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "冊",
+  "hanViet": "SÁCH",
+  "meaning": "đơn vị đếm quyển sách",
+  "readings": [
+   "saku",
+   "satsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "周",
+  "hanViet": "CHU",
+  "meaning": "xung quanh, chu vi",
+  "readings": [
+   "shuu",
+   "mawari"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "支",
+  "hanViet": "CHI",
+  "meaning": "chi nhánh, chi viện",
+  "readings": [
+   "sasaeru",
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "船",
+  "hanViet": "THUYỀN",
+  "meaning": "thuyền, tàu",
+  "readings": [
+   "shuu",
+   "fune",
+   "funa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "刺",
+  "hanViet": "THÍCH",
+  "meaning": "đâm thủng",
+  "readings": [
+   "sasaru",
+   "shi",
+   "sasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "柔",
+  "hanViet": "NHU",
+  "meaning": "mềm",
+  "readings": [
+   "juu",
+   "nyuu",
+   "yawarakai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "指",
+  "hanViet": "CHỈ",
+  "meaning": "chỉ, ngón tay",
+  "readings": [
+   "sasu",
+   "shi",
+   "yubi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "宿",
+  "hanViet": "TÚC",
+  "meaning": "ở lại",
+  "readings": [
+   "shuku",
+   "yado",
+   "yadoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "定",
+  "hanViet": "ĐỊNH",
+  "meaning": "chỉ định, quyết định",
+  "readings": [
+   "sadaka",
+   "tei",
+   "jou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "述",
+  "hanViet": "THUẬT",
+  "meaning": "tường thuật, nói lại",
+  "readings": [
+   "jutsu",
+   "noberu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "札",
+  "hanViet": "TRÁT",
+  "meaning": "tiền giấy, cái thẻ, nhãn",
+  "readings": [
+   "satsu",
+   "fuda"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "術",
+  "hanViet": "THUẬT",
+  "meaning": "nghệ thuật",
+  "readings": [
+   "jutsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "刷",
+  "hanViet": "LOÁT",
+  "meaning": "in ấn",
+  "readings": [
+   "satsu",
+   "suru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "順",
+  "hanViet": "THUẬN",
+  "meaning": "tuân lệnh, thuận lợi",
+  "readings": [
+   "jun"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "察",
+  "hanViet": "SÁT",
+  "meaning": "xem xét, thương xót",
+  "readings": [
+   "satsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "準",
+  "hanViet": "CHUẨN",
+  "meaning": "tiêu chuẩn",
+  "readings": [
+   "jun"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "雑",
+  "hanViet": "TẠP",
+  "meaning": "phức tạp, nhiều",
+  "readings": [
+   "zatsu",
+   "zou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "純",
+  "hanViet": "THUẦN",
+  "meaning": "tinh khiết",
+  "readings": [
+   "jun"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "様",
+  "hanViet": "DẠNG",
+  "meaning": "hình dạng, Ông/ Bà",
+  "readings": [
+   "sama",
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "所",
+  "hanViet": "SỞ",
+  "meaning": "nơi",
+  "readings": [
+   "sho",
+   "tokoro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "冷",
+  "hanViet": "LÃNH",
+  "meaning": "lạnh",
+  "readings": [
+   "samasu",
+   "rei",
+   "tsumetai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "処",
+  "hanViet": "SỬ",
+  "meaning": "xử lý",
+  "readings": [
+   "sho"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "皿",
+  "hanViet": "MÃNH",
+  "meaning": "cái dĩa",
+  "readings": [
+   "sara"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "署",
+  "hanViet": "THỰ",
+  "meaning": "công sở, trạm",
+  "readings": [
+   "sho"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "触",
+  "hanViet": "XÚC",
+  "meaning": "tiếp xúc, sờ, chạm",
+  "readings": [
+   "sawaru",
+   "shoku",
+   "fureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "諸",
+  "hanViet": "CHƯ",
+  "meaning": "tất cả, các",
+  "readings": [
+   "sho"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "算",
+  "hanViet": "TOÁN",
+  "meaning": "tính toán",
+  "readings": [
+   "san"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "助",
+  "hanViet": "TRỢ",
+  "meaning": "giúp đỡ, thoát nạn",
+  "readings": [
+   "jo",
+   "tasukeru",
+   "tasukaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "参",
+  "hanViet": "THAM",
+  "meaning": "tham gia",
+  "readings": [
+   "san",
+   "mairu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "章",
+  "hanViet": "CHƯƠNG",
+  "meaning": "chương, phần",
+  "readings": [
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "散",
+  "hanViet": "TÁN",
+  "meaning": "phân tán, phát tán, rải",
+  "readings": [
+   "san",
+   "chiru",
+   "chirakasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "焼",
+  "hanViet": "THIÊU",
+  "meaning": "nướng, đốt",
+  "readings": [
+   "shou",
+   "yaku",
+   "yakeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "賛",
+  "hanViet": "TÁN",
+  "meaning": "tán thành, đồng ý",
+  "readings": [
+   "san"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "象",
+  "hanViet": "TƯỢNG",
+  "meaning": "biểu tượng, con voi",
+  "readings": [
+   "shou",
+   "zou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "残",
+  "hanViet": "TÀNG",
+  "meaning": "còn lại, để lại",
+  "readings": [
+   "zan",
+   "nokoru",
+   "nokosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "照",
+  "hanViet": "CHIẾU",
+  "meaning": "soi sáng, chiếu vào",
+  "readings": [
+   "shou",
+   "teru",
+   "tereru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "次",
+  "hanViet": "THỨ",
+  "meaning": "kế tiếp",
+  "readings": [
+   "shi",
+   "ji",
+   "tsugi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "賞",
+  "hanViet": "THƯỞNG",
+  "meaning": "giải thưởng",
+  "readings": [
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "歯",
+  "hanViet": "NHA",
+  "meaning": "răng",
+  "readings": [
+   "shi",
+   "ha"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "招",
+  "hanViet": "CHIÊU",
+  "meaning": "mời, đãi",
+  "readings": [
+   "shou",
+   "maneku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "史",
+  "hanViet": "SỬ",
+  "meaning": "lịch sử",
+  "readings": [
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "性",
+  "hanViet": "TÍNH/ TÁNH",
+  "meaning": "giới tính, giống, bản chất",
+  "readings": [
+   "shou",
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "示",
+  "hanViet": "THỊ",
+  "meaning": "cho xem",
+  "readings": [
+   "shi",
+   "ji",
+   "shimesu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "将",
+  "hanViet": "TƯỚNG",
+  "meaning": "tướng quân, tổng tư lệnh",
+  "readings": [
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "師",
+  "hanViet": "SƯ",
+  "meaning": "giáo viên, giáo sư",
+  "readings": [
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "装",
+  "hanViet": "TRANG",
+  "meaning": "mặc, giả bộ, cải trang",
+  "readings": [
+   "shou",
+   "sou",
+   "yosoou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "資",
+  "hanViet": "TƯ",
+  "meaning": "nguồn",
+  "readings": [
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "召",
+  "hanViet": "TRIỆU",
+  "meaning": "mời, vẫy",
+  "readings": [
+   "shou",
+   "mesu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "詞",
+  "hanViet": "TỪ",
+  "meaning": "từ, từ vựng",
+  "readings": [
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "床",
+  "hanViet": "SÀNG",
+  "meaning": "giường, sàn nhà",
+  "readings": [
+   "shou",
+   "toko",
+   "yuka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "誌",
+  "hanViet": "CHÍ",
+  "meaning": "tạp chí, báo",
+  "readings": [
+   "shi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "姓",
+  "hanViet": "TÍNH/ TÁNH",
+  "meaning": "họ, giòng họ",
+  "readings": [
+   "shou",
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "路",
+  "hanViet": "LỘ",
+  "meaning": "con đường",
+  "readings": [
+   "ji",
+   "ro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "昇",
+  "hanViet": "THĂNG",
+  "meaning": "tăng lên, mọc",
+  "readings": [
+   "shou",
+   "noboru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "耳",
+  "hanViet": "NHĨ",
+  "meaning": "lỗ tai",
+  "readings": [
+   "ji",
+   "mimi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "紹",
+  "hanViet": "THIỆU",
+  "meaning": "giới thiệu",
+  "readings": [
+   "shou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "寺",
+  "hanViet": "TỰ",
+  "meaning": "chùa",
+  "readings": [
+   "ji",
+   "tera"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "星",
+  "hanViet": "TINH",
+  "meaning": "ngôi sao",
+  "readings": [
+   "shou",
+   "sei",
+   "hoshi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "政",
+  "hanViet": "CHÍNH",
+  "meaning": "chính trị, luật",
+  "readings": [
+   "shou",
+   "sei",
+   "matsurigoto"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "総",
+  "hanViet": "TỔNG",
+  "meaning": "tổng",
+  "readings": [
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "精",
+  "hanViet": "TINH",
+  "meaning": "tinh thần, sức lực",
+  "readings": [
+   "shou",
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "窓",
+  "hanViet": "SONG",
+  "meaning": "cửa sổ",
+  "readings": [
+   "sou",
+   "mado"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "乗",
+  "hanViet": "THỪA",
+  "meaning": "lên xe, chở",
+  "readings": [
+   "jou",
+   "noru",
+   "noseru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "層",
+  "hanViet": "TẦNG/ TẰNG",
+  "meaning": "lớp, bậc",
+  "readings": [
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "状",
+  "hanViet": "TRẠNG",
+  "meaning": "lá thư",
+  "readings": [
+   "jou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "双",
+  "hanViet": "SONG",
+  "meaning": "sinh đôi, cặp",
+  "readings": [
+   "sou",
+   "futa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "常",
+  "hanViet": "THƯỜNG",
+  "meaning": "bình thường, thông thường",
+  "readings": [
+   "jou",
+   "tsune",
+   "toko"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "掃",
+  "hanViet": "TẢO",
+  "meaning": "quét",
+  "readings": [
+   "sou",
+   "haku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "情",
+  "hanViet": "TÌNH",
+  "meaning": "cảm xúc, tình thương",
+  "readings": [
+   "jou",
+   "sei",
+   "nasake"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "燥",
+  "hanViet": "TÁO",
+  "meaning": "khô",
+  "readings": [
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "城",
+  "hanViet": "THÀNH",
+  "meaning": "lâu đài, thành trì",
+  "readings": [
+   "jou",
+   "shiro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "造",
+  "hanViet": "TẠO",
+  "meaning": "chế tạo, sáng tạo",
+  "readings": [
+   "zou",
+   "tsukuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "蒸",
+  "hanViet": "CHƯNG",
+  "meaning": "bốc hơi, nấu cách thủy",
+  "readings": [
+   "jou",
+   "musu",
+   "mureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "増",
+  "hanViet": "TĂNG",
+  "meaning": "gia tăng",
+  "readings": [
+   "zou",
+   "masu",
+   "fueru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "畳",
+  "hanViet": "ĐIỆP",
+  "meaning": "chiếu tatami, gấp lại",
+  "readings": [
+   "jou",
+   "tatami",
+   "tatamu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "像",
+  "hanViet": "TƯỢNG",
+  "meaning": "hình tượng",
+  "readings": [
+   "zou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "成",
+  "hanViet": "THÀNH",
+  "meaning": "trở thành",
+  "readings": [
+   "jou",
+   "sei",
+   "naru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "臓",
+  "hanViet": "TẠNG",
+  "meaning": "bộ phận trong bụng và ngực",
+  "readings": [
+   "zou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "職",
+  "hanViet": "CHỨC",
+  "meaning": "công việc, nghề",
+  "readings": [
+   "shoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "憎",
+  "hanViet": "TĂNG",
+  "meaning": "ghét, đáng ghét, căm hờn",
+  "readings": [
+   "zou",
+   "nikui",
+   "nikumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "調",
+  "hanViet": "ĐIỀU",
+  "meaning": "điều tra, thu xếp",
+  "readings": [
+   "shiraberu",
+   "chou",
+   "totonou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "束",
+  "hanViet": "THÚC",
+  "meaning": "bó, gói",
+  "readings": [
+   "soku",
+   "taba"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "退",
+  "hanViet": "THOÁI",
+  "meaning": "rút lui",
+  "readings": [
+   "shirizoku",
+   "tai",
+   "shirizokeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "則",
+  "hanViet": "TẮC",
+  "meaning": "quy luật",
+  "readings": [
+   "soku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "森",
+  "hanViet": "SÂM",
+  "meaning": "rừng rậm",
+  "readings": [
+   "shin",
+   "mori"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "測",
+  "hanViet": "TRẮC",
+  "meaning": "đo lường",
+  "readings": [
+   "soku",
+   "hakaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "申",
+  "hanViet": "XƯNG",
+  "meaning": "báo cáo, gọi",
+  "readings": [
+   "shin",
+   "mousu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "続",
+  "hanViet": "TỤC",
+  "meaning": "tiếp tục",
+  "readings": [
+   "zoku",
+   "tsuzuku",
+   "tsuzukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "身",
+  "hanViet": "THÂN",
+  "meaning": "cơ thể",
+  "readings": [
+   "shin",
+   "mi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "底",
+  "hanViet": "ĐÊ",
+  "meaning": "đáy",
+  "readings": [
+   "soko",
+   "tei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "深",
+  "hanViet": "THÂM",
+  "meaning": "sâu",
+  "readings": [
+   "shin",
+   "fukai",
+   "fukameru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "損",
+  "hanViet": "TỔN",
+  "meaning": "tổn thất, thiệt hại",
+  "readings": [
+   "sokonau",
+   "son",
+   "sokoneru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "進",
+  "hanViet": "TIẾN",
+  "meaning": "tiến lên",
+  "readings": [
+   "shin",
+   "susumu",
+   "susumeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "卒",
+  "hanViet": "TỐT",
+  "meaning": "tốt nghiệp",
+  "readings": [
+   "sotsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "臣",
+  "hanViet": "THẦN",
+  "meaning": "bầy tôi, công dân",
+  "readings": [
+   "shin",
+   "jin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "率",
+  "hanViet": "XUẤT",
+  "meaning": "tỉ lệ",
+  "readings": [
+   "sotsu",
+   "ritsu",
+   "hikiiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "信",
+  "hanViet": "TÍN",
+  "meaning": "tin tưởng, thông điệp",
+  "readings": [
+   "shin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "備",
+  "hanViet": "BỊ",
+  "meaning": "chuẩn bị, dự phòng, cung cấp",
+  "readings": [
+   "sonaeru",
+   "bi",
+   "sonawaru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "針",
+  "hanViet": "KIM",
+  "meaning": "cây kim",
+  "readings": [
+   "shin",
+   "hari"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "反",
+  "hanViet": "PHẢN",
+  "meaning": "chống lại, quay lại",
+  "readings": [
+   "sorasu",
+   "han",
+   "tan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "伸",
+  "hanViet": "THÂN",
+  "meaning": "nở ra, kéo dài, duỗi ra",
+  "readings": [
+   "shin",
+   "nobiru",
+   "nobosu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "村",
+  "hanViet": "THÔN",
+  "meaning": "ngôi làng",
+  "readings": [
+   "son",
+   "mura"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "寝",
+  "hanViet": "TẨM",
+  "meaning": "ngủ, đặt vào giường",
+  "readings": [
+   "shin",
+   "neru",
+   "nekasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "孫",
+  "hanViet": "TÔN",
+  "meaning": "cháu ( ông bà)",
+  "readings": [
+   "son",
+   "mago"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "震",
+  "hanViet": "CHẤN",
+  "meaning": "chấn động",
+  "readings": [
+   "shin",
+   "furuu",
+   "furueru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "存",
+  "hanViet": "TỒN",
+  "meaning": "có, tồn tại, biết",
+  "readings": [
+   "son",
+   "zon"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "吹",
+  "hanViet": "XUY/ XÚY",
+  "meaning": "thổi",
+  "readings": [
+   "sui",
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "尊",
+  "hanViet": "TÔN",
+  "meaning": "tôn trọng, tôn kính",
+  "readings": [
+   "son",
+   "toutobu",
+   "tattobu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "末",
+  "hanViet": "MẠT",
+  "meaning": "cuối cùng",
+  "readings": [
+   "sue",
+   "matsu",
+   "batsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "太",
+  "hanViet": "THÁI",
+  "meaning": "mập,dày",
+  "readings": [
+   "ta",
+   "futoi",
+   "tai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "優",
+  "hanViet": "ƯU",
+  "meaning": "giỏi, dễ thương, tốt",
+  "readings": [
+   "sugureru",
+   "you",
+   "yasashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "袋",
+  "hanViet": "ĐẠI",
+  "meaning": "cái bao, túi",
+  "readings": [
+   "tai",
+   "fukuro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "涼",
+  "hanViet": "LƯƠNG",
+  "meaning": "mát, làm mát",
+  "readings": [
+   "suzushii",
+   "ryou",
+   "suzumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "第",
+  "hanViet": "ĐỆ",
+  "meaning": "thứ tự, số",
+  "readings": [
+   "dai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "炭",
+  "hanViet": "THÁN",
+  "meaning": "than đốt",
+  "readings": [
+   "sumi",
+   "tan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "平",
+  "hanViet": "BÌNH",
+  "meaning": "ngay thẳng, bằng phẳng",
+  "readings": [
+   "taira",
+   "hei",
+   "byou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "速",
+  "hanViet": "TỐC",
+  "meaning": "nhanh",
+  "readings": [
+   "sumiyaka",
+   "soku",
+   "hayai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "倒",
+  "hanViet": "ĐẢO",
+  "meaning": "ngã, đốn ngã",
+  "readings": [
+   "taosu",
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "背",
+  "hanViet": "BỐI",
+  "meaning": "lưng, chiều cao, bất tuân, quay đi",
+  "readings": [
+   "se",
+   "hai",
+   "somuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "宝",
+  "hanViet": "BẢO",
+  "meaning": "quý giá, châu báu",
+  "readings": [
+   "takara",
+   "hou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "晴",
+  "hanViet": "TÌNH",
+  "meaning": "trời quang đãng",
+  "readings": [
+   "sei",
+   "hareru",
+   "harasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "宅",
+  "hanViet": "TRẠCH",
+  "meaning": "nhà",
+  "readings": [
+   "taku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "制",
+  "hanViet": "CHẾ",
+  "meaning": "hệ thống, điều khiển",
+  "readings": [
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "濯",
+  "hanViet": "TRẠC",
+  "meaning": "rửa, giặt",
+  "readings": [
+   "taku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "製",
+  "hanViet": "CHẾ",
+  "meaning": "sản phẩm, chế tạo",
+  "readings": [
+   "sei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "竹",
+  "hanViet": "TRÚC",
+  "meaning": "tre",
+  "readings": [
+   "take",
+   "chiku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "税",
+  "hanViet": "THUẾ",
+  "meaning": "thuế",
+  "readings": [
+   "zei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "達",
+  "hanViet": "ĐẠT",
+  "meaning": "đến, đạt được",
+  "readings": [
+   "tatsu",
+   "tachi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "説",
+  "hanViet": "THUYẾT",
+  "meaning": "giải thích, tiểu thuyết",
+  "readings": [
+   "zei",
+   "setsu",
+   "toku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "例",
+  "hanViet": "LỆ",
+  "meaning": "ví dụ, so sánh, thói quen",
+  "readings": [
+   "tatoeru",
+   "rei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "席",
+  "hanViet": "TỊCH",
+  "meaning": "chỗ ngồi",
+  "readings": [
+   "seki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "頼",
+  "hanViet": "LẠI",
+  "meaning": "yêu cầu, đáng tin, tin cậy",
+  "readings": [
+   "tanomu",
+   "rai",
+   "tanomoshii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "積",
+  "hanViet": "TÍCH",
+  "meaning": "chất đống",
+  "readings": [
+   "seki",
+   "tsumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "卵",
+  "hanViet": "NOÃN",
+  "meaning": "trứng",
+  "readings": [
+   "tamago",
+   "ran"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "責",
+  "hanViet": "TRÁCH",
+  "meaning": "trách nhiệm, chỉ trích, kết án",
+  "readings": [
+   "seki",
+   "semeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "民",
+  "hanViet": "DÂN",
+  "meaning": "người dân",
+  "readings": [
+   "tami",
+   "min"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "績",
+  "hanViet": "TÍCH",
+  "meaning": "công lao",
+  "readings": [
+   "seki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "便",
+  "hanViet": "TIỆN",
+  "meaning": "tiện lợi, bưu điện, tin tức",
+  "readings": [
+   "tayori",
+   "ben",
+   "bin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "隻",
+  "hanViet": "CHÍCH",
+  "meaning": "đơn vị đếm tàu, một cái",
+  "readings": [
+   "seki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "短",
+  "hanViet": "ĐOẢN",
+  "meaning": "ngắn",
+  "readings": [
+   "tan",
+   "mijikai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "籍",
+  "hanViet": "TỊCH",
+  "meaning": "sổ hộ tịch",
+  "readings": [
+   "seki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "単",
+  "hanViet": "ĐƠN",
+  "meaning": "đơn độc, giản dị",
+  "readings": [
+   "tan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "雪",
+  "hanViet": "TUYẾT",
+  "meaning": "tuyết",
+  "readings": [
+   "setsu",
+   "yuki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "談",
+  "hanViet": "ĐÀM",
+  "meaning": "nói chuyện, đối thoại",
+  "readings": [
+   "dan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "設",
+  "hanViet": "THIẾT",
+  "meaning": "thiết lập, lập nên",
+  "readings": [
+   "setsu",
+   "moukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "段",
+  "hanViet": "ĐOẠN",
+  "meaning": "giai đoạn, bậc thang",
+  "readings": [
+   "dan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "接",
+  "hanViet": "TIẾP",
+  "meaning": "tiếp xúc, nối",
+  "readings": [
+   "setsu",
+   "tsugu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "乳",
+  "hanViet": "NHŨ",
+  "meaning": "sữa mẹ, vú",
+  "readings": [
+   "chi",
+   "nyuu",
+   "chichi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "絶",
+  "hanViet": "TUYỆT",
+  "meaning": "chết, hết sạch, đứt đoạn",
+  "readings": [
+   "zetsu",
+   "taeru",
+   "tatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "恥",
+  "hanViet": "SĨ",
+  "meaning": "mắc cỡ, xấu hổ, nhục",
+  "readings": [
+   "chi",
+   "hajiru",
+   "hazukashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "線",
+  "hanViet": "TUYẾN",
+  "meaning": "hàng, vạch, đường",
+  "readings": [
+   "sen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "畜",
+  "hanViet": "SÚC",
+  "meaning": "gia súc",
+  "readings": [
+   "chiku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "専",
+  "hanViet": "CHUYÊN",
+  "meaning": "chuyên môn, chăm chỉ",
+  "readings": [
+   "sen",
+   "mobbara"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "虫",
+  "hanViet": "TRÙNG",
+  "meaning": "côn trùng",
+  "readings": [
+   "chuu",
+   "mushi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "全",
+  "hanViet": "TOÀN",
+  "meaning": "toàn bộ, hoàn toàn",
+  "readings": [
+   "zen",
+   "mattaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "柱",
+  "hanViet": "TRỤ",
+  "meaning": "cây cột, sào",
+  "readings": [
+   "chuu",
+   "hashira"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "然",
+  "hanViet": "NHIÊN",
+  "meaning": "như thế",
+  "readings": [
+   "zen",
+   "nen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "仲",
+  "hanViet": "TRỌNG",
+  "meaning": "tình bạn",
+  "readings": [
+   "chuu",
+   "naka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "祖",
+  "hanViet": "TỔ",
+  "meaning": "tổ tiên",
+  "readings": [
+   "so"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "宙",
+  "hanViet": "TRỤ",
+  "meaning": "vũ trụ, không gian",
+  "readings": [
+   "chuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "想",
+  "hanViet": "TƯỞNG",
+  "meaning": "tưởng tượng, tư tưởng",
+  "readings": [
+   "so",
+   "sou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "駐",
+  "hanViet": "TRÚ",
+  "meaning": "dừng lại, ở lại",
+  "readings": [
+   "chuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "貯",
+  "hanViet": "TRỮ",
+  "meaning": "dự trữ, tích lũy",
+  "readings": [
+   "cho"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鈍",
+  "hanViet": "ĐỘN",
+  "meaning": "ngu đần, cùn, yếu",
+  "readings": [
+   "don",
+   "nibui",
+   "niburu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "庁",
+  "hanViet": "SẢNH",
+  "meaning": "công sở",
+  "readings": [
+   "chou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "無",
+  "hanViet": "VÔ",
+  "meaning": "không",
+  "readings": [
+   "nai",
+   "mu",
+   "bu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "珍",
+  "hanViet": "TRÂN",
+  "meaning": "mới lạ",
+  "readings": [
+   "chin",
+   "mezurashii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "亡",
+  "hanViet": "VONG",
+  "meaning": "chết",
+  "readings": [
+   "nai",
+   "bou",
+   "mou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "都",
+  "hanViet": "ĐÔ",
+  "meaning": "thành phố, đô thị",
+  "readings": [
+   "shi",
+   "to",
+   "miyako"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "流",
+  "hanViet": "LƯU",
+  "meaning": "dòng chảy, chảy, đổ",
+  "readings": [
+   "nagasu",
+   "ryuu",
+   "nagareru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "費",
+  "hanViet": "PHÍ",
+  "meaning": "chi phí",
+  "readings": [
+   "tsuieru",
+   "hi",
+   "tsuiyasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鳴",
+  "hanViet": "MINH",
+  "meaning": "kêu hót, rung chuông",
+  "readings": [
+   "naku",
+   "mei",
+   "naru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "捕",
+  "hanViet": "BỘ/ BỔ",
+  "meaning": "bắt giữ, nắm bắt",
+  "readings": [
+   "tsukamaru",
+   "ho",
+   "toru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "波",
+  "hanViet": "BA",
+  "meaning": "sóng",
+  "readings": [
+   "nami",
+   "ha"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "疲",
+  "hanViet": "BÌ",
+  "meaning": "mệt mỏi",
+  "readings": [
+   "tsukareru",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "並",
+  "hanViet": "TỊNH",
+  "meaning": "thứ tự, xếp hàng",
+  "readings": [
+   "nami",
+   "hei",
+   "naraberu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "付",
+  "hanViet": "PHÓ",
+  "meaning": "gắn vào",
+  "readings": [
+   "tsuku",
+   "fu",
+   "tsukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "涙",
+  "hanViet": "LỆ",
+  "meaning": "nước mắt",
+  "readings": [
+   "namida",
+   "rui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "突",
+  "hanViet": "ĐỘT",
+  "meaning": "xô, đụng, tự nhiên",
+  "readings": [
+   "tsuku",
+   "totsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "悩",
+  "hanViet": "NÃO",
+  "meaning": "phiền, lo lắng, đau buồn",
+  "readings": [
+   "nayamasu",
+   "nou",
+   "nayamu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "包",
+  "hanViet": "BAO",
+  "meaning": "bao, gói lại",
+  "readings": [
+   "tsutsumu",
+   "hou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "軟",
+  "hanViet": "NHUYỄN",
+  "meaning": "mềm dẻo",
+  "readings": [
+   "nan",
+   "yawaraka",
+   "yawarakai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "努",
+  "hanViet": "NỖ",
+  "meaning": "nỗ lực, cố gắng",
+  "readings": [
+   "tsutomeru",
+   "do"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "任",
+  "hanViet": "NHIỆM",
+  "meaning": "trách nhiệm, ủy thác",
+  "readings": [
+   "nin",
+   "makaseru",
+   "makasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "務",
+  "hanViet": "VỤ",
+  "meaning": "phục vụ, làm việc",
+  "readings": [
+   "tsutomeru",
+   "mu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "認",
+  "hanViet": "NHẬN",
+  "meaning": "thừa nhận, công nhận",
+  "readings": [
+   "nin",
+   "mitomeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "募",
+  "hanViet": "MỘ",
+  "meaning": "chiêu tập, sưu tập, mời",
+  "readings": [
+   "tsunoru",
+   "bo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "抜",
+  "hanViet": "BẠT",
+  "meaning": "kéo ra, trừ bỏ",
+  "readings": [
+   "nuku",
+   "batsu",
+   "nukeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "粒",
+  "hanViet": "LẠP",
+  "meaning": "hột",
+  "readings": [
+   "tsubu",
+   "ryuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "布",
+  "hanViet": "BỐ",
+  "meaning": "rao truyền, bố",
+  "readings": [
+   "nuno",
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "連",
+  "hanViet": "LIÊN",
+  "meaning": "nối, liên lạc, dẫn",
+  "readings": [
+   "tsuraneru",
+   "ren",
+   "tsureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "猫",
+  "hanViet": "MIÊU",
+  "meaning": "con mèo",
+  "readings": [
+   "neko",
+   "byou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "庭",
+  "hanViet": "ĐÌNH",
+  "meaning": "vườn, sân, tòa án",
+  "readings": [
+   "tei",
+   "niwa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "眠",
+  "hanViet": "THỤY",
+  "meaning": "giấc ngủ, buồn ngủ",
+  "readings": [
+   "nemui",
+   "min",
+   "nemuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "低",
+  "hanViet": "ĐÊ",
+  "meaning": "thấp, làm cho thấp",
+  "readings": [
+   "tei",
+   "hikui",
+   "hikumeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "練",
+  "hanViet": "LUYỆN",
+  "meaning": "huấn luyện, nhào luyện",
+  "readings": [
+   "neru",
+   "ren"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "停",
+  "hanViet": "ĐÌNH",
+  "meaning": "ngừng lại",
+  "readings": [
+   "tei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "念",
+  "hanViet": "NIỆM",
+  "meaning": "ý tưởng, mong, nhớ",
+  "readings": [
+   "nen"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "程",
+  "hanViet": "TRÌNH",
+  "meaning": "mức độ, trình độ, quá trình",
+  "readings": [
+   "tei",
+   "hodo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "燃",
+  "hanViet": "NHIÊN",
+  "meaning": "đốt cháy, nhiên liệu",
+  "readings": [
+   "nen",
+   "moeru",
+   "moyasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "泥",
+  "hanViet": "NÊ",
+  "meaning": "bùn đất",
+  "readings": [
+   "tei",
+   "doro"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "農",
+  "hanViet": "NÔNG",
+  "meaning": "nông nghiệp, nhà nông",
+  "readings": [
+   "nou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "的",
+  "hanViet": "TÍNH",
+  "meaning": "mục đích, tính chất",
+  "readings": [
+   "teki",
+   "mato"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "能",
+  "hanViet": "NĂNG",
+  "meaning": "khả năng",
+  "readings": [
+   "nou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "適",
+  "hanViet": "THÍCH",
+  "meaning": "thích hợp",
+  "readings": [
+   "teki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "脳",
+  "hanViet": "NÃO",
+  "meaning": "bộ não",
+  "readings": [
+   "nou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鉄",
+  "hanViet": "THIẾT",
+  "meaning": "sắt",
+  "readings": [
+   "tetsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "望",
+  "hanViet": "VỌNG",
+  "meaning": "hy vọng, mong đợi",
+  "readings": [
+   "nozomu",
+   "bou",
+   "mou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "点",
+  "hanViet": "ĐIỂM",
+  "meaning": "dấu chấm, điểm",
+  "readings": [
+   "ten"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "葉",
+  "hanViet": "DIỆP",
+  "meaning": "lá cây",
+  "readings": [
+   "ha",
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "殿",
+  "hanViet": "ĐIỆN",
+  "meaning": "cung điện, vua chúa",
+  "readings": [
+   "ten",
+   "den",
+   "dono"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "破",
+  "hanViet": "PHÁ",
+  "meaning": "xé, rách",
+  "readings": [
+   "ha",
+   "yaburu",
+   "yabureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "登",
+  "hanViet": "ĐĂNG",
+  "meaning": "ghi sổ, leo lên",
+  "readings": [
+   "to",
+   "tou",
+   "noboru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "敗",
+  "hanViet": "BẠI",
+  "meaning": "đánh bại, thất bại",
+  "readings": [
+   "hai",
+   "yabureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "徒",
+  "hanViet": "ĐỒ",
+  "meaning": "đi bộ, bạn, học trò",
+  "readings": [
+   "to"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "倍",
+  "hanViet": "BỘI",
+  "meaning": "gấp đôi",
+  "readings": [
+   "bai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "途",
+  "hanViet": "ĐỒ",
+  "meaning": "trên đường",
+  "readings": [
+   "to"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "量",
+  "hanViet": "LƯỢNG",
+  "meaning": "khối lượng",
+  "readings": [
+   "hakaru",
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "渡",
+  "hanViet": "ĐỘ",
+  "meaning": "trao, băng qua",
+  "readings": [
+   "to",
+   "wataru",
+   "watasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "麦",
+  "hanViet": "MẠCH",
+  "meaning": "lúa mỳ, lúa mạch",
+  "readings": [
+   "baku",
+   "mugi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "塗",
+  "hanViet": "ĐỒ",
+  "meaning": "sơn phết",
+  "readings": [
+   "to",
+   "nutsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "爆",
+  "hanViet": "BỘC/ BẠO",
+  "meaning": "nổ tung",
+  "readings": [
+   "baku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "投",
+  "hanViet": "ĐẦU",
+  "meaning": "ném, liệng",
+  "readings": [
+   "tou",
+   "nageru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "箱",
+  "hanViet": "TƯƠNG/SƯƠNG",
+  "meaning": "cái hộp, thùng",
+  "readings": [
+   "hako"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "等",
+  "hanViet": "ĐẲNG",
+  "meaning": "cấp, đều nhau, tương đương",
+  "readings": [
+   "tou",
+   "hitoshii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "畑",
+  "hanViet": "",
+  "meaning": "( vườn ) vườn ruộng khô",
+  "readings": [
+   "hata",
+   "hatake"
+  ],
+  "needsReview": true
+ },
+ {
+  "character": "湯",
+  "hanViet": "THANG",
+  "meaning": "nước nóng",
+  "readings": [
+   "tou",
+   "yu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "肌",
+  "hanViet": "CƠ",
+  "meaning": "làn da, tính chất",
+  "readings": [
+   "hada"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "灯",
+  "hanViet": "ĐĂNG",
+  "meaning": "đèn",
+  "readings": [
+   "tou",
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "法",
+  "hanViet": "PHÁP",
+  "meaning": "luật, phương thức",
+  "readings": [
+   "hatsu",
+   "hou",
+   "hotsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "党",
+  "hanViet": "ĐẢNG",
+  "meaning": "nhóm, đảng phái",
+  "readings": [
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "鼻",
+  "hanViet": "TỴ",
+  "meaning": "lỗ mũi",
+  "readings": [
+   "hana",
+   "bi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "到",
+  "hanViet": "ĐÁO",
+  "meaning": "đến nơi",
+  "readings": [
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "放",
+  "hanViet": "PHÓNG",
+  "meaning": "thả tự do, thoát khỏi",
+  "readings": [
+   "hanasu",
+   "hou",
+   "hanatsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "逃",
+  "hanViet": "ĐÀO",
+  "meaning": "trốn thoát, chạy trốn",
+  "readings": [
+   "tou",
+   "nigeru",
+   "nogasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "幅",
+  "hanViet": "PHÚC",
+  "meaning": "bề rộng, ảnh hưởng",
+  "readings": [
+   "haba",
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "盗",
+  "hanViet": "ĐẠO",
+  "meaning": "trộm cắp",
+  "readings": [
+   "tou",
+   "nusumu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "林",
+  "hanViet": "LÂM",
+  "meaning": "rừng thưa",
+  "readings": [
+   "hayashi",
+   "rin"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "筒",
+  "hanViet": "ĐỒNG",
+  "meaning": "ống tròn",
+  "readings": [
+   "tou",
+   "tsutsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "腹",
+  "hanViet": "PHỤC/ PHÚC",
+  "meaning": "cái bụng, lòng",
+  "readings": [
+   "hara",
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "塔",
+  "hanViet": "THÁP",
+  "meaning": "cái tháp",
+  "readings": [
+   "tou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "払",
+  "hanViet": "PHẤT",
+  "meaning": "chi trả",
+  "readings": [
+   "harau",
+   "futsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "童",
+  "hanViet": "ĐỒNG",
+  "meaning": "trẻ nhỏ, nhi đồng",
+  "readings": [
+   "dou",
+   "warabe"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "判",
+  "hanViet": "PHÁN",
+  "meaning": "phán xét, phân xử, đóng dấu",
+  "readings": [
+   "han",
+   "ban"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "働",
+  "hanViet": "ĐỘNG",
+  "meaning": "làm việc",
+  "readings": [
+   "tou",
+   "hataraku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "版",
+  "hanViet": "BẢN",
+  "meaning": "in, xuất bản",
+  "readings": [
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "銅",
+  "hanViet": "ĐỒNG",
+  "meaning": "đồng thau",
+  "readings": [
+   "dou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "般",
+  "hanViet": "BAN/ BẢN",
+  "meaning": "dời đi, tổng quát, thông thường",
+  "readings": [
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "導",
+  "hanViet": "ĐẠO",
+  "meaning": "hướng dẫn, lãnh đạo",
+  "readings": [
+   "tou",
+   "michibiku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "販",
+  "hanViet": "PHIẾN",
+  "meaning": "bán, buôn bán",
+  "readings": [
+   "han"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "溶",
+  "hanViet": "DUNG",
+  "meaning": "tan chảy, làm tan chảy",
+  "readings": [
+   "toku",
+   "you",
+   "tokeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "番",
+  "hanViet": "PHIÊN",
+  "meaning": "số, thứ tự, để ý",
+  "readings": [
+   "ban"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "毒",
+  "hanViet": "ĐỘC",
+  "meaning": "độc tố",
+  "readings": [
+   "doku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "晩",
+  "hanViet": "VÃN",
+  "meaning": "buổi tối",
+  "readings": [
+   "ban"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "独",
+  "hanViet": "ĐỘC",
+  "meaning": "một mình",
+  "readings": [
+   "doku",
+   "hitori"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "非",
+  "hanViet": "PHI",
+  "meaning": "trái, không",
+  "readings": [
+   "hi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "届",
+  "hanViet": "GIỚI",
+  "meaning": "chuyển đến nơi, đạt đến",
+  "readings": [
+   "todoku",
+   "todokeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "匹",
+  "hanViet": "THẤT",
+  "meaning": "đơn chiếc, đơn vị đếm con vật nhỏ",
+  "readings": [
+   "hiki",
+   "hitsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "飛",
+  "hanViet": "PHI",
+  "meaning": "bay, cho bay",
+  "readings": [
+   "tobasu",
+   "hi",
+   "tobu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "筆",
+  "hanViet": "BÚT",
+  "meaning": "bút, viết",
+  "readings": [
+   "hitsu",
+   "fude"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "留",
+  "hanViet": "LƯU",
+  "meaning": "ở lại, lưu giữ",
+  "readings": [
+   "tomeru",
+   "ryuu",
+   "ru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "兵",
+  "hanViet": "BINH",
+  "meaning": "binh lính",
+  "readings": [
+   "hyou",
+   "hei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "泊",
+  "hanViet": "BẠC",
+  "meaning": "ở lại qua đêm, trọ lại",
+  "readings": [
+   "tomaru",
+   "tomeru",
+   "haku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "秒",
+  "hanViet": "MIỂU",
+  "meaning": "một giây",
+  "readings": [
+   "byou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "富",
+  "hanViet": "PHÚ",
+  "meaning": "giàu có",
+  "readings": [
+   "fuu",
+   "fu",
+   "tomu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "貧",
+  "hanViet": "BẦN",
+  "meaning": "nghèo khó",
+  "readings": [
+   "hin",
+   "bin",
+   "mazushii"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "瓶",
+  "hanViet": "BÌNH",
+  "meaning": "bình, chai lọ",
+  "readings": [
+   "bin",
+   "kame"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "療",
+  "hanViet": "LIỆU",
+  "meaning": "điều trị",
+  "readings": [
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "府",
+  "hanViet": "PHỦ",
+  "meaning": "công sở, thủ phủ",
+  "readings": [
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "輪",
+  "hanViet": "LUÂN",
+  "meaning": "bánh xe, chiếc nhẫn",
+  "readings": [
+   "rin",
+   "wa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "婦",
+  "hanViet": "PHỤ",
+  "meaning": "đàn bà, vợ",
+  "readings": [
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "類",
+  "hanViet": "LOẠI",
+  "meaning": "chủng loại",
+  "readings": [
+   "rui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "符",
+  "hanViet": "PHÙ",
+  "meaning": "dấu hiệu, bùa",
+  "readings": [
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "令",
+  "hanViet": "LỆNH",
+  "meaning": "mệnh lệnh, sai khiến",
+  "readings": [
+   "rei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "普",
+  "hanViet": "PHỔ",
+  "meaning": "phổ biến, rộng khắp",
+  "readings": [
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "零",
+  "hanViet": "LINH",
+  "meaning": "số không",
+  "readings": [
+   "rei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "膚",
+  "hanViet": "PHU",
+  "meaning": "lớp da",
+  "readings": [
+   "fu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "齢",
+  "hanViet": "LINH",
+  "meaning": "tuổi",
+  "readings": [
+   "rei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "部",
+  "hanViet": "BỘ",
+  "meaning": "bộ phận",
+  "readings": [
+   "bu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "歴",
+  "hanViet": "LỊCH",
+  "meaning": "lịch sử, thành tích",
+  "readings": [
+   "reki"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "武",
+  "hanViet": "VŨ",
+  "meaning": "vũ trang",
+  "readings": [
+   "bu",
+   "mu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "列",
+  "hanViet": "LIỆT",
+  "meaning": "hàng lối, đếm hàng",
+  "readings": [
+   "retsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "舞",
+  "hanViet": "VŨ",
+  "meaning": "múa, nhảy",
+  "readings": [
+   "bu",
+   "mau",
+   "mai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "労",
+  "hanViet": "LAO",
+  "meaning": "lao động",
+  "readings": [
+   "rou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "封",
+  "hanViet": "PHONG",
+  "meaning": "đóng kín, vua ban",
+  "readings": [
+   "fuu",
+   "hou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "録",
+  "hanViet": "LỤC",
+  "meaning": "ghi, sao chép, mục lục",
+  "readings": [
+   "roku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "福",
+  "hanViet": "PHÚC",
+  "meaning": "hạnh phúc, may mắn",
+  "readings": [
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "論",
+  "hanViet": "LUẬN",
+  "meaning": "bàn thảo, luận văn, lý thuyết",
+  "readings": [
+   "ron"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "副",
+  "hanViet": "PHÓ",
+  "meaning": "phó, phụ",
+  "readings": [
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "湾",
+  "hanViet": "LOAN",
+  "meaning": "vịnh",
+  "readings": [
+   "wan"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "復",
+  "hanViet": "PHỤC",
+  "meaning": "quay lại, trở về",
+  "readings": [
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "他",
+  "hanViet": "THA",
+  "meaning": "cái khác, ngoài ra",
+  "readings": [
+   "ta",
+   "hoka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "複",
+  "hanViet": "PHỨC",
+  "meaning": "phức tạp, gấp đôi",
+  "readings": [
+   "fuku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "伝",
+  "hanViet": "TRUYỀN",
+  "meaning": "truyền đạt, chuyển giao",
+  "readings": [
+   "den",
+   "tsutau",
+   "tsutaeru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "防",
+  "hanViet": "PHÒNG",
+  "meaning": "phòng vệ, phòng ngừa",
+  "readings": [
+   "fusegu",
+   "bou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "顔",
+  "hanViet": "NHAN",
+  "meaning": "khuôn mặt",
+  "readings": [
+   "gan",
+   "kao"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "沸",
+  "hanViet": "PHẤT/ PHÍ",
+  "meaning": "sôi, đun sôi",
+  "readings": [
+   "futsu",
+   "waku",
+   "wakasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "団",
+  "hanViet": "ĐOÀN",
+  "meaning": "nhóm",
+  "readings": [
+   "dan",
+   "ton"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "仏",
+  "hanViet": "PHẬT P",
+  "meaning": "hật",
+  "readings": [
+   "butsu",
+   "hotoke"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "対",
+  "hanViet": "ĐỐI",
+  "meaning": "so sánh, đối lại",
+  "readings": [
+   "tai",
+   "tsui"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "報",
+  "hanViet": "BÁO",
+  "meaning": "thông báo, ban thưởng",
+  "readings": [
+   "hou",
+   "mukuiru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "舟",
+  "hanViet": "CHU/ CHÂU",
+  "meaning": "thuyền tàu",
+  "readings": [
+   "shuu",
+   "fune",
+   "funa"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "豊",
+  "hanViet": "PHONG",
+  "meaning": "phong phú, giàu có",
+  "readings": [
+   "hou",
+   "yutaka"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "雲",
+  "hanViet": "VÂN",
+  "meaning": "mây",
+  "readings": [
+   "wan",
+   "kumo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "貿",
+  "hanViet": "MẬU",
+  "meaning": "mậu dịch, buôn bán",
+  "readings": [
+   "bou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "巨",
+  "hanViet": "CỰ",
+  "meaning": "to lớn",
+  "readings": [
+   "kyo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "忘",
+  "hanViet": "VONG",
+  "meaning": "quên",
+  "readings": [
+   "bou",
+   "wasureru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "棒",
+  "hanViet": "BÀNG",
+  "meaning": "cây gậy",
+  "readings": [
+   "bou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "坊",
+  "hanViet": "PHƯỜNG",
+  "meaning": "tu sĩ Phật giáo, con trai",
+  "readings": [
+   "bou",
+   "botsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "帽",
+  "hanViet": "MẠO",
+  "meaning": "mũ, nón",
+  "readings": [
+   "bou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "欲",
+  "hanViet": "DỤC",
+  "meaning": "ao ước, thích",
+  "readings": [
+   "hoshii",
+   "yoku",
+   "hossuru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "磨",
+  "hanViet": "MA",
+  "meaning": "mài, đánh bóng",
+  "readings": [
+   "ma",
+   "migaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "枚",
+  "hanViet": "MAI",
+  "meaning": "đơn vị đếm vật mỏng",
+  "readings": [
+   "mai"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "迷",
+  "hanViet": "MÊ",
+  "meaning": "lạc lối, mê hoặc",
+  "readings": [
+   "mayou",
+   "mei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "満",
+  "hanViet": "MÃN",
+  "meaning": "đầy đủ",
+  "readings": [
+   "man",
+   "michiru",
+   "mitasu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "未",
+  "hanViet": "VỊ",
+  "meaning": "chưa",
+  "readings": [
+   "mi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "乱",
+  "hanViet": "LOẠN",
+  "meaning": "rối loạn, lộn xộn",
+  "readings": [
+   "midasu",
+   "ran",
+   "midareru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "緑",
+  "hanViet": "LỤC",
+  "meaning": "màu xanh lá cây, cây xanh",
+  "readings": [
+   "midori",
+   "ryoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "夢",
+  "hanViet": "MỘNG",
+  "meaning": "giấc mơ, ước mơ",
+  "readings": [
+   "mu",
+   "yume"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "娘",
+  "hanViet": "NƯƠNG",
+  "meaning": "con gái (của mình)",
+  "readings": [
+   "musume"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "綿",
+  "hanViet": "MIÊN",
+  "meaning": "bông vải",
+  "readings": [
+   "men",
+   "wata"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "戻",
+  "hanViet": "LỆ",
+  "meaning": "quay lại",
+  "readings": [
+   "modosu",
+   "rei",
+   "modoru"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "約",
+  "hanViet": "ƯỚC",
+  "meaning": "hứa, hợp đồng",
+  "readings": [
+   "yaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "由",
+  "hanViet": "DO",
+  "meaning": "lý do",
+  "readings": [
+   "yu",
+   "yuu",
+   "yoshi"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "輸",
+  "hanViet": "THÂU",
+  "meaning": "gửi, chuyên chở",
+  "readings": [
+   "yu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "郵",
+  "hanViet": "BƯU",
+  "meaning": "thư tín, bưu điện",
+  "readings": [
+   "yuu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "予",
+  "hanViet": "DỰ",
+  "meaning": "liệu trước",
+  "readings": [
+   "yo"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "良",
+  "hanViet": "LƯƠNG",
+  "meaning": "tốt",
+  "readings": [
+   "yoi",
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "陽",
+  "hanViet": "DƯƠNG",
+  "meaning": "mặt trời, dương tính",
+  "readings": [
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "容",
+  "hanViet": "DUNG",
+  "meaning": "dung nhan, chứa đựng",
+  "readings": [
+   "you"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "翌",
+  "hanViet": "DỰC",
+  "meaning": "kế tiếp, sau đó",
+  "readings": [
+   "yoku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "礼",
+  "hanViet": "LỄ",
+  "meaning": "lễ nghĩa",
+  "readings": [
+   "rai",
+   "rei"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "陸",
+  "hanViet": "LỤC",
+  "meaning": "đất liền",
+  "readings": [
+   "riku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "律",
+  "hanViet": "LUẬT",
+  "meaning": "luật lệ",
+  "readings": [
+   "richi",
+   "ritsu"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "略",
+  "hanViet": "LƯỢC",
+  "meaning": "tóm gọn, lược bỏ, chiến lược",
+  "readings": [
+   "ryaku"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "両",
+  "hanViet": "LƯỠNG",
+  "meaning": "cả hai",
+  "readings": [
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "領",
+  "hanViet": "LÃNH/ LĨNH",
+  "meaning": "quản trị, thống lĩnh",
+  "readings": [
+   "ryou"
+  ],
+  "needsReview": false
+ },
+ {
+  "character": "了",
+  "hanViet": "LIỄU",
+  "meaning": "kết thúc, hoàn tất",
+  "readings": [
+   "ryou"
+  ],
+  "needsReview": false
+ }
+]

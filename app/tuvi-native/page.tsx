@@ -1,4 +1,4 @@
-import { redirect } from "next/navigation";
+﻿import { redirect } from "next/navigation";
 import { getIsAdmin } from "@/utils/supabase/queries";
 import Link from "next/link";
 
@@ -16,7 +16,7 @@ export default async function TuViNativePage() {
           href="/dashboard"
           className="inline-flex items-center gap-2 text-stone-300 hover:text-white"
         >
-          ? Quay l?i
+          ← Quay lại
         </Link>
       </div>
       <iframe

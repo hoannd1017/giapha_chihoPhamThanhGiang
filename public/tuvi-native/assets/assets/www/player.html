@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Flash Player</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; -webkit-user-select:none; user-select:none; }
+    html, body { width:100%; height:100%; overflow:hidden; background:#000; position:fixed; }
+    #container { width:100%; height:100%; display:flex; align-items:center; justify-content:center; }
+    ruffle-player { width:100% !important; height:100% !important; }
+    #status { color:#fff; font-family:system-ui,sans-serif; text-align:center; padding:24px; font-size:16px; }
+  </style>
+</head>
+<body>
+  <div id="container"><div id="status">Đang tải game...</div></div>
+  <script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.RufflePlayer.config = {
+      publicPath: "../ruffle/",
+      autoplay: "on",
+      unmuteOverlay: "hidden",
+      backgroundColor: "#000000",
+      letterbox: "on",
+      warnOnUnsupportedContent: false,
+      contextMenu: "off",
+      scale: "showAll",
+      preferredRenderer: "webgl"
+    };
+  </script>
+  <script src="../ruffle/ruffle.js"></script>
+  <script>
+    function showError(msg) {
+      var s = document.getElementById("status");
+      s.style.display = "block";
+      s.innerHTML = msg;
+    }
+    function getSwf() {
+      var q = new URLSearchParams(window.location.search);
+      return q.get("swf") || "choinhau.swf";
+    }
+    window.addEventListener("load", function() {
+      try {
+        if (!window.RufflePlayer || !window.RufflePlayer.newest) {
+          showError("Ruffle không khởi tạo được.");
+          return;
+        }
+        var swf = getSwf();
+        var ruffle = window.RufflePlayer.newest();
+        var player = ruffle.createPlayer();
+        var container = document.getElementById("container");
+        document.getElementById("status").style.display = "none";
+        container.appendChild(player);
+        player.style.width = "100%";
+        player.style.height = "100%";
+        // SWF path relative to www/ -> games/
+        player.load("../games/" + swf).then(function() {
+          console.log("Loaded:", swf);
+        }).catch(function(err) {
+          console.error(err);
+          showError("Không thể tải game.<br>" + (err && err.message ? err.message : "") + "<br>File: " + swf);
+        });
+      } catch (e) {
+        showError("Lỗi: " + e.message);
+      }
+    });
+  </script>
+</body>
+</html>

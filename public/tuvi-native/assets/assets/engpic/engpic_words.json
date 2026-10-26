@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "english": "airplane",
+    "vietnamese": "máy bay",
+    "image": "assets/engpic/images/airplane.png",
+    "category": "Transportation",
+    "level": "beginner"
+  },
+  {
+    "id": 2,
+    "english": "angel",
+    "vietnamese": "thiên thần",
+    "image": "assets/engpic/images/angel.png",
+    "category": "People",
+    "level": "beginner"
+  },
+  {
+    "id": 3,
+    "english": "apple",
+    "vietnamese": "quả táo",
+    "image": "assets/engpic/images/apple.png",
+    "category": "Fruit",
+    "level": "beginner"
+  },
+  {
+    "id": 4,
+    "english": "areca",
+    "vietnamese": "quả cau",
+    "image": "assets/engpic/images/areca.png",
+    "category": "Fruit",
+    "level": "beginner"
+  },
+  {
+    "id": 5,
+    "english": "ax",
+    "vietnamese": "cái búa",
+    "image": "assets/engpic/images/ax.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 6,
+    "english": "baby",
+    "vietnamese": "đứa trẻ",
+    "image": "assets/engpic/images/baby.png",
+    "category": "People",
+    "level": "beginner"
+  },
+  {
+    "id": 7,
+    "english": "bag",
+    "vietnamese": "túi",
+    "image": "assets/engpic/images/bag.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 8,
+    "english": "balloon",
+    "vietnamese": "quả bóng bay",
+    "image": "assets/engpic/images/balloon.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 9,
+    "english": "bamboo",
+    "vietnamese": "cây tre",
+    "image": "assets/engpic/images/bamboo.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 10,
+    "english": "banana",
+    "vietnamese": "quả chuối",
+    "image": "assets/engpic/images/banana.png",
+    "category": "Fruit",
+    "level": "beginner"
+  },
+  {
+    "id": 11,
+    "english": "basket",
+    "vietnamese": "giỏ",
+    "image": "assets/engpic/images/basket.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 12,
+    "english": "battery",
+    "vietnamese": "pin",
+    "image": "assets/engpic/images/battery.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 13,
+    "english": "bear",
+    "vietnamese": "con gấu",
+    "image": "assets/engpic/images/bear.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 14,
+    "english": "bed",
+    "vietnamese": "cái giường",
+    "image": "assets/engpic/images/bed.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 15,
+    "english": "bee",
+    "vietnamese": "con ong",
+    "image": "assets/engpic/images/bee.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 16,
+    "english": "beer",
+    "vietnamese": "bia rượu",
+    "image": "assets/engpic/images/beer.png",
+    "category": "Food",
+    "level": "beginner"
+  },
+  {
+    "id": 17,
+    "english": "bell",
+    "vietnamese": "chuông",
+    "image": "assets/engpic/images/bell.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 18,
+    "english": "belt",
+    "vietnamese": "thắt lưng",
+    "image": "assets/engpic/images/belt.png",
+    "category": "Clothes",
+    "level": "beginner"
+  },
+  {
+    "id": 19,
+    "english": "binoculars",
+    "vietnamese": "ống nhòm",
+    "image": "assets/engpic/images/binoculars.png",
+    "category": "School",
+    "level": "beginner"
+  },
+  {
+    "id": 20,
+    "english": "bird",
+    "vietnamese": "con chim",
+    "image": "assets/engpic/images/bird.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 21,
+    "english": "blanket",
+    "vietnamese": "chăn mền",
+    "image": "assets/engpic/images/blanket.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 22,
+    "english": "blouse",
+    "vietnamese": "áo cánh",
+    "image": "assets/engpic/images/blouse.png",
+    "category": "Clothes",
+    "level": "beginner"
+  },
+  {
+    "id": 23,
+    "english": "boat",
+    "vietnamese": "con thuyền",
+    "image": "assets/engpic/images/boat.png",
+    "category": "Transportation",
+    "level": "beginner"
+  },
+  {
+    "id": 24,
+    "english": "book",
+    "vietnamese": "cuốn sách",
+    "image": "assets/engpic/images/book.png",
+    "category": "School",
+    "level": "beginner"
+  },
+  {
+    "id": 25,
+    "english": "bottle",
+    "vietnamese": "chai",
+    "image": "assets/engpic/images/bottle.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 26,
+    "english": "bowl",
+    "vietnamese": "bát chén",
+    "image": "assets/engpic/images/bowl.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 27,
+    "english": "brain",
+    "vietnamese": "óc não",
+    "image": "assets/engpic/images/brain.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 28,
+    "english": "bread",
+    "vietnamese": "bánh mì",
+    "image": "assets/engpic/images/bread.png",
+    "category": "Food",
+    "level": "beginner"
+  },
+  {
+    "id": 29,
+    "english": "bridge",
+    "vietnamese": "cầu",
+    "image": "assets/engpic/images/bridge.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 30,
+    "english": "buffalo",
+    "vietnamese": "con trâu",
+    "image": "assets/engpic/images/buffalo.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 31,
+    "english": "bugle",
+    "vietnamese": "kèn",
+    "image": "assets/engpic/images/bugle.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 32,
+    "english": "building",
+    "vietnamese": "công trình",
+    "image": "assets/engpic/images/building.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 33,
+    "english": "bulb",
+    "vietnamese": "bóng đèn",
+    "image": "assets/engpic/images/bulb.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 34,
+    "english": "butterfly",
+    "vietnamese": "con bướm",
+    "image": "assets/engpic/images/butterfly.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 35,
+    "english": "button",
+    "vietnamese": "cúc",
+    "image": "assets/engpic/images/button.png",
+    "category": "Clothes",
+    "level": "beginner"
+  },
+  {
+    "id": 36,
+    "english": "cage",
+    "vietnamese": "cái lồng",
+    "image": "assets/engpic/images/cage.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 37,
+    "english": "cake",
+    "vietnamese": "bánh ngọt",
+    "image": "assets/engpic/images/cake.png",
+    "category": "Food",
+    "level": "beginner"
+  },
+  {
+    "id": 38,
+    "english": "calculator",
+    "vietnamese": "máy tính",
+    "image": "assets/engpic/images/calculator.png",
+    "category": "School",
+    "level": "beginner"
+  },
+  {
+    "id": 39,
+    "english": "camel",
+    "vietnamese": "con lạc đà",
+    "image": "assets/engpic/images/camel.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 40,
+    "english": "camera",
+    "vietnamese": "máy quay phim",
+    "image": "assets/engpic/images/camera.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 41,
+    "english": "candle",
+    "vietnamese": "cây nến",
+    "image": "assets/engpic/images/candle.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 42,
+    "english": "capsule",
+    "vietnamese": "bao con nhộng",
+    "image": "assets/engpic/images/capsule.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 43,
+    "english": "car",
+    "vietnamese": "xe hơi",
+    "image": "assets/engpic/images/car.png",
+    "category": "Transportation",
+    "level": "beginner"
+  },
+  {
+    "id": 44,
+    "english": "carrot",
+    "vietnamese": "củ cà rốt",
+    "image": "assets/engpic/images/carrot.png",
+    "category": "Vegetables",
+    "level": "beginner"
+  },
+  {
+    "id": 45,
+    "english": "cassette",
+    "vietnamese": "băng cassette",
+    "image": "assets/engpic/images/cassette.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 46,
+    "english": "cat",
+    "vietnamese": "con mèo",
+    "image": "assets/engpic/images/cat.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 47,
+    "english": "cauliflower",
+    "vietnamese": "súp lơ",
+    "image": "assets/engpic/images/cauliflower.png",
+    "category": "Vegetables",
+    "level": "beginner"
+  },
+  {
+    "id": 48,
+    "english": "chair",
+    "vietnamese": "cái ghế",
+    "image": "assets/engpic/images/chair.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 49,
+    "english": "chess",
+    "vietnamese": "cờ",
+    "image": "assets/engpic/images/chess.png",
+    "category": "School",
+    "level": "beginner"
+  },
+  {
+    "id": 50,
+    "english": "chicken",
+    "vietnamese": "gà",
+    "image": "assets/engpic/images/chicken.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 51,
+    "english": "chopsticks",
+    "vietnamese": "đũa",
+    "image": "assets/engpic/images/chopsticks.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 52,
+    "english": "cicada",
+    "vietnamese": "con ve",
+    "image": "assets/engpic/images/cicada.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 53,
+    "english": "cigarette",
+    "vietnamese": "thuốc lá",
+    "image": "assets/engpic/images/cigarette.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 54,
+    "english": "clock",
+    "vietnamese": "đồng hồ",
+    "image": "assets/engpic/images/clock.png",
+    "category": "Home",
+    "level": "beginner"
+  },
+  {
+    "id": 55,
+    "english": "clothes",
+    "vietnamese": "quần áo",
+    "image": "assets/engpic/images/clothes.png",
+    "category": "Clothes",
+    "level": "beginner"
+  },
+  {
+    "id": 56,
+    "english": "coat",
+    "vietnamese": "áo choàng",
+    "image": "assets/engpic/images/coat.png",
+    "category": "Clothes",
+    "level": "beginner"
+  },
+  {
+    "id": 57,
+    "english": "cockle",
+    "vietnamese": "sò",
+    "image": "assets/engpic/images/cockle.png",
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 58,
+    "english": "coconut",
+    "vietnamese": "quả dừa",
+    "image": "assets/engpic/images/coconut.png",
+    "category": "Fruit",
+    "level": "beginner"
+  },
+  {
+    "id": 59,
+    "english": "computer",
+    "vietnamese": "máy vi tính",
+    "image": "assets/engpic/images/computer.png",
+    "category": "School",
+    "level": "beginner"
+  },
+  {
+    "id": 60,
+    "english": "corn",
+    "vietnamese": "ngô bắp",
+    "image": "assets/engpic/images/corn.png",
+    "category": "Vegetables",
+    "level": "beginner"
+  },
+  {
+    "id": 61,
+    "english": "crab",
+    "vietnamese": "con cua",
+    "image": "assets/engpic/images/crab.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 62,
+    "english": "cricket",
+    "vietnamese": "con dế",
+    "image": "assets/engpic/images/cricket.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 63,
+    "english": "crow",
+    "vietnamese": "con quạ",
+    "image": "assets/engpic/images/crow.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 64,
+    "english": "cub",
+    "vietnamese": "tách chén",
+    "image": null,
+    "category": "Other",
+    "level": "beginner"
+  },
+  {
+    "id": 65,
+    "english": "cucumber",
+    "vietnamese": "quả dưa chuột",
+    "image": "assets/engpic/images/cucumber.png",
+    "category": "Vegetables",
+    "level": "beginner"
+  },
+  {
+    "id": 66,
+    "english": "custard-apple",
+    "vietnamese": "quả na",
+    "image": "assets/engpic/images/custard-apple.png",
+    "category": "Fruit",
+    "level": "beginner"
+  },
+  {
+    "id": 67,
+    "english": "dart",
+    "vietnamese": "phi tiêu",
+    "image": "assets/engpic/images/dart.png",
+    "category": "School",
+    "level": "beginner"
+  },
+  {
+    "id": 68,
+    "english": "fish",
+    "vietnamese": "con cá",
+    "image": "assets/engpic/images/fish.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 69,
+    "english": "ox",
+    "vietnamese": "con bò",
+    "image": "assets/engpic/images/ox.png",
+    "category": "Animals",
+    "level": "beginner"
+  },
+  {
+    "id": 70,
+    "english": "window",
+    "vietnamese": "cửa sổ",
+    "image": "assets/engpic/images/window.png",
+    "category": "Home",
+    "level": "beginner"
+  }
+]

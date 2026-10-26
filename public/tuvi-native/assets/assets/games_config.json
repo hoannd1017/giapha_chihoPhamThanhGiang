@@ -1,0 +1,16 @@
+[
+  {
+    "id": "choinhau",
+    "title": "Chơi Nhau",
+    "file": "choinhau.swf",
+    "description": "Game Flash cổ điển",
+    "color": "#FF6B35"
+  },
+  {
+    "id": "daovang7",
+    "title": "Đào Vàng 7",
+    "file": "daovang7.swf",
+    "description": "Đào vàng phiên bản 7",
+    "color": "#FFD700"
+  }
+]
