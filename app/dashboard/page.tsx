@@ -109,8 +109,8 @@ export default async function DashboardLaunchpad() {
       hoverColor: "hover:border-pink-400 hover:shadow-pink-100",
     },
     {
-      title: "Tu Vi DOS",
-      description: "Tu Vi DOS",
+      title: "Tử Vi Dos",
+      description: "Tử Vi Dos",
       icon: <Star className="size-8 text-indigo-600" />,
       href: "/tuvi",
       bgColor: "bg-indigo-50",
