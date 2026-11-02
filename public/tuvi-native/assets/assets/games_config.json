@@ -12,5 +12,12 @@
     "file": "daovang7.swf",
     "description": "Đào vàng phiên bản 7",
     "color": "#FFD700"
+  },
+  {
+    "id": "flyingbike1107",
+    "title": "Flying Bike 1107",
+    "file": "flyingbike1107.swf",
+    "description": "Game Flash cổ điển",
+    "color": "#4CAF50"
   }
 ]

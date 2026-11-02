@@ -10,10 +10,27 @@
     #container { width:100%; height:100%; display:flex; align-items:center; justify-content:center; }
     ruffle-player { width:100% !important; height:100% !important; }
     #status { color:#fff; font-family:system-ui,sans-serif; text-align:center; padding:24px; font-size:16px; }
+    #vk { position:absolute; left:0; right:0; bottom:0; display:none; justify-content:center; align-items:center;
+      gap:6px; padding:6px 8px; padding-bottom:calc(6px + env(safe-area-inset-bottom));
+      background:rgba(0,0,0,0.55); z-index:9998; user-select:none; -webkit-user-select:none;
+      -webkit-touch-callout:none; touch-action:manipulation; flex-wrap:wrap; }
+    #vk button { min-width:52px; height:46px; padding:0; font-size:20px; line-height:1;
+      color:#fff; background:rgba(255,255,255,0.16); border:1px solid rgba(255,255,255,0.35);
+      border-radius:8px; touch-action:manipulation; }
+    #vk button.wide { min-width:64px; font-size:14px; font-weight:600; }
+    #vk button:active { background:rgba(255,255,255,0.42); }
+    #vk button.fire { background:rgba(244,67,54,0.35); border-color:rgba(244,67,54,0.6); }
   </style>
 </head>
 <body>
   <div id="container"><div id="status">Đang tải game...</div></div>
+  <div id="vk">
+    <button type="button" aria-label="Trái" onpointerdown="vkDown(event,37,'ArrowLeft')" onpointerup="vkUp(event,37,'ArrowLeft')" onpointerleave="vkUp(event,37,'ArrowLeft')">&larr;</button>
+    <button type="button" aria-label="Lên" onpointerdown="vkDown(event,38,'ArrowUp')" onpointerup="vkUp(event,38,'ArrowUp')" onpointerleave="vkUp(event,38,'ArrowUp')">&uarr;</button>
+    <button type="button" aria-label="Xuống" onpointerdown="vkDown(event,40,'ArrowDown')" onpointerup="vkUp(event,40,'ArrowDown')" onpointerleave="vkUp(event,40,'ArrowDown')">&darr;</button>
+    <button type="button" aria-label="Phải" onpointerdown="vkDown(event,39,'ArrowRight')" onpointerup="vkUp(event,39,'ArrowRight')" onpointerleave="vkUp(event,39,'ArrowRight')">&rarr;</button>
+    <button type="button" class="wide fire" aria-label="Bắn" onpointerdown="vkDown(event,32,' ')" onpointerup="vkUp(event,32,' ')" onpointerleave="vkUp(event,32,' ')">Bắn</button>
+  </div>
   <script>
     window.RufflePlayer = window.RufflePlayer || {};
     window.RufflePlayer.config = {
@@ -30,6 +47,7 @@
   </script>
   <script src="../ruffle/ruffle.js"></script>
   <script>
+    var rufflePlayer = null;
     function showError(msg) {
       var s = document.getElementById("status");
       s.style.display = "block";
@@ -39,6 +57,41 @@
       var q = new URLSearchParams(window.location.search);
       return q.get("swf") || "choinhau.swf";
     }
+    function isFlyingBike() {
+      return getSwf().toLowerCase().indexOf("flyingbike") >= 0;
+    }
+    function focusPlayer() {
+      try {
+        if (rufflePlayer && rufflePlayer.focus) rufflePlayer.focus();
+      } catch (e) {}
+      try {
+        var c = document.querySelector("ruffle-player");
+        if (c) { if (!c.hasAttribute("tabindex")) c.setAttribute("tabindex", "0"); c.focus(); }
+      } catch (e) {}
+    }
+    function dispatchKey(code, key, type) {
+      var ev;
+      try {
+        ev = new KeyboardEvent(type, { key: key, code: key === " " ? "Space" : key, keyCode: code, which: code, bubbles: true, cancelable: true });
+      } catch (e) {
+        ev = document.createEvent("KeyboardEvent");
+        ev.initKeyboardEvent(type, true, true, window, key, 0, "", false, "");
+      }
+      try { window.dispatchEvent(ev); } catch (e) {}
+      try { document.dispatchEvent(ev); } catch (e) {}
+      try { if (rufflePlayer && rufflePlayer.dispatchEvent) rufflePlayer.dispatchEvent(ev); } catch (e) {}
+      focusPlayer();
+    }
+    function vkDown(e, code, key) {
+      if (e) { e.preventDefault(); e.stopPropagation(); }
+      dispatchKey(code, key, "keydown");
+      return false;
+    }
+    function vkUp(e, code, key) {
+      if (e) { e.preventDefault(); e.stopPropagation(); }
+      dispatchKey(code, key, "keyup");
+      return false;
+    }
     window.addEventListener("load", function() {
       try {
         if (!window.RufflePlayer || !window.RufflePlayer.newest) {
@@ -47,14 +100,17 @@
         }
         var swf = getSwf();
         var ruffle = window.RufflePlayer.newest();
-        var player = ruffle.createPlayer();
+        rufflePlayer = ruffle.createPlayer();
         var container = document.getElementById("container");
         document.getElementById("status").style.display = "none";
-        container.appendChild(player);
-        player.style.width = "100%";
-        player.style.height = "100%";
+        container.appendChild(rufflePlayer);
+        rufflePlayer.style.width = "100%";
+        rufflePlayer.style.height = "100%";
+        if (isFlyingBike()) {
+          document.getElementById("vk").style.display = "flex";
+        }
         // SWF path relative to www/ -> games/
-        player.load("../games/" + swf).then(function() {
+        rufflePlayer.load("../games/" + swf).then(function() {
           console.log("Loaded:", swf);
         }).catch(function(err) {
           console.error(err);
