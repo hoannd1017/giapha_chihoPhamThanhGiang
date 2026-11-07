@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Trash2 } from "lucide-react";
+import { AdminUserData } from "@/types";
 
 export interface TuViChartRow {
   user_id: string;
@@ -9,12 +10,16 @@ export interface TuViChartRow {
 }
 
 export default function TuViChartsManager({
+  initialUsers,
   initialCharts,
 }: {
+  initialUsers: AdminUserData[];
   initialCharts: TuViChartRow[];
 }) {
   const [charts, setCharts] = useState<TuViChartRow[]>(initialCharts);
   const [deleting, setDeleting] = useState<string | null>(null);
+
+  const chartMap = new Map(charts.map((c) => [c.user_id, c.updated_at]));
 
   const handleDelete = async (userId: string) => {
     if (!confirm("Xóa lá số của user này?")) return;
@@ -27,15 +32,15 @@ export default function TuViChartsManager({
         setCharts((prev) => prev.filter((c) => c.user_id !== userId));
       } else {
         const body = await res.json().catch(() => ({}));
-        alert(body?.error ?? "Xóa thất bại");
+        alert((body as { error?: string })?.error ?? "Xóa thất bại");
       }
     } finally {
       setDeleting(null);
     }
   };
 
-  if (charts.length === 0) {
-    return <p className="text-stone-500">Chưa có lá số nào được lưu.</p>;
+  if (initialUsers.length === 0) {
+    return <p className="text-stone-500">Chưa có tài khoản nào.</p>;
   }
 
   return (
@@ -43,30 +48,51 @@ export default function TuViChartsManager({
       <table className="min-w-full text-sm">
         <thead>
           <tr className="text-left text-stone-500 border-b">
-            <th className="py-2 pr-4">User ID</th>
+            <th className="py-2 pr-4">Email / User</th>
+            <th className="py-2 pr-4">Role</th>
+            <th className="py-2 pr-4">Lá số</th>
             <th className="py-2 pr-4">Cập nhật</th>
             <th className="py-2">Thao tác</th>
           </tr>
         </thead>
         <tbody>
-          {charts.map((c) => (
-            <tr key={c.user_id} className="border-b">
-              <td className="py-2 pr-4 font-mono text-xs">{c.user_id}</td>
-              <td className="py-2 pr-4">
-                {c.updated_at ? new Date(c.updated_at).toLocaleString() : "-"}
-              </td>
-              <td className="py-2">
-                <button
-                  onClick={() => handleDelete(c.user_id)}
-                  disabled={deleting === c.user_id}
-                  className="inline-flex items-center gap-1 text-rose-600 hover:text-rose-800 disabled:opacity-50"
-                >
-                  <Trash2 className="size-4" />
-                  Xóa
-                </button>
-              </td>
-            </tr>
-          ))}
+          {initialUsers.map((u) => {
+            const updatedAt = chartMap.get(u.id) ?? null;
+            const hasChart = chartMap.has(u.id);
+            return (
+              <tr key={u.id} className="border-b">
+                <td className="py-2 pr-4">
+                  <div className="font-medium">{u.email}</div>
+                  <div className="font-mono text-xs text-stone-400">{u.id}</div>
+                </td>
+                <td className="py-2 pr-4">{u.role}</td>
+                <td className="py-2 pr-4">
+                  {hasChart ? (
+                    <span className="text-emerald-600 font-medium">Đã lưu</span>
+                  ) : (
+                    <span className="text-stone-400">Chưa có</span>
+                  )}
+                </td>
+                <td className="py-2 pr-4">
+                  {updatedAt ? new Date(updatedAt).toLocaleString() : "-"}
+                </td>
+                <td className="py-2">
+                  {hasChart ? (
+                    <button
+                      onClick={() => handleDelete(u.id)}
+                      disabled={deleting === u.id}
+                      className="inline-flex items-center gap-1 text-rose-600 hover:text-rose-800 disabled:opacity-50"
+                    >
+                      <Trash2 className="size-4" />
+                      Xóa
+                    </button>
+                  ) : (
+                    <span className="text-stone-300">-</span>
+                  )}
+                </td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </div>
