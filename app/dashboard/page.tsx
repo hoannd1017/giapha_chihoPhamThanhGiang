@@ -165,6 +165,15 @@ export default async function DashboardLaunchpad() {
       borderColor: "border-indigo-200/60",
       hoverColor: "hover:border-indigo-400 hover:shadow-indigo-100",
     },
+    {
+      title: "Lá số Tử Vi",
+      description: "Quản lý lá số đã lưu theo tài khoản",
+      icon: <Star className="size-8 text-rose-600" />,
+      href: "/dashboard/tuvi-charts",
+      bgColor: "bg-rose-50",
+      borderColor: "border-rose-200/60",
+      hoverColor: "hover:border-rose-400 hover:shadow-rose-100",
+    },
   ];
 
   return (

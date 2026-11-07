@@ -3,6 +3,9 @@
 ## UI
 For any UI work, follow @DESIGN.md strictly. Don't invent new tokens.
 
+## Ngôn ngữ terminal
+- Luôn dùng tiếng Việt trong mọi tương tác và output trên terminal.
+
 ## TRIỂN KHAI LOCAL WEB – giapha_chihoPhamThanhGiang
 
 Mục tiêu: chạy được web Gia Phả OS (Next.js 16 + TypeScript) local, kết nối Supabase để có đầy đủ chức năng đăng ký/đăng nhập, phân quyền và lưu trữ dữ liệu gia phả.
